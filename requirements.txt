@@ -1,0 +1,9 @@
+streamlit
+openai
+langchain
+faiss-cpu
+pandas
+pathway
+python-dotenv
+requests
+

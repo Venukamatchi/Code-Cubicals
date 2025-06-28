@@ -1,0 +1,990 @@
+{"Item_ID": "34-291-4939", "Name": "Digestive Biscuit", "Expiration_Date": "2/13/2025", "Warehouse_Location": "983 Sommers Circle", "Expiring_Soon": false, "Stock_Quantity": 113, "Aisle": "E", "Shelf": 7}
+{"Item_ID": "36-372-2295", "Name": "Basmati Rice", "Expiration_Date": "4/14/2025", "Warehouse_Location": "98 Bartillon Trail", "Expiring_Soon": false, "Stock_Quantity": 166, "Aisle": "P", "Shelf": 8}
+{"Item_ID": "39-810-2042", "Name": "Rice Flour", "Expiration_Date": "9/5/2025", "Warehouse_Location": "47817 Oneill Park", "Expiring_Soon": false, "Stock_Quantity": 176, "Aisle": "Q", "Shelf": 2}
+{"Item_ID": "09-335-7793", "Name": "Powdered Sugar", "Expiration_Date": "6/1/2025", "Warehouse_Location": "5649 Vidon Plaza", "Expiring_Soon": false, "Stock_Quantity": 6, "Aisle": "L", "Shelf": 9}
+{"Item_ID": "68-636-4774", "Name": "Carrot", "Expiration_Date": "2/19/2025", "Warehouse_Location": "7744 Oxford Pass", "Expiring_Soon": false, "Stock_Quantity": 56, "Aisle": "L", "Shelf": 7}
+{"Item_ID": "06-955-3428", "Name": "Black Rice", "Expiration_Date": "9/22/2025", "Warehouse_Location": "3296 Walton Court", "Expiring_Soon": false, "Stock_Quantity": 142, "Aisle": "Y", "Shelf": 7}
+{"Item_ID": "82-948-2298", "Name": "Kiwi", "Expiration_Date": "11/21/2025", "Warehouse_Location": "555 Butternut Hill", "Expiring_Soon": false, "Stock_Quantity": 69, "Aisle": "H", "Shelf": 9}
+{"Item_ID": "40-810-9261", "Name": "Green Coffee", "Expiration_Date": "5/23/2025", "Warehouse_Location": "3 Raven Court", "Expiring_Soon": false, "Stock_Quantity": 183, "Aisle": "M", "Shelf": 5}
+{"Item_ID": "48-461-3742", "Name": "Kiwi", "Expiration_Date": "1/23/2025", "Warehouse_Location": "42719 Milwaukee Avenue", "Expiring_Soon": false, "Stock_Quantity": 5, "Aisle": "R", "Shelf": 4}
+{"Item_ID": "35-621-2546", "Name": "Swiss Cheese", "Expiration_Date": "2/15/2025", "Warehouse_Location": "3 Fairfield Center", "Expiring_Soon": false, "Stock_Quantity": 144, "Aisle": "W", "Shelf": 6}
+{"Item_ID": "65-368-2479", "Name": "Egg (Turkey)", "Expiration_Date": "10/7/2025", "Warehouse_Location": "231 Merry Pass", "Expiring_Soon": false, "Stock_Quantity": 154, "Aisle": "J", "Shelf": 9}
+{"Item_ID": "69-468-5468", "Name": "Sourdough Bread", "Expiration_Date": "11/26/2025", "Warehouse_Location": "72083 Acker Crossing", "Expiring_Soon": false, "Stock_Quantity": 2, "Aisle": "X", "Shelf": 6}
+{"Item_ID": "37-610-1999", "Name": "Halibut", "Expiration_Date": "10/19/2025", "Warehouse_Location": "3 John Wall Point", "Expiring_Soon": false, "Stock_Quantity": 20, "Aisle": "Q", "Shelf": 9}
+{"Item_ID": "83-625-3618", "Name": "Asparagus", "Expiration_Date": "7/4/2025", "Warehouse_Location": "2696 Katie Road", "Expiring_Soon": false, "Stock_Quantity": 69, "Aisle": "M", "Shelf": 7}
+{"Item_ID": "76-070-1411", "Name": "Evaporated Milk", "Expiration_Date": "2/14/2025", "Warehouse_Location": "87578 Stoughton Parkway", "Expiring_Soon": false, "Stock_Quantity": 145, "Aisle": "X", "Shelf": 8}
+{"Item_ID": "08-196-2703", "Name": "Peas", "Expiration_Date": "10/17/2025", "Warehouse_Location": "56 Esker Park", "Expiring_Soon": false, "Stock_Quantity": 100, "Aisle": "B", "Shelf": 6}
+{"Item_ID": "91-848-0606", "Name": "Onion", "Expiration_Date": "10/28/2025", "Warehouse_Location": "13 Corscot Hill", "Expiring_Soon": false, "Stock_Quantity": 118, "Aisle": "Y", "Shelf": 8}
+{"Item_ID": "42-879-9478", "Name": "Anchovies", "Expiration_Date": "8/22/2025", "Warehouse_Location": "86 Porter Junction", "Expiring_Soon": false, "Stock_Quantity": 31, "Aisle": "Q", "Shelf": 10}
+{"Item_ID": "08-114-3922", "Name": "Anchovies", "Expiration_Date": "2/15/2025", "Warehouse_Location": "709 Vidon Avenue", "Expiring_Soon": false, "Stock_Quantity": 164, "Aisle": "I", "Shelf": 4}
+{"Item_ID": "88-746-9468", "Name": "Onion", "Expiration_Date": "11/14/2025", "Warehouse_Location": "82737 Ryan Place", "Expiring_Soon": false, "Stock_Quantity": 13, "Aisle": "O", "Shelf": 9}
+{"Item_ID": "53-151-5726", "Name": "Grapes", "Expiration_Date": "4/20/2025", "Warehouse_Location": "84239 Meadow Vale Trail", "Expiring_Soon": false, "Stock_Quantity": 37, "Aisle": "Q", "Shelf": 3}
+{"Item_ID": "82-977-7752", "Name": "Spinach", "Expiration_Date": "11/4/2025", "Warehouse_Location": "58 Corscot Terrace", "Expiring_Soon": false, "Stock_Quantity": 130, "Aisle": "X", "Shelf": 3}
+{"Item_ID": "92-837-8839", "Name": "Vegetable Oil", "Expiration_Date": "8/18/2025", "Warehouse_Location": "95 Lerdahl Park", "Expiring_Soon": false, "Stock_Quantity": 171, "Aisle": "P", "Shelf": 4}
+{"Item_ID": "25-010-9478", "Name": "Eggplant", "Expiration_Date": "7/31/2025", "Warehouse_Location": "357 Maple Park", "Expiring_Soon": false, "Stock_Quantity": 98, "Aisle": "T", "Shelf": 4}
+{"Item_ID": "07-846-4804", "Name": "Jasmine Rice", "Expiration_Date": "9/25/2025", "Warehouse_Location": "2 Fair Oaks Pass", "Expiring_Soon": false, "Stock_Quantity": 61, "Aisle": "P", "Shelf": 7}
+{"Item_ID": "22-778-3553", "Name": "Cheddar Cheese", "Expiration_Date": "2/9/2025", "Warehouse_Location": "0782 Dapin Avenue", "Expiring_Soon": false, "Stock_Quantity": 116, "Aisle": "H", "Shelf": 6}
+{"Item_ID": "44-546-5713", "Name": "Peach", "Expiration_Date": "2/13/2025", "Warehouse_Location": "832 Goodland Alley", "Expiring_Soon": false, "Stock_Quantity": 142, "Aisle": "R", "Shelf": 4}
+{"Item_ID": "56-635-6764", "Name": "Sourdough Bread", "Expiration_Date": "8/5/2025", "Warehouse_Location": "744 Green Center", "Expiring_Soon": false, "Stock_Quantity": 64, "Aisle": "Q", "Shelf": 7}
+{"Item_ID": "27-783-5470", "Name": "Feta Cheese", "Expiration_Date": "3/16/2025", "Warehouse_Location": "6 Tony Junction", "Expiring_Soon": false, "Stock_Quantity": 64, "Aisle": "X", "Shelf": 6}
+{"Item_ID": "06-068-6793", "Name": "Buttermilk", "Expiration_Date": "8/15/2025", "Warehouse_Location": "25 Nancy Place", "Expiring_Soon": false, "Stock_Quantity": 97, "Aisle": "F", "Shelf": 7}
+{"Item_ID": "99-048-8310", "Name": "Tomato", "Expiration_Date": "5/27/2025", "Warehouse_Location": "43 Lakewood Junction", "Expiring_Soon": false, "Stock_Quantity": 188, "Aisle": "W", "Shelf": 5}
+{"Item_ID": "53-930-2215", "Name": "Egg (Goose)", "Expiration_Date": "7/9/2025", "Warehouse_Location": "292 Utah Street", "Expiring_Soon": false, "Stock_Quantity": 27, "Aisle": "L", "Shelf": 6}
+{"Item_ID": "47-221-2470", "Name": "Pomegranate", "Expiration_Date": "10/10/2025", "Warehouse_Location": "60 Messerschmidt Pass", "Expiring_Soon": false, "Stock_Quantity": 158, "Aisle": "P", "Shelf": 2}
+{"Item_ID": "90-230-9767", "Name": "Long Grain Rice", "Expiration_Date": "11/17/2025", "Warehouse_Location": "00397 Bay Terrace", "Expiring_Soon": false, "Stock_Quantity": 53, "Aisle": "G", "Shelf": 10}
+{"Item_ID": "65-718-0492", "Name": "Olive Oil", "Expiration_Date": "2/16/2025", "Warehouse_Location": "8626 Chinook Parkway", "Expiring_Soon": false, "Stock_Quantity": 190, "Aisle": "Y", "Shelf": 6}
+{"Item_ID": "69-287-9113", "Name": "Zucchini", "Expiration_Date": "12/16/2025", "Warehouse_Location": "11 Golden Leaf Alley", "Expiring_Soon": false, "Stock_Quantity": 162, "Aisle": "T", "Shelf": 3}
+{"Item_ID": "96-209-1739", "Name": "Evaporated Milk", "Expiration_Date": "2/29/2025", "Warehouse_Location": "779 Ridgeway Street", "Expiring_Soon": false, "Stock_Quantity": 52, "Aisle": "B", "Shelf": 10}
+{"Item_ID": "87-013-6488", "Name": "Sushi Rice", "Expiration_Date": "4/14/2025", "Warehouse_Location": "07855 Goodland Lane", "Expiring_Soon": false, "Stock_Quantity": 70, "Aisle": "O", "Shelf": 2}
+{"Item_ID": "01-173-0029", "Name": "Blueberries", "Expiration_Date": "4/12/2025", "Warehouse_Location": "8 Dakota Avenue", "Expiring_Soon": false, "Stock_Quantity": 195, "Aisle": "M", "Shelf": 3}
+{"Item_ID": "72-780-6006", "Name": "Sunflower Oil", "Expiration_Date": "4/17/2025", "Warehouse_Location": "88721 Dawn Crossing", "Expiring_Soon": false, "Stock_Quantity": 108, "Aisle": "B", "Shelf": 4}
+{"Item_ID": "49-730-0159", "Name": "Cream", "Expiration_Date": "8/26/2025", "Warehouse_Location": "09189 2nd Drive", "Expiring_Soon": false, "Stock_Quantity": 160, "Aisle": "F", "Shelf": 1}
+{"Item_ID": "72-810-9753", "Name": "Sesame Oil", "Expiration_Date": "12/12/2025", "Warehouse_Location": "545 Farwell Lane", "Expiring_Soon": false, "Stock_Quantity": 42, "Aisle": "A", "Shelf": 5}
+{"Item_ID": "61-582-7399", "Name": "Apricot", "Expiration_Date": "7/22/2025", "Warehouse_Location": "8 Hanover Center", "Expiring_Soon": false, "Stock_Quantity": 167, "Aisle": "N", "Shelf": 1}
+{"Item_ID": "65-867-4029", "Name": "Peach", "Expiration_Date": "6/16/2025", "Warehouse_Location": "36124 Carberry Junction", "Expiring_Soon": false, "Stock_Quantity": 78, "Aisle": "R", "Shelf": 4}
+{"Item_ID": "88-951-9038", "Name": "Black Coffee", "Expiration_Date": "2/11/2025", "Warehouse_Location": "5 Anderson Trail", "Expiring_Soon": false, "Stock_Quantity": 66, "Aisle": "F", "Shelf": 4}
+{"Item_ID": "80-441-7249", "Name": "Wild Rice", "Expiration_Date": "8/10/2025", "Warehouse_Location": "652 High Crossing Lane", "Expiring_Soon": false, "Stock_Quantity": 144, "Aisle": "I", "Shelf": 1}
+{"Item_ID": "95-449-1286", "Name": "Egg (Chicken)", "Expiration_Date": "9/8/2025", "Warehouse_Location": "1 Jackson Pass", "Expiring_Soon": false, "Stock_Quantity": 13, "Aisle": "L", "Shelf": 7}
+{"Item_ID": "14-305-9690", "Name": "Sushi Rice", "Expiration_Date": "3/10/2025", "Warehouse_Location": "43107 Schlimgen Circle", "Expiring_Soon": false, "Stock_Quantity": 111, "Aisle": "S", "Shelf": 4}
+{"Item_ID": "94-092-3355", "Name": "Cauliflower", "Expiration_Date": "8/4/2025", "Warehouse_Location": "929 Thierer Lane", "Expiring_Soon": false, "Stock_Quantity": 64, "Aisle": "E", "Shelf": 7}
+{"Item_ID": "73-118-1117", "Name": "Olive Oil", "Expiration_Date": "11/13/2025", "Warehouse_Location": "482 Green Center", "Expiring_Soon": false, "Stock_Quantity": 67, "Aisle": "F", "Shelf": 3}
+{"Item_ID": "41-526-4036", "Name": "Whipped Cream", "Expiration_Date": "1/29/2025", "Warehouse_Location": "38726 Gina Pass", "Expiring_Soon": false, "Stock_Quantity": 117, "Aisle": "Z", "Shelf": 2}
+{"Item_ID": "66-716-8221", "Name": "Cheddar Cheese", "Expiration_Date": "1/17/2025", "Warehouse_Location": "54 Weeping Birch Lane", "Expiring_Soon": false, "Stock_Quantity": 109, "Aisle": "X", "Shelf": 4}
+{"Item_ID": "21-633-8696", "Name": "Coconut Sugar", "Expiration_Date": "5/26/2025", "Warehouse_Location": "08492 Gateway Terrace", "Expiring_Soon": false, "Stock_Quantity": 148, "Aisle": "Q", "Shelf": 3}
+{"Item_ID": "14-489-8669", "Name": "All-Purpose Flour", "Expiration_Date": "5/13/2025", "Warehouse_Location": "21629 Burrows Pass", "Expiring_Soon": false, "Stock_Quantity": 132, "Aisle": "F", "Shelf": 9}
+{"Item_ID": "67-270-7464", "Name": "Jasmine Rice", "Expiration_Date": "12/7/2025", "Warehouse_Location": "7242 Claremont Avenue", "Expiring_Soon": false, "Stock_Quantity": 147, "Aisle": "Q", "Shelf": 7}
+{"Item_ID": "52-123-8039", "Name": "Pomegranate", "Expiration_Date": "1/16/2025", "Warehouse_Location": "7 Schiller Court", "Expiring_Soon": false, "Stock_Quantity": 111, "Aisle": "D", "Shelf": 9}
+{"Item_ID": "29-017-6255", "Name": "Bell Pepper", "Expiration_Date": "1/31/2025", "Warehouse_Location": "20 Pennsylvania Parkway", "Expiring_Soon": false, "Stock_Quantity": 198, "Aisle": "W", "Shelf": 8}
+{"Item_ID": "21-809-7115", "Name": "White Rice", "Expiration_Date": "2/24/2025", "Warehouse_Location": "3053 Sachs Center", "Expiring_Soon": false, "Stock_Quantity": 59, "Aisle": "Z", "Shelf": 2}
+{"Item_ID": "44-782-1395", "Name": "Raw Sugar", "Expiration_Date": "11/17/2025", "Warehouse_Location": "365 Vera Terrace", "Expiring_Soon": false, "Stock_Quantity": 129, "Aisle": "C", "Shelf": 4}
+{"Item_ID": "49-199-6836", "Name": "Tomato", "Expiration_Date": "8/24/2025", "Warehouse_Location": "77 Brown Circle", "Expiring_Soon": false, "Stock_Quantity": 65, "Aisle": "H", "Shelf": 9}
+{"Item_ID": "27-681-5588", "Name": "Anchovies", "Expiration_Date": "12/7/2025", "Warehouse_Location": "498 Delladonna Drive", "Expiring_Soon": false, "Stock_Quantity": 42, "Aisle": "Q", "Shelf": 8}
+{"Item_ID": "07-074-1196", "Name": "Plum", "Expiration_Date": "10/10/2025", "Warehouse_Location": "27 New Castle Avenue", "Expiring_Soon": false, "Stock_Quantity": 52, "Aisle": "Q", "Shelf": 10}
+{"Item_ID": "87-698-0944", "Name": "Banana", "Expiration_Date": "2/2/2025", "Warehouse_Location": "8 Heffernan Point", "Expiring_Soon": false, "Stock_Quantity": 90, "Aisle": "U", "Shelf": 3}
+{"Item_ID": "64-119-7804", "Name": "Bell Pepper", "Expiration_Date": "12/29/2025", "Warehouse_Location": "06584 Mendota Avenue", "Expiring_Soon": false, "Stock_Quantity": 194, "Aisle": "K", "Shelf": 4}
+{"Item_ID": "28-968-4195", "Name": "Eggplant", "Expiration_Date": "10/13/2025", "Warehouse_Location": "5 Loftsgordon Trail", "Expiring_Soon": false, "Stock_Quantity": 105, "Aisle": "Y", "Shelf": 5}
+{"Item_ID": "15-562-3712", "Name": "Cauliflower", "Expiration_Date": "10/28/2025", "Warehouse_Location": "1 Hudson Hill", "Expiring_Soon": false, "Stock_Quantity": 18, "Aisle": "W", "Shelf": 1}
+{"Item_ID": "94-598-3383", "Name": "Brown Rice", "Expiration_Date": "9/1/2025", "Warehouse_Location": "7403 Fuller Hill", "Expiring_Soon": false, "Stock_Quantity": 56, "Aisle": "D", "Shelf": 10}
+{"Item_ID": "27-216-9671", "Name": "Sesame Oil", "Expiration_Date": "6/4/2025", "Warehouse_Location": "4 Browning Terrace", "Expiring_Soon": false, "Stock_Quantity": 97, "Aisle": "K", "Shelf": 3}
+{"Item_ID": "26-000-1012", "Name": "Parmesan Cheese", "Expiration_Date": "4/12/2025", "Warehouse_Location": "3 Bayside Point", "Expiring_Soon": false, "Stock_Quantity": 104, "Aisle": "Y", "Shelf": 10}
+{"Item_ID": "65-644-1394", "Name": "Pear", "Expiration_Date": "2/10/2025", "Warehouse_Location": "582 Dahle Center", "Expiring_Soon": false, "Stock_Quantity": 118, "Aisle": "W", "Shelf": 8}
+{"Item_ID": "93-218-8108", "Name": "Heavy Cream", "Expiration_Date": "11/17/2025", "Warehouse_Location": "9848 Little Fleur Point", "Expiring_Soon": false, "Stock_Quantity": 121, "Aisle": "L", "Shelf": 9}
+{"Item_ID": "03-043-9933", "Name": "Strawberries", "Expiration_Date": "2/8/2025", "Warehouse_Location": "884 Fieldstone Plaza", "Expiring_Soon": false, "Stock_Quantity": 184, "Aisle": "S", "Shelf": 6}
+{"Item_ID": "67-027-7269", "Name": "Mushrooms", "Expiration_Date": "11/9/2025", "Warehouse_Location": "615 Mayer Drive", "Expiring_Soon": false, "Stock_Quantity": 138, "Aisle": "N", "Shelf": 8}
+{"Item_ID": "97-710-2449", "Name": "Rye Bread", "Expiration_Date": "6/19/2025", "Warehouse_Location": "0 Miller Pass", "Expiring_Soon": false, "Stock_Quantity": 102, "Aisle": "G", "Shelf": 5}
+{"Item_ID": "79-350-5841", "Name": "Jasmine Rice", "Expiration_Date": "4/17/2025", "Warehouse_Location": "75 Cascade Avenue", "Expiring_Soon": false, "Stock_Quantity": 81, "Aisle": "W", "Shelf": 6}
+{"Item_ID": "83-400-9746", "Name": "Mozzarella Cheese", "Expiration_Date": "2/29/2025", "Warehouse_Location": "40 Merchant Terrace", "Expiring_Soon": false, "Stock_Quantity": 187, "Aisle": "M", "Shelf": 3}
+{"Item_ID": "88-069-5486", "Name": "Cod", "Expiration_Date": "5/1/2025", "Warehouse_Location": "01330 Sheridan Way", "Expiring_Soon": false, "Stock_Quantity": 31, "Aisle": "Z", "Shelf": 8}
+{"Item_ID": "05-498-7751", "Name": "Cauliflower", "Expiration_Date": "3/24/2025", "Warehouse_Location": "30408 5th Way", "Expiring_Soon": false, "Stock_Quantity": 134, "Aisle": "I", "Shelf": 9}
+{"Item_ID": "04-277-5245", "Name": "Coconut Sugar", "Expiration_Date": "6/18/2025", "Warehouse_Location": "911 Ridgeway Way", "Expiring_Soon": false, "Stock_Quantity": 145, "Aisle": "T", "Shelf": 7}
+{"Item_ID": "30-832-5429", "Name": "Multigrain Bread", "Expiration_Date": "9/17/2025", "Warehouse_Location": "894 Kingsford Road", "Expiring_Soon": false, "Stock_Quantity": 21, "Aisle": "M", "Shelf": 8}
+{"Item_ID": "35-835-5591", "Name": "Tilapia", "Expiration_Date": "3/8/2025", "Warehouse_Location": "509 Carpenter Trail", "Expiring_Soon": false, "Stock_Quantity": 47, "Aisle": "N", "Shelf": 6}
+{"Item_ID": "56-191-6497", "Name": "Bread Flour", "Expiration_Date": "1/7/2025", "Warehouse_Location": "844 Schurz Point", "Expiring_Soon": false, "Stock_Quantity": 111, "Aisle": "F", "Shelf": 1}
+{"Item_ID": "80-025-6757", "Name": "Grapes", "Expiration_Date": "1/1/2025", "Warehouse_Location": "183 Algoma Trail", "Expiring_Soon": false, "Stock_Quantity": 167, "Aisle": "V", "Shelf": 4}
+{"Item_ID": "83-117-7658", "Name": "Asparagus", "Expiration_Date": "12/19/2025", "Warehouse_Location": "0282 Emmet Hill", "Expiring_Soon": false, "Stock_Quantity": 188, "Aisle": "J", "Shelf": 4}
+{"Item_ID": "46-415-8633", "Name": "Apple", "Expiration_Date": "1/2/2025", "Warehouse_Location": "5 Eggendart Parkway", "Expiring_Soon": false, "Stock_Quantity": 113, "Aisle": "Z", "Shelf": 7}
+{"Item_ID": "26-535-4727", "Name": "Tilapia", "Expiration_Date": "4/29/2025", "Warehouse_Location": "4 Darwin Circle", "Expiring_Soon": false, "Stock_Quantity": 21, "Aisle": "C", "Shelf": 7}
+{"Item_ID": "04-001-1793", "Name": "Green Coffee", "Expiration_Date": "4/9/2025", "Warehouse_Location": "0 Stoughton Terrace", "Expiring_Soon": false, "Stock_Quantity": 174, "Aisle": "J", "Shelf": 9}
+{"Item_ID": "32-676-1026", "Name": "Salmon", "Expiration_Date": "4/16/2025", "Warehouse_Location": "9433 Jenna Lane", "Expiring_Soon": false, "Stock_Quantity": 105, "Aisle": "X", "Shelf": 7}
+{"Item_ID": "73-401-5721", "Name": "Haddock", "Expiration_Date": "12/26/2025", "Warehouse_Location": "582 Sauthoff Crossing", "Expiring_Soon": false, "Stock_Quantity": 160, "Aisle": "V", "Shelf": 4}
+{"Item_ID": "49-311-3063", "Name": "Kiwi", "Expiration_Date": "7/3/2025", "Warehouse_Location": "71 Bultman Drive", "Expiring_Soon": false, "Stock_Quantity": 145, "Aisle": "H", "Shelf": 4}
+{"Item_ID": "21-993-5632", "Name": "Watermelon", "Expiration_Date": "10/23/2025", "Warehouse_Location": "16730 Luster Alley", "Expiring_Soon": false, "Stock_Quantity": 6, "Aisle": "J", "Shelf": 9}
+{"Item_ID": "20-283-0111", "Name": "Pear", "Expiration_Date": "1/6/2025", "Warehouse_Location": "0 Ruskin Way", "Expiring_Soon": false, "Stock_Quantity": 162, "Aisle": "R", "Shelf": 3}
+{"Item_ID": "96-682-8546", "Name": "Egg (Chicken)", "Expiration_Date": "9/17/2025", "Warehouse_Location": "97 Walton Avenue", "Expiring_Soon": false, "Stock_Quantity": 166, "Aisle": "Z", "Shelf": 6}
+{"Item_ID": "29-896-7926", "Name": "White Rice", "Expiration_Date": "5/6/2025", "Warehouse_Location": "80930 Briar Crest Point", "Expiring_Soon": false, "Stock_Quantity": 65, "Aisle": "Q", "Shelf": 1}
+{"Item_ID": "13-900-9016", "Name": "Bell Pepper", "Expiration_Date": "9/19/2025", "Warehouse_Location": "521 Burning Wood Trail", "Expiring_Soon": false, "Stock_Quantity": 8, "Aisle": "I", "Shelf": 7}
+{"Item_ID": "65-464-5070", "Name": "Heavy Cream", "Expiration_Date": "9/1/2025", "Warehouse_Location": "00 Luster Alley", "Expiring_Soon": false, "Stock_Quantity": 3, "Aisle": "L", "Shelf": 9}
+{"Item_ID": "67-546-1568", "Name": "Peanut Oil", "Expiration_Date": "3/28/2025", "Warehouse_Location": "203 Mariners Cove Junction", "Expiring_Soon": false, "Stock_Quantity": 143, "Aisle": "I", "Shelf": 1}
+{"Item_ID": "40-462-2952", "Name": "Trout", "Expiration_Date": "11/19/2025", "Warehouse_Location": "0258 Shoshone Center", "Expiring_Soon": false, "Stock_Quantity": 97, "Aisle": "M", "Shelf": 4}
+{"Item_ID": "16-499-5059", "Name": "Pear", "Expiration_Date": "12/20/2025", "Warehouse_Location": "3 Hooker Way", "Expiring_Soon": false, "Stock_Quantity": 135, "Aisle": "Z", "Shelf": 7}
+{"Item_ID": "17-022-9721", "Name": "Apple", "Expiration_Date": "1/12/2025", "Warehouse_Location": "39 Dahle Alley", "Expiring_Soon": false, "Stock_Quantity": 22, "Aisle": "I", "Shelf": 9}
+{"Item_ID": "62-816-8794", "Name": "Rice Flour", "Expiration_Date": "2/6/2025", "Warehouse_Location": "04 Blaine Lane", "Expiring_Soon": false, "Stock_Quantity": 90, "Aisle": "O", "Shelf": 5}
+{"Item_ID": "13-844-2178", "Name": "Sardines", "Expiration_Date": "3/24/2025", "Warehouse_Location": "86207 Tennyson Parkway", "Expiring_Soon": false, "Stock_Quantity": 144, "Aisle": "E", "Shelf": 1}
+{"Item_ID": "33-440-2588", "Name": "Bell Pepper", "Expiration_Date": "2/24/2025", "Warehouse_Location": "4 6th Plaza", "Expiring_Soon": false, "Stock_Quantity": 72, "Aisle": "O", "Shelf": 3}
+{"Item_ID": "79-136-9840", "Name": "Herbal Tea", "Expiration_Date": "6/23/2025", "Warehouse_Location": "26175 Oxford Way", "Expiring_Soon": false, "Stock_Quantity": 32, "Aisle": "S", "Shelf": 1}
+{"Item_ID": "27-389-3529", "Name": "Haddock", "Expiration_Date": "3/9/2025", "Warehouse_Location": "234 Eagle Crest Avenue", "Expiring_Soon": false, "Stock_Quantity": 185, "Aisle": "N", "Shelf": 6}
+{"Item_ID": "10-626-8536", "Name": "Coconut Sugar", "Expiration_Date": "3/30/2025", "Warehouse_Location": "38583 2nd Pass", "Expiring_Soon": false, "Stock_Quantity": 153, "Aisle": "D", "Shelf": 7}
+{"Item_ID": "34-928-2775", "Name": "Coconut", "Expiration_Date": "1/28/2025", "Warehouse_Location": "7945 Mayer Center", "Expiring_Soon": false, "Stock_Quantity": 49, "Aisle": "K", "Shelf": 10}
+{"Item_ID": "67-382-4435", "Name": "Green Beans", "Expiration_Date": "3/2/2025", "Warehouse_Location": "92 Bartelt Terrace", "Expiring_Soon": false, "Stock_Quantity": 138, "Aisle": "Y", "Shelf": 8}
+{"Item_ID": "52-797-6961", "Name": "Tilapia", "Expiration_Date": "6/17/2025", "Warehouse_Location": "13799 Quincy Park", "Expiring_Soon": false, "Stock_Quantity": 88, "Aisle": "E", "Shelf": 6}
+{"Item_ID": "46-753-8430", "Name": "Feta Cheese", "Expiration_Date": "8/5/2025", "Warehouse_Location": "60356 Derek Lane", "Expiring_Soon": false, "Stock_Quantity": 150, "Aisle": "J", "Shelf": 1}
+{"Item_ID": "78-956-4737", "Name": "Sushi Rice", "Expiration_Date": "4/18/2025", "Warehouse_Location": "9 Burrows Junction", "Expiring_Soon": false, "Stock_Quantity": 138, "Aisle": "W", "Shelf": 3}
+{"Item_ID": "60-550-4771", "Name": "Haddock", "Expiration_Date": "8/24/2025", "Warehouse_Location": "1 Monica Lane", "Expiring_Soon": false, "Stock_Quantity": 109, "Aisle": "G", "Shelf": 3}
+{"Item_ID": "03-149-9760", "Name": "Whipped Cream", "Expiration_Date": "3/26/2025", "Warehouse_Location": "554 Eliot Point", "Expiring_Soon": false, "Stock_Quantity": 1, "Aisle": "O", "Shelf": 4}
+{"Item_ID": "57-613-5779", "Name": "Gouda Cheese", "Expiration_Date": "8/29/2025", "Warehouse_Location": "6 John Wall Plaza", "Expiring_Soon": false, "Stock_Quantity": 198, "Aisle": "N", "Shelf": 10}
+{"Item_ID": "97-772-2336", "Name": "Pineapple", "Expiration_Date": "7/14/2025", "Warehouse_Location": "9 Bartillon Trail", "Expiring_Soon": false, "Stock_Quantity": 56, "Aisle": "W", "Shelf": 5}
+{"Item_ID": "44-305-1866", "Name": "Butter", "Expiration_Date": "8/29/2025", "Warehouse_Location": "51205 Rieder Junction", "Expiring_Soon": false, "Stock_Quantity": 28, "Aisle": "M", "Shelf": 1}
+{"Item_ID": "07-389-5740", "Name": "Egg (Quail)", "Expiration_Date": "7/17/2025", "Warehouse_Location": "59 Veith Center", "Expiring_Soon": false, "Stock_Quantity": 148, "Aisle": "X", "Shelf": 10}
+{"Item_ID": "95-262-6208", "Name": "Black Tea", "Expiration_Date": "7/29/2025", "Warehouse_Location": "44662 American Plaza", "Expiring_Soon": false, "Stock_Quantity": 186, "Aisle": "F", "Shelf": 9}
+{"Item_ID": "63-897-8088", "Name": "Zucchini", "Expiration_Date": "10/16/2025", "Warehouse_Location": "7944 Elgar Alley", "Expiring_Soon": false, "Stock_Quantity": 152, "Aisle": "U", "Shelf": 9}
+{"Item_ID": "02-895-7781", "Name": "Coconut Sugar", "Expiration_Date": "1/24/2025", "Warehouse_Location": "2582 Autumn Leaf Park", "Expiring_Soon": false, "Stock_Quantity": 44, "Aisle": "I", "Shelf": 7}
+{"Item_ID": "02-484-0206", "Name": "Short Grain Rice", "Expiration_Date": "8/2/2025", "Warehouse_Location": "60 Main Pass", "Expiring_Soon": false, "Stock_Quantity": 127, "Aisle": "O", "Shelf": 10}
+{"Item_ID": "06-706-6490", "Name": "Green Tea", "Expiration_Date": "3/15/2025", "Warehouse_Location": "443 Browning Terrace", "Expiring_Soon": false, "Stock_Quantity": 119, "Aisle": "Q", "Shelf": 1}
+{"Item_ID": "27-387-0428", "Name": "Halibut", "Expiration_Date": "4/9/2025", "Warehouse_Location": "1715 Dottie Pass", "Expiring_Soon": false, "Stock_Quantity": 111, "Aisle": "Q", "Shelf": 9}
+{"Item_ID": "06-731-2162", "Name": "Lemon", "Expiration_Date": "7/19/2025", "Warehouse_Location": "30968 Anzinger Court", "Expiring_Soon": false, "Stock_Quantity": 45, "Aisle": "X", "Shelf": 4}
+{"Item_ID": "11-325-7396", "Name": "Mango", "Expiration_Date": "3/26/2025", "Warehouse_Location": "387 Jay Point", "Expiring_Soon": false, "Stock_Quantity": 13, "Aisle": "D", "Shelf": 5}
+{"Item_ID": "98-546-7398", "Name": "Yogurt", "Expiration_Date": "4/17/2025", "Warehouse_Location": "15658 Talisman Lane", "Expiring_Soon": false, "Stock_Quantity": 148, "Aisle": "X", "Shelf": 9}
+{"Item_ID": "90-773-9557", "Name": "Butter", "Expiration_Date": "6/12/2025", "Warehouse_Location": "904 Del Mar Crossing", "Expiring_Soon": false, "Stock_Quantity": 149, "Aisle": "B", "Shelf": 9}
+{"Item_ID": "84-327-7787", "Name": "Egg (Chicken)", "Expiration_Date": "9/6/2025", "Warehouse_Location": "739 Rowland Way", "Expiring_Soon": false, "Stock_Quantity": 6, "Aisle": "O", "Shelf": 10}
+{"Item_ID": "93-014-4256", "Name": "Green Beans", "Expiration_Date": "10/13/2025", "Warehouse_Location": "6 Bay Road", "Expiring_Soon": false, "Stock_Quantity": 60, "Aisle": "S", "Shelf": 6}
+{"Item_ID": "14-836-2894", "Name": "Apple", "Expiration_Date": "9/25/2025", "Warehouse_Location": "2 Hooker Terrace", "Expiring_Soon": false, "Stock_Quantity": 198, "Aisle": "G", "Shelf": 10}
+{"Item_ID": "26-177-5690", "Name": "Cucumber", "Expiration_Date": "1/21/2025", "Warehouse_Location": "61707 Mariners Cove Park", "Expiring_Soon": false, "Stock_Quantity": 55, "Aisle": "G", "Shelf": 7}
+{"Item_ID": "60-327-4114", "Name": "Egg (Turkey)", "Expiration_Date": "10/17/2025", "Warehouse_Location": "3 Bellgrove Way", "Expiring_Soon": false, "Stock_Quantity": 140, "Aisle": "K", "Shelf": 8}
+{"Item_ID": "04-453-5485", "Name": "Tomato", "Expiration_Date": "4/2/2025", "Warehouse_Location": "2 Sunbrook Lane", "Expiring_Soon": false, "Stock_Quantity": 180, "Aisle": "D", "Shelf": 9}
+{"Item_ID": "86-257-4613", "Name": "Jasmine Rice", "Expiration_Date": "8/5/2025", "Warehouse_Location": "5 Prentice Pass", "Expiring_Soon": false, "Stock_Quantity": 73, "Aisle": "V", "Shelf": 9}
+{"Item_ID": "12-998-3882", "Name": "Egg (Turkey)", "Expiration_Date": "5/26/2025", "Warehouse_Location": "94862 Beilfuss Terrace", "Expiring_Soon": false, "Stock_Quantity": 174, "Aisle": "W", "Shelf": 7}
+{"Item_ID": "40-913-9772", "Name": "Egg (Chicken)", "Expiration_Date": "5/26/2025", "Warehouse_Location": "553 Hooker Trail", "Expiring_Soon": false, "Stock_Quantity": 124, "Aisle": "K", "Shelf": 8}
+{"Item_ID": "34-547-0827", "Name": "White Rice", "Expiration_Date": "7/5/2025", "Warehouse_Location": "18 Comanche Junction", "Expiring_Soon": false, "Stock_Quantity": 161, "Aisle": "S", "Shelf": 4}
+{"Item_ID": "73-997-6251", "Name": "Bell Pepper", "Expiration_Date": "9/17/2025", "Warehouse_Location": "1666 Dayton Terrace", "Expiring_Soon": false, "Stock_Quantity": 59, "Aisle": "U", "Shelf": 9}
+{"Item_ID": "28-185-7303", "Name": "Robusta Coffee", "Expiration_Date": "10/22/2025", "Warehouse_Location": "25696 Westerfield Alley", "Expiring_Soon": false, "Stock_Quantity": 104, "Aisle": "X", "Shelf": 3}
+{"Item_ID": "46-496-2930", "Name": "Pomegranate", "Expiration_Date": "8/14/2025", "Warehouse_Location": "156 Golf Course Alley", "Expiring_Soon": false, "Stock_Quantity": 17, "Aisle": "E", "Shelf": 4}
+{"Item_ID": "74-305-1263", "Name": "Green Coffee", "Expiration_Date": "8/16/2025", "Warehouse_Location": "744 Lakewood Gardens Crossing", "Expiring_Soon": false, "Stock_Quantity": 108, "Aisle": "T", "Shelf": 1}
+{"Item_ID": "68-418-6724", "Name": "Parmesan Cheese", "Expiration_Date": "9/30/2025", "Warehouse_Location": "49869 Bunker Hill Terrace", "Expiring_Soon": false, "Stock_Quantity": 50, "Aisle": "I", "Shelf": 4}
+{"Item_ID": "36-636-4873", "Name": "Black Rice", "Expiration_Date": "5/30/2025", "Warehouse_Location": "451 Grim Hill", "Expiring_Soon": false, "Stock_Quantity": 142, "Aisle": "H", "Shelf": 7}
+{"Item_ID": "30-806-3823", "Name": "Jasmine Rice", "Expiration_Date": "3/6/2025", "Warehouse_Location": "07 Pankratz Point", "Expiring_Soon": false, "Stock_Quantity": 46, "Aisle": "A", "Shelf": 10}
+{"Item_ID": "20-448-2972", "Name": "Asparagus", "Expiration_Date": "9/16/2025", "Warehouse_Location": "49770 Hoffman Court", "Expiring_Soon": false, "Stock_Quantity": 11, "Aisle": "O", "Shelf": 8}
+{"Item_ID": "99-420-3592", "Name": "Butter Biscuit", "Expiration_Date": "11/13/2025", "Warehouse_Location": "206 Pine View Junction", "Expiring_Soon": false, "Stock_Quantity": 185, "Aisle": "L", "Shelf": 2}
+{"Item_ID": "28-003-8065", "Name": "Almond Flour", "Expiration_Date": "1/28/2025", "Warehouse_Location": "65 Merry Circle", "Expiring_Soon": false, "Stock_Quantity": 46, "Aisle": "V", "Shelf": 3}
+{"Item_ID": "19-967-0632", "Name": "Short Grain Rice", "Expiration_Date": "11/6/2025", "Warehouse_Location": "6990 Kings Place", "Expiring_Soon": false, "Stock_Quantity": 95, "Aisle": "Y", "Shelf": 2}
+{"Item_ID": "03-441-4252", "Name": "Yogurt", "Expiration_Date": "7/24/2025", "Warehouse_Location": "6 Bobwhite Alley", "Expiring_Soon": false, "Stock_Quantity": 10, "Aisle": "B", "Shelf": 4}
+{"Item_ID": "21-120-6238", "Name": "All-Purpose Flour", "Expiration_Date": "9/5/2025", "Warehouse_Location": "050 Mcbride Avenue", "Expiring_Soon": false, "Stock_Quantity": 5, "Aisle": "F", "Shelf": 1}
+{"Item_ID": "09-618-2842", "Name": "White Sugar", "Expiration_Date": "8/6/2025", "Warehouse_Location": "642 Arizona Point", "Expiring_Soon": false, "Stock_Quantity": 170, "Aisle": "R", "Shelf": 6}
+{"Item_ID": "05-193-8096", "Name": "Grapes", "Expiration_Date": "7/8/2025", "Warehouse_Location": "38 Rutledge Plaza", "Expiring_Soon": false, "Stock_Quantity": 155, "Aisle": "R", "Shelf": 2}
+{"Item_ID": "97-283-4840", "Name": "Palm Oil", "Expiration_Date": "2/24/2025", "Warehouse_Location": "7232 Ridgeway Center", "Expiring_Soon": false, "Stock_Quantity": 72, "Aisle": "Y", "Shelf": 9}
+{"Item_ID": "22-319-1377", "Name": "White Sugar", "Expiration_Date": "6/21/2025", "Warehouse_Location": "083 Gulseth Pass", "Expiring_Soon": false, "Stock_Quantity": 162, "Aisle": "O", "Shelf": 5}
+{"Item_ID": "31-157-1822", "Name": "Ricotta Cheese", "Expiration_Date": "1/28/2025", "Warehouse_Location": "803 Cottonwood Crossing", "Expiring_Soon": false, "Stock_Quantity": 178, "Aisle": "J", "Shelf": 7}
+{"Item_ID": "92-152-5820", "Name": "Black Tea", "Expiration_Date": "6/24/2025", "Warehouse_Location": "0920 Monica Pass", "Expiring_Soon": false, "Stock_Quantity": 186, "Aisle": "K", "Shelf": 8}
+{"Item_ID": "23-070-2433", "Name": "Powdered Sugar", "Expiration_Date": "12/28/2025", "Warehouse_Location": "836 Brown Alley", "Expiring_Soon": false, "Stock_Quantity": 148, "Aisle": "K", "Shelf": 8}
+{"Item_ID": "28-275-5901", "Name": "Anchovies", "Expiration_Date": "1/24/2025", "Warehouse_Location": "4 Doe Crossing Avenue", "Expiring_Soon": false, "Stock_Quantity": 76, "Aisle": "H", "Shelf": 8}
+{"Item_ID": "31-608-1445", "Name": "Papaya", "Expiration_Date": "12/14/2025", "Warehouse_Location": "227 Tennyson Plaza", "Expiring_Soon": false, "Stock_Quantity": 103, "Aisle": "A", "Shelf": 8}
+{"Item_ID": "91-105-7317", "Name": "Orange", "Expiration_Date": "2/2/2025", "Warehouse_Location": "44022 Barnett Way", "Expiring_Soon": false, "Stock_Quantity": 121, "Aisle": "M", "Shelf": 4}
+{"Item_ID": "38-822-8005", "Name": "Cucumber", "Expiration_Date": "3/31/2025", "Warehouse_Location": "6 Stang Hill", "Expiring_Soon": false, "Stock_Quantity": 88, "Aisle": "C", "Shelf": 7}
+{"Item_ID": "59-725-4038", "Name": "Arabica Coffee", "Expiration_Date": "8/23/2025", "Warehouse_Location": "697 Hoepker Center", "Expiring_Soon": false, "Stock_Quantity": 107, "Aisle": "V", "Shelf": 3}
+{"Item_ID": "58-946-5152", "Name": "Bread Flour", "Expiration_Date": "7/10/2025", "Warehouse_Location": "06 Lake View Trail", "Expiring_Soon": false, "Stock_Quantity": 162, "Aisle": "O", "Shelf": 8}
+{"Item_ID": "00-842-9790", "Name": "Egg (Goose)", "Expiration_Date": "12/28/2025", "Warehouse_Location": "53894 Myrtle Place", "Expiring_Soon": false, "Stock_Quantity": 106, "Aisle": "L", "Shelf": 10}
+{"Item_ID": "28-505-8317", "Name": "Watermelon", "Expiration_Date": "1/28/2025", "Warehouse_Location": "848 Old Gate Parkway", "Expiring_Soon": false, "Stock_Quantity": 9, "Aisle": "K", "Shelf": 2}
+{"Item_ID": "96-164-0607", "Name": "Coconut Oil", "Expiration_Date": "10/17/2025", "Warehouse_Location": "1275 Lawn Center", "Expiring_Soon": false, "Stock_Quantity": 16, "Aisle": "C", "Shelf": 2}
+{"Item_ID": "95-090-2788", "Name": "Sesame Oil", "Expiration_Date": "8/26/2025", "Warehouse_Location": "0313 Rockefeller Street", "Expiring_Soon": false, "Stock_Quantity": 163, "Aisle": "P", "Shelf": 5}
+{"Item_ID": "62-998-7250", "Name": "Evaporated Milk", "Expiration_Date": "10/5/2025", "Warehouse_Location": "9171 Redwing Street", "Expiring_Soon": false, "Stock_Quantity": 134, "Aisle": "C", "Shelf": 2}
+{"Item_ID": "88-408-0310", "Name": "Corn Oil", "Expiration_Date": "8/26/2025", "Warehouse_Location": "5 Mesta Center", "Expiring_Soon": false, "Stock_Quantity": 68, "Aisle": "Q", "Shelf": 2}
+{"Item_ID": "25-353-2067", "Name": "Papaya", "Expiration_Date": "7/25/2025", "Warehouse_Location": "59449 Sherman Parkway", "Expiring_Soon": false, "Stock_Quantity": 142, "Aisle": "U", "Shelf": 3}
+{"Item_ID": "12-239-9399", "Name": "Potato", "Expiration_Date": "10/27/2025", "Warehouse_Location": "924 La Follette Alley", "Expiring_Soon": false, "Stock_Quantity": 78, "Aisle": "I", "Shelf": 9}
+{"Item_ID": "76-459-2392", "Name": "Palm Oil", "Expiration_Date": "5/24/2025", "Warehouse_Location": "2005 Mccormick Road", "Expiring_Soon": false, "Stock_Quantity": 45, "Aisle": "U", "Shelf": 5}
+{"Item_ID": "77-224-2227", "Name": "Almond Flour", "Expiration_Date": "10/26/2025", "Warehouse_Location": "5426 Fordem Pass", "Expiring_Soon": false, "Stock_Quantity": 13, "Aisle": "W", "Shelf": 5}
+{"Item_ID": "80-371-3695", "Name": "Cottage Cheese", "Expiration_Date": "12/10/2025", "Warehouse_Location": "163 Esch Pass", "Expiring_Soon": false, "Stock_Quantity": 74, "Aisle": "K", "Shelf": 2}
+{"Item_ID": "58-005-5343", "Name": "Cucumber", "Expiration_Date": "8/21/2025", "Warehouse_Location": "43211 Lakeland Place", "Expiring_Soon": false, "Stock_Quantity": 128, "Aisle": "S", "Shelf": 3}
+{"Item_ID": "53-710-7630", "Name": "Rice Flour", "Expiration_Date": "1/14/2025", "Warehouse_Location": "996 Thierer Center", "Expiring_Soon": false, "Stock_Quantity": 31, "Aisle": "K", "Shelf": 10}
+{"Item_ID": "08-961-3009", "Name": "Cheese", "Expiration_Date": "9/8/2025", "Warehouse_Location": "01 Gateway Plaza", "Expiring_Soon": false, "Stock_Quantity": 110, "Aisle": "H", "Shelf": 5}
+{"Item_ID": "12-714-5135", "Name": "Ricotta Cheese", "Expiration_Date": "4/25/2025", "Warehouse_Location": "2003 Delladonna Pass", "Expiring_Soon": false, "Stock_Quantity": 99, "Aisle": "M", "Shelf": 2}
+{"Item_ID": "29-592-7315", "Name": "Arborio Rice", "Expiration_Date": "9/22/2025", "Warehouse_Location": "21625 Schlimgen Park", "Expiring_Soon": false, "Stock_Quantity": 133, "Aisle": "K", "Shelf": 5}
+{"Item_ID": "86-482-6451", "Name": "White Tea", "Expiration_Date": "8/10/2025", "Warehouse_Location": "5501 Fuller Way", "Expiring_Soon": false, "Stock_Quantity": 26, "Aisle": "U", "Shelf": 6}
+{"Item_ID": "39-232-5341", "Name": "Arborio Rice", "Expiration_Date": "2/15/2025", "Warehouse_Location": "05433 Towne Terrace", "Expiring_Soon": false, "Stock_Quantity": 58, "Aisle": "L", "Shelf": 6}
+{"Item_ID": "21-252-1360", "Name": "Corn Oil", "Expiration_Date": "7/4/2025", "Warehouse_Location": "32 Charing Cross Pass", "Expiring_Soon": false, "Stock_Quantity": 130, "Aisle": "T", "Shelf": 9}
+{"Item_ID": "17-265-1899", "Name": "Orange", "Expiration_Date": "2/10/2025", "Warehouse_Location": "4826 Drewry Center", "Expiring_Soon": false, "Stock_Quantity": 64, "Aisle": "I", "Shelf": 6}
+{"Item_ID": "69-674-5387", "Name": "Yogurt", "Expiration_Date": "2/1/2025", "Warehouse_Location": "6211 Hanson Terrace", "Expiring_Soon": false, "Stock_Quantity": 161, "Aisle": "E", "Shelf": 10}
+{"Item_ID": "11-032-9778", "Name": "Peas", "Expiration_Date": "8/19/2025", "Warehouse_Location": "553 Mayfield Crossing", "Expiring_Soon": false, "Stock_Quantity": 149, "Aisle": "F", "Shelf": 3}
+{"Item_ID": "63-822-5278", "Name": "Pomegranate", "Expiration_Date": "2/27/2025", "Warehouse_Location": "5900 Vahlen Avenue", "Expiring_Soon": false, "Stock_Quantity": 102, "Aisle": "Q", "Shelf": 4}
+{"Item_ID": "76-340-4432", "Name": "Cucumber", "Expiration_Date": "3/6/2025", "Warehouse_Location": "157 David Center", "Expiring_Soon": false, "Stock_Quantity": 66, "Aisle": "S", "Shelf": 3}
+{"Item_ID": "61-796-6540", "Name": "Ricotta Cheese", "Expiration_Date": "8/14/2025", "Warehouse_Location": "126 Spohn Plaza", "Expiring_Soon": false, "Stock_Quantity": 139, "Aisle": "T", "Shelf": 1}
+{"Item_ID": "45-380-4627", "Name": "Cabbage", "Expiration_Date": "2/16/2025", "Warehouse_Location": "0 Thackeray Point", "Expiring_Soon": false, "Stock_Quantity": 42, "Aisle": "N", "Shelf": 6}
+{"Item_ID": "02-559-8196", "Name": "Mango", "Expiration_Date": "7/25/2025", "Warehouse_Location": "545 Linden Alley", "Expiring_Soon": false, "Stock_Quantity": 92, "Aisle": "J", "Shelf": 3}
+{"Item_ID": "14-331-3739", "Name": "Avocado Oil", "Expiration_Date": "3/28/2025", "Warehouse_Location": "8 Thackeray Drive", "Expiring_Soon": false, "Stock_Quantity": 97, "Aisle": "Y", "Shelf": 1}
+{"Item_ID": "92-791-0606", "Name": "Short Grain Rice", "Expiration_Date": "9/6/2025", "Warehouse_Location": "739 Grayhawk Trail", "Expiring_Soon": false, "Stock_Quantity": 66, "Aisle": "I", "Shelf": 3}
+{"Item_ID": "15-082-9124", "Name": "Apricot", "Expiration_Date": "5/7/2025", "Warehouse_Location": "38 Dawn Street", "Expiring_Soon": false, "Stock_Quantity": 176, "Aisle": "D", "Shelf": 9}
+{"Item_ID": "98-556-5323", "Name": "Pomegranate", "Expiration_Date": "8/27/2025", "Warehouse_Location": "005 Tomscot Hill", "Expiring_Soon": false, "Stock_Quantity": 159, "Aisle": "S", "Shelf": 10}
+{"Item_ID": "74-845-3299", "Name": "Green Tea", "Expiration_Date": "4/29/2025", "Warehouse_Location": "2 Petterle Road", "Expiring_Soon": false, "Stock_Quantity": 58, "Aisle": "L", "Shelf": 8}
+{"Item_ID": "17-493-4579", "Name": "Almond Flour", "Expiration_Date": "5/28/2025", "Warehouse_Location": "4627 Amoth Circle", "Expiring_Soon": false, "Stock_Quantity": 104, "Aisle": "U", "Shelf": 8}
+{"Item_ID": "13-962-6263", "Name": "Sweet Potato", "Expiration_Date": "11/18/2025", "Warehouse_Location": "7015 Ramsey Lane", "Expiring_Soon": false, "Stock_Quantity": 57, "Aisle": "G", "Shelf": 2}
+{"Item_ID": "40-681-9981", "Name": "Arabica Coffee", "Expiration_Date": "5/8/2025", "Warehouse_Location": "36 3rd Place", "Expiring_Soon": false, "Stock_Quantity": 76, "Aisle": "W", "Shelf": 5}
+{"Item_ID": "44-538-3366", "Name": "Tuna", "Expiration_Date": "3/30/2025", "Warehouse_Location": "46 Cardinal Way", "Expiring_Soon": false, "Stock_Quantity": 53, "Aisle": "F", "Shelf": 4}
+{"Item_ID": "62-777-6010", "Name": "Sushi Rice", "Expiration_Date": "11/5/2025", "Warehouse_Location": "5743 Superior Place", "Expiring_Soon": false, "Stock_Quantity": 166, "Aisle": "N", "Shelf": 8}
+{"Item_ID": "38-617-7226", "Name": "Mushrooms", "Expiration_Date": "7/13/2025", "Warehouse_Location": "33145 Butterfield Avenue", "Expiring_Soon": false, "Stock_Quantity": 58, "Aisle": "N", "Shelf": 8}
+{"Item_ID": "63-890-1246", "Name": "Oatmeal Biscuit", "Expiration_Date": "10/9/2025", "Warehouse_Location": "3 Melrose Trail", "Expiring_Soon": false, "Stock_Quantity": 38, "Aisle": "I", "Shelf": 6}
+{"Item_ID": "63-162-9244", "Name": "Eggplant", "Expiration_Date": "5/17/2025", "Warehouse_Location": "04 Rockefeller Terrace", "Expiring_Soon": false, "Stock_Quantity": 150, "Aisle": "G", "Shelf": 3}
+{"Item_ID": "66-806-6051", "Name": "Yogurt", "Expiration_Date": "5/23/2025", "Warehouse_Location": "8 Kensington Place", "Expiring_Soon": false, "Stock_Quantity": 153, "Aisle": "I", "Shelf": 7}
+{"Item_ID": "00-641-8691", "Name": "Black Coffee", "Expiration_Date": "8/30/2025", "Warehouse_Location": "797 Mcbride Lane", "Expiring_Soon": false, "Stock_Quantity": 161, "Aisle": "K", "Shelf": 1}
+{"Item_ID": "11-891-8213", "Name": "Peanut Oil", "Expiration_Date": "11/13/2025", "Warehouse_Location": "13 Westport Hill", "Expiring_Soon": false, "Stock_Quantity": 119, "Aisle": "N", "Shelf": 1}
+{"Item_ID": "26-456-1992", "Name": "Tilapia", "Expiration_Date": "7/29/2025", "Warehouse_Location": "1792 Crownhardt Street", "Expiring_Soon": false, "Stock_Quantity": 169, "Aisle": "D", "Shelf": 8}
+{"Item_ID": "13-202-4809", "Name": "Garlic", "Expiration_Date": "5/20/2025", "Warehouse_Location": "6195 Monterey Center", "Expiring_Soon": false, "Stock_Quantity": 75, "Aisle": "C", "Shelf": 8}
+{"Item_ID": "36-918-2937", "Name": "Green Coffee", "Expiration_Date": "11/28/2025", "Warehouse_Location": "90865 Sherman Court", "Expiring_Soon": false, "Stock_Quantity": 173, "Aisle": "P", "Shelf": 10}
+{"Item_ID": "06-503-5891", "Name": "Egg (Goose)", "Expiration_Date": "3/16/2025", "Warehouse_Location": "49646 Derek Lane", "Expiring_Soon": false, "Stock_Quantity": 162, "Aisle": "U", "Shelf": 2}
+{"Item_ID": "97-040-3822", "Name": "Swiss Cheese", "Expiration_Date": "5/17/2025", "Warehouse_Location": "42 Clemons Terrace", "Expiring_Soon": false, "Stock_Quantity": 87, "Aisle": "H", "Shelf": 1}
+{"Item_ID": "82-678-8097", "Name": "Cottage Cheese", "Expiration_Date": "4/5/2025", "Warehouse_Location": "6172 Hovde Circle", "Expiring_Soon": false, "Stock_Quantity": 28, "Aisle": "W", "Shelf": 5}
+{"Item_ID": "84-629-1532", "Name": "Arabica Coffee", "Expiration_Date": "7/20/2025", "Warehouse_Location": "7 Sloan Park", "Expiring_Soon": false, "Stock_Quantity": 130, "Aisle": "W", "Shelf": 7}
+{"Item_ID": "50-364-5828", "Name": "Coconut", "Expiration_Date": "12/23/2025", "Warehouse_Location": "772 Golf Course Junction", "Expiring_Soon": false, "Stock_Quantity": 156, "Aisle": "L", "Shelf": 7}
+{"Item_ID": "70-534-7796", "Name": "Zucchini", "Expiration_Date": "1/17/2025", "Warehouse_Location": "76106 Anthes Junction", "Expiring_Soon": false, "Stock_Quantity": 1, "Aisle": "Y", "Shelf": 2}
+{"Item_ID": "63-874-9747", "Name": "Orange", "Expiration_Date": "11/11/2025", "Warehouse_Location": "183 Buell Park", "Expiring_Soon": false, "Stock_Quantity": 53, "Aisle": "A", "Shelf": 7}
+{"Item_ID": "01-839-6534", "Name": "Short Grain Rice", "Expiration_Date": "9/2/2025", "Warehouse_Location": "8 Hazelcrest Street", "Expiring_Soon": false, "Stock_Quantity": 127, "Aisle": "J", "Shelf": 4}
+{"Item_ID": "72-404-5581", "Name": "Almond Flour", "Expiration_Date": "2/8/2025", "Warehouse_Location": "879 Amoth Terrace", "Expiring_Soon": false, "Stock_Quantity": 52, "Aisle": "K", "Shelf": 1}
+{"Item_ID": "51-069-0489", "Name": "Bread Flour", "Expiration_Date": "5/30/2025", "Warehouse_Location": "3 Anthes Place", "Expiring_Soon": false, "Stock_Quantity": 45, "Aisle": "D", "Shelf": 10}
+{"Item_ID": "31-403-6234", "Name": "Tuna", "Expiration_Date": "5/4/2025", "Warehouse_Location": "35 Waxwing Center", "Expiring_Soon": false, "Stock_Quantity": 28, "Aisle": "M", "Shelf": 4}
+{"Item_ID": "84-269-9130", "Name": "Long Grain Rice", "Expiration_Date": "8/2/2025", "Warehouse_Location": "49263 Graceland Pass", "Expiring_Soon": false, "Stock_Quantity": 3, "Aisle": "N", "Shelf": 9}
+{"Item_ID": "19-672-8982", "Name": "Butter", "Expiration_Date": "3/31/2025", "Warehouse_Location": "285 East Plaza", "Expiring_Soon": false, "Stock_Quantity": 105, "Aisle": "S", "Shelf": 5}
+{"Item_ID": "67-248-6306", "Name": "Cauliflower", "Expiration_Date": "12/22/2025", "Warehouse_Location": "05 Bartelt Street", "Expiring_Soon": false, "Stock_Quantity": 136, "Aisle": "A", "Shelf": 6}
+{"Item_ID": "14-550-2152", "Name": "Green Tea", "Expiration_Date": "11/17/2025", "Warehouse_Location": "3 Forster Point", "Expiring_Soon": false, "Stock_Quantity": 137, "Aisle": "T", "Shelf": 9}
+{"Item_ID": "67-025-1245", "Name": "Cabbage", "Expiration_Date": "8/12/2025", "Warehouse_Location": "51890 Lindbergh Terrace", "Expiring_Soon": false, "Stock_Quantity": 78, "Aisle": "W", "Shelf": 9}
+{"Item_ID": "43-703-9939", "Name": "Pineapple", "Expiration_Date": "2/17/2025", "Warehouse_Location": "4 Sundown Place", "Expiring_Soon": false, "Stock_Quantity": 153, "Aisle": "U", "Shelf": 4}
+{"Item_ID": "93-166-3169", "Name": "White Tea", "Expiration_Date": "1/2/2025", "Warehouse_Location": "339 Crescent Oaks Plaza", "Expiring_Soon": false, "Stock_Quantity": 189, "Aisle": "N", "Shelf": 1}
+{"Item_ID": "02-888-9412", "Name": "Cauliflower", "Expiration_Date": "2/4/2025", "Warehouse_Location": "880 Calypso Road", "Expiring_Soon": false, "Stock_Quantity": 125, "Aisle": "C", "Shelf": 7}
+{"Item_ID": "96-961-2193", "Name": "Jasmine Rice", "Expiration_Date": "11/10/2025", "Warehouse_Location": "63578 Butternut Hill", "Expiring_Soon": false, "Stock_Quantity": 132, "Aisle": "Z", "Shelf": 5}
+{"Item_ID": "46-436-5351", "Name": "Green Tea", "Expiration_Date": "4/16/2025", "Warehouse_Location": "226 Calypso Road", "Expiring_Soon": false, "Stock_Quantity": 89, "Aisle": "K", "Shelf": 6}
+{"Item_ID": "88-304-2855", "Name": "Pineapple", "Expiration_Date": "2/12/2025", "Warehouse_Location": "0 Delladonna Place", "Expiring_Soon": false, "Stock_Quantity": 185, "Aisle": "O", "Shelf": 4}
+{"Item_ID": "47-843-8207", "Name": "Cauliflower", "Expiration_Date": "12/27/2025", "Warehouse_Location": "01 Northfield Road", "Expiring_Soon": false, "Stock_Quantity": 172, "Aisle": "P", "Shelf": 3}
+{"Item_ID": "00-963-2193", "Name": "Milk", "Expiration_Date": "12/23/2025", "Warehouse_Location": "5030 Moose Junction", "Expiring_Soon": false, "Stock_Quantity": 67, "Aisle": "Q", "Shelf": 8}
+{"Item_ID": "47-663-5703", "Name": "Basmati Rice", "Expiration_Date": "9/14/2025", "Warehouse_Location": "6500 Raven Drive", "Expiring_Soon": false, "Stock_Quantity": 123, "Aisle": "W", "Shelf": 9}
+{"Item_ID": "56-054-8664", "Name": "Lemon", "Expiration_Date": "3/3/2025", "Warehouse_Location": "01 Straubel Hill", "Expiring_Soon": false, "Stock_Quantity": 57, "Aisle": "H", "Shelf": 3}
+{"Item_ID": "83-917-7384", "Name": "Garlic", "Expiration_Date": "5/11/2025", "Warehouse_Location": "3 Ilene Terrace", "Expiring_Soon": false, "Stock_Quantity": 14, "Aisle": "T", "Shelf": 2}
+{"Item_ID": "67-725-6830", "Name": "Brown Rice", "Expiration_Date": "6/18/2025", "Warehouse_Location": "9 Victoria Point", "Expiring_Soon": false, "Stock_Quantity": 175, "Aisle": "F", "Shelf": 6}
+{"Item_ID": "42-887-6557", "Name": "Long Grain Rice", "Expiration_Date": "3/30/2025", "Warehouse_Location": "61224 Northridge Avenue", "Expiring_Soon": false, "Stock_Quantity": 160, "Aisle": "G", "Shelf": 9}
+{"Item_ID": "71-074-6292", "Name": "Sourdough Bread", "Expiration_Date": "10/17/2025", "Warehouse_Location": "338 Annamark Court", "Expiring_Soon": false, "Stock_Quantity": 86, "Aisle": "Y", "Shelf": 8}
+{"Item_ID": "92-291-7089", "Name": "Cheese", "Expiration_Date": "5/6/2025", "Warehouse_Location": "9307 Kingsford Road", "Expiring_Soon": false, "Stock_Quantity": 30, "Aisle": "K", "Shelf": 1}
+{"Item_ID": "25-911-7736", "Name": "Orange", "Expiration_Date": "8/29/2025", "Warehouse_Location": "72090 Northfield Place", "Expiring_Soon": false, "Stock_Quantity": 198, "Aisle": "H", "Shelf": 7}
+{"Item_ID": "13-888-0149", "Name": "Lime", "Expiration_Date": "3/15/2025", "Warehouse_Location": "1 Logan Road", "Expiring_Soon": false, "Stock_Quantity": 56, "Aisle": "A", "Shelf": 2}
+{"Item_ID": "40-793-7235", "Name": "Sour Cream", "Expiration_Date": "5/19/2025", "Warehouse_Location": "68086 Crowley Circle", "Expiring_Soon": false, "Stock_Quantity": 22, "Aisle": "B", "Shelf": 1}
+{"Item_ID": "13-409-9040", "Name": "White Tea", "Expiration_Date": "1/8/2025", "Warehouse_Location": "9623 Cottonwood Park", "Expiring_Soon": false, "Stock_Quantity": 144, "Aisle": "M", "Shelf": 8}
+{"Item_ID": "10-034-7654", "Name": "Bread Flour", "Expiration_Date": "5/28/2025", "Warehouse_Location": "21 Esker Way", "Expiring_Soon": false, "Stock_Quantity": 5, "Aisle": "B", "Shelf": 7}
+{"Item_ID": "05-425-0746", "Name": "Onion", "Expiration_Date": "6/5/2025", "Warehouse_Location": "49884 Brickson Park Plaza", "Expiring_Soon": false, "Stock_Quantity": 11, "Aisle": "C", "Shelf": 2}
+{"Item_ID": "40-683-0283", "Name": "White Sugar", "Expiration_Date": "5/23/2025", "Warehouse_Location": "322 Birchwood Center", "Expiring_Soon": false, "Stock_Quantity": 4, "Aisle": "Z", "Shelf": 7}
+{"Item_ID": "39-192-3521", "Name": "Herbal Tea", "Expiration_Date": "3/16/2025", "Warehouse_Location": "428 Oriole Avenue", "Expiring_Soon": false, "Stock_Quantity": 25, "Aisle": "B", "Shelf": 5}
+{"Item_ID": "78-614-4402", "Name": "Green Beans", "Expiration_Date": "4/25/2025", "Warehouse_Location": "37 Browning Trail", "Expiring_Soon": false, "Stock_Quantity": 87, "Aisle": "K", "Shelf": 5}
+{"Item_ID": "12-439-8428", "Name": "Eggplant", "Expiration_Date": "5/31/2025", "Warehouse_Location": "6 Rusk Pass", "Expiring_Soon": false, "Stock_Quantity": 80, "Aisle": "Z", "Shelf": 9}
+{"Item_ID": "49-579-4325", "Name": "Ricotta Cheese", "Expiration_Date": "5/17/2025", "Warehouse_Location": "6 Anniversary Circle", "Expiring_Soon": false, "Stock_Quantity": 122, "Aisle": "E", "Shelf": 3}
+{"Item_ID": "21-718-6746", "Name": "Coconut", "Expiration_Date": "6/6/2025", "Warehouse_Location": "277 Pawling Terrace", "Expiring_Soon": false, "Stock_Quantity": 56, "Aisle": "H", "Shelf": 5}
+{"Item_ID": "40-126-0515", "Name": "Carrot", "Expiration_Date": "12/18/2025", "Warehouse_Location": "28351 Cascade Plaza", "Expiring_Soon": false, "Stock_Quantity": 52, "Aisle": "J", "Shelf": 7}
+{"Item_ID": "89-328-9019", "Name": "Bread Flour", "Expiration_Date": "12/8/2025", "Warehouse_Location": "33774 Carberry Circle", "Expiring_Soon": false, "Stock_Quantity": 190, "Aisle": "E", "Shelf": 8}
+{"Item_ID": "64-493-5270", "Name": "Palm Oil", "Expiration_Date": "5/22/2025", "Warehouse_Location": "4571 Fremont Way", "Expiring_Soon": false, "Stock_Quantity": 116, "Aisle": "Y", "Shelf": 10}
+{"Item_ID": "88-807-8431", "Name": "Haddock", "Expiration_Date": "2/9/2025", "Warehouse_Location": "2 Russell Alley", "Expiring_Soon": false, "Stock_Quantity": 48, "Aisle": "V", "Shelf": 2}
+{"Item_ID": "04-038-1547", "Name": "Rye Bread", "Expiration_Date": "6/8/2025", "Warehouse_Location": "76 Shelley Pass", "Expiring_Soon": false, "Stock_Quantity": 27, "Aisle": "D", "Shelf": 6}
+{"Item_ID": "28-008-2951", "Name": "Broccoli", "Expiration_Date": "5/20/2025", "Warehouse_Location": "26 Barnett Junction", "Expiring_Soon": false, "Stock_Quantity": 23, "Aisle": "D", "Shelf": 9}
+{"Item_ID": "24-143-4957", "Name": "Canola Oil", "Expiration_Date": "8/15/2025", "Warehouse_Location": "685 Independence Junction", "Expiring_Soon": false, "Stock_Quantity": 83, "Aisle": "L", "Shelf": 9}
+{"Item_ID": "37-709-3532", "Name": "Mushrooms", "Expiration_Date": "5/11/2025", "Warehouse_Location": "524 Saint Paul Park", "Expiring_Soon": false, "Stock_Quantity": 28, "Aisle": "L", "Shelf": 1}
+{"Item_ID": "88-977-0175", "Name": "Chocolate Biscuit", "Expiration_Date": "7/19/2025", "Warehouse_Location": "7561 5th Terrace", "Expiring_Soon": false, "Stock_Quantity": 44, "Aisle": "M", "Shelf": 7}
+{"Item_ID": "74-666-5671", "Name": "Tuna", "Expiration_Date": "5/4/2025", "Warehouse_Location": "11263 Kipling Hill", "Expiring_Soon": false, "Stock_Quantity": 102, "Aisle": "I", "Shelf": 7}
+{"Item_ID": "29-377-7040", "Name": "Short Grain Rice", "Expiration_Date": "7/29/2025", "Warehouse_Location": "9431 Clarendon Pass", "Expiring_Soon": false, "Stock_Quantity": 58, "Aisle": "V", "Shelf": 9}
+{"Item_ID": "48-770-6319", "Name": "Egg (Duck)", "Expiration_Date": "2/2/2025", "Warehouse_Location": "34 Fremont Point", "Expiring_Soon": false, "Stock_Quantity": 22, "Aisle": "D", "Shelf": 8}
+{"Item_ID": "98-235-2711", "Name": "Asparagus", "Expiration_Date": "1/26/2025", "Warehouse_Location": "5 Transport Pass", "Expiring_Soon": false, "Stock_Quantity": 50, "Aisle": "O", "Shelf": 4}
+{"Item_ID": "64-478-4745", "Name": "Lemon", "Expiration_Date": "11/19/2025", "Warehouse_Location": "208 Miller Court", "Expiring_Soon": false, "Stock_Quantity": 97, "Aisle": "A", "Shelf": 9}
+{"Item_ID": "77-013-1553", "Name": "Canola Oil", "Expiration_Date": "8/20/2025", "Warehouse_Location": "48788 Chinook Place", "Expiring_Soon": false, "Stock_Quantity": 114, "Aisle": "S", "Shelf": 4}
+{"Item_ID": "19-244-9890", "Name": "Herbal Tea", "Expiration_Date": "11/9/2025", "Warehouse_Location": "620 Mockingbird Pass", "Expiring_Soon": false, "Stock_Quantity": 172, "Aisle": "I", "Shelf": 3}
+{"Item_ID": "23-395-3157", "Name": "Vegetable Oil", "Expiration_Date": "3/16/2025", "Warehouse_Location": "74 Sugar Plaza", "Expiring_Soon": false, "Stock_Quantity": 58, "Aisle": "N", "Shelf": 3}
+{"Item_ID": "34-131-8805", "Name": "Yogurt", "Expiration_Date": "12/22/2025", "Warehouse_Location": "44249 Sutteridge Crossing", "Expiring_Soon": false, "Stock_Quantity": 62, "Aisle": "K", "Shelf": 9}
+{"Item_ID": "85-806-8672", "Name": "Black Tea", "Expiration_Date": "11/21/2025", "Warehouse_Location": "24 South Trail", "Expiring_Soon": false, "Stock_Quantity": 126, "Aisle": "K", "Shelf": 4}
+{"Item_ID": "53-680-5293", "Name": "Cheddar Cheese", "Expiration_Date": "8/24/2025", "Warehouse_Location": "97687 Mendota Terrace", "Expiring_Soon": false, "Stock_Quantity": 42, "Aisle": "Z", "Shelf": 6}
+{"Item_ID": "41-729-5410", "Name": "Sardines", "Expiration_Date": "6/26/2025", "Warehouse_Location": "7193 Crownhardt Drive", "Expiring_Soon": false, "Stock_Quantity": 65, "Aisle": "C", "Shelf": 6}
+{"Item_ID": "29-741-8132", "Name": "Kale", "Expiration_Date": "6/3/2025", "Warehouse_Location": "85 Farwell Parkway", "Expiring_Soon": false, "Stock_Quantity": 185, "Aisle": "Q", "Shelf": 3}
+{"Item_ID": "32-987-5559", "Name": "Green Tea", "Expiration_Date": "5/15/2025", "Warehouse_Location": "7 Hallows Alley", "Expiring_Soon": false, "Stock_Quantity": 137, "Aisle": "P", "Shelf": 3}
+{"Item_ID": "98-909-9395", "Name": "Cottage Cheese", "Expiration_Date": "12/7/2025", "Warehouse_Location": "43 Heath Street", "Expiring_Soon": false, "Stock_Quantity": 30, "Aisle": "E", "Shelf": 8}
+{"Item_ID": "50-679-2072", "Name": "Canola Oil", "Expiration_Date": "5/30/2025", "Warehouse_Location": "20 Butterfield Lane", "Expiring_Soon": false, "Stock_Quantity": 187, "Aisle": "D", "Shelf": 1}
+{"Item_ID": "55-697-5242", "Name": "Ricotta Cheese", "Expiration_Date": "9/24/2025", "Warehouse_Location": "19112 Little Fleur Road", "Expiring_Soon": false, "Stock_Quantity": 180, "Aisle": "C", "Shelf": 9}
+{"Item_ID": "50-329-3360", "Name": "Wild Rice", "Expiration_Date": "8/25/2025", "Warehouse_Location": "72 Crownhardt Circle", "Expiring_Soon": false, "Stock_Quantity": 28, "Aisle": "V", "Shelf": 7}
+{"Item_ID": "33-507-9886", "Name": "Pineapple", "Expiration_Date": "6/27/2025", "Warehouse_Location": "0584 Lindbergh Alley", "Expiring_Soon": false, "Stock_Quantity": 13, "Aisle": "S", "Shelf": 4}
+{"Item_ID": "82-231-4245", "Name": "Wild Rice", "Expiration_Date": "1/16/2025", "Warehouse_Location": "77 Monument Court", "Expiring_Soon": false, "Stock_Quantity": 128, "Aisle": "E", "Shelf": 10}
+{"Item_ID": "33-335-9140", "Name": "Olive Oil", "Expiration_Date": "8/27/2025", "Warehouse_Location": "76928 Tennyson Parkway", "Expiring_Soon": false, "Stock_Quantity": 138, "Aisle": "R", "Shelf": 3}
+{"Item_ID": "17-395-1121", "Name": "Plum", "Expiration_Date": "12/3/2025", "Warehouse_Location": "8 Oriole Terrace", "Expiring_Soon": false, "Stock_Quantity": 61, "Aisle": "E", "Shelf": 5}
+{"Item_ID": "64-109-7362", "Name": "Anchovies", "Expiration_Date": "9/29/2025", "Warehouse_Location": "7 Harper Drive", "Expiring_Soon": false, "Stock_Quantity": 186, "Aisle": "L", "Shelf": 6}
+{"Item_ID": "22-266-9291", "Name": "Sardines", "Expiration_Date": "4/8/2025", "Warehouse_Location": "111 David Hill", "Expiring_Soon": false, "Stock_Quantity": 20, "Aisle": "X", "Shelf": 7}
+{"Item_ID": "31-387-5020", "Name": "Parmesan Cheese", "Expiration_Date": "8/14/2025", "Warehouse_Location": "854 Kipling Point", "Expiring_Soon": false, "Stock_Quantity": 120, "Aisle": "R", "Shelf": 6}
+{"Item_ID": "95-640-0293", "Name": "Arborio Rice", "Expiration_Date": "2/7/2025", "Warehouse_Location": "31 Sullivan Hill", "Expiring_Soon": false, "Stock_Quantity": 116, "Aisle": "C", "Shelf": 1}
+{"Item_ID": "70-612-2531", "Name": "Pineapple", "Expiration_Date": "10/30/2025", "Warehouse_Location": "4 Raven Drive", "Expiring_Soon": false, "Stock_Quantity": 122, "Aisle": "S", "Shelf": 4}
+{"Item_ID": "08-519-5579", "Name": "Broccoli", "Expiration_Date": "8/16/2025", "Warehouse_Location": "89 Karstens Alley", "Expiring_Soon": false, "Stock_Quantity": 73, "Aisle": "K", "Shelf": 10}
+{"Item_ID": "67-512-9754", "Name": "Egg (Turkey)", "Expiration_Date": "3/22/2025", "Warehouse_Location": "69 Orin Plaza", "Expiring_Soon": false, "Stock_Quantity": 28, "Aisle": "V", "Shelf": 7}
+{"Item_ID": "82-931-7126", "Name": "Asparagus", "Expiration_Date": "5/12/2025", "Warehouse_Location": "856 School Plaza", "Expiring_Soon": false, "Stock_Quantity": 74, "Aisle": "A", "Shelf": 8}
+{"Item_ID": "95-357-2870", "Name": "Arborio Rice", "Expiration_Date": "5/20/2025", "Warehouse_Location": "87 Corben Street", "Expiring_Soon": false, "Stock_Quantity": 139, "Aisle": "Y", "Shelf": 6}
+{"Item_ID": "24-478-8277", "Name": "Multigrain Bread", "Expiration_Date": "11/26/2025", "Warehouse_Location": "55276 Golf Hill", "Expiring_Soon": false, "Stock_Quantity": 35, "Aisle": "I", "Shelf": 3}
+{"Item_ID": "95-349-0828", "Name": "Feta Cheese", "Expiration_Date": "2/6/2025", "Warehouse_Location": "60 Towne Hill", "Expiring_Soon": false, "Stock_Quantity": 52, "Aisle": "F", "Shelf": 4}
+{"Item_ID": "47-866-6589", "Name": "Egg (Duck)", "Expiration_Date": "7/27/2025", "Warehouse_Location": "30880 Barnett Junction", "Expiring_Soon": false, "Stock_Quantity": 133, "Aisle": "I", "Shelf": 2}
+{"Item_ID": "56-937-8675", "Name": "Cream", "Expiration_Date": "12/8/2025", "Warehouse_Location": "668 Claremont Place", "Expiring_Soon": false, "Stock_Quantity": 160, "Aisle": "Z", "Shelf": 3}
+{"Item_ID": "82-395-5070", "Name": "Chocolate Biscuit", "Expiration_Date": "2/20/2025", "Warehouse_Location": "43442 Homewood Street", "Expiring_Soon": false, "Stock_Quantity": 141, "Aisle": "T", "Shelf": 6}
+{"Item_ID": "07-970-9352", "Name": "Bell Pepper", "Expiration_Date": "7/12/2025", "Warehouse_Location": "459 Gateway Pass", "Expiring_Soon": false, "Stock_Quantity": 142, "Aisle": "W", "Shelf": 10}
+{"Item_ID": "70-587-1204", "Name": "Black Rice", "Expiration_Date": "6/23/2025", "Warehouse_Location": "2446 Anhalt Way", "Expiring_Soon": false, "Stock_Quantity": 51, "Aisle": "S", "Shelf": 2}
+{"Item_ID": "15-169-8058", "Name": "Bread Flour", "Expiration_Date": "4/18/2025", "Warehouse_Location": "26160 Independence Alley", "Expiring_Soon": false, "Stock_Quantity": 135, "Aisle": "W", "Shelf": 2}
+{"Item_ID": "03-061-1344", "Name": "Trout", "Expiration_Date": "6/27/2025", "Warehouse_Location": "96420 Briar Crest Lane", "Expiring_Soon": false, "Stock_Quantity": 9, "Aisle": "H", "Shelf": 4}
+{"Item_ID": "74-711-7160", "Name": "Sushi Rice", "Expiration_Date": "6/1/2025", "Warehouse_Location": "44296 Kropf Avenue", "Expiring_Soon": false, "Stock_Quantity": 171, "Aisle": "X", "Shelf": 5}
+{"Item_ID": "22-329-7791", "Name": "Watermelon", "Expiration_Date": "9/19/2025", "Warehouse_Location": "50687 Porter Park", "Expiring_Soon": false, "Stock_Quantity": 108, "Aisle": "H", "Shelf": 10}
+{"Item_ID": "37-606-0510", "Name": "Milk", "Expiration_Date": "11/9/2025", "Warehouse_Location": "53 Homewood Alley", "Expiring_Soon": false, "Stock_Quantity": 57, "Aisle": "P", "Shelf": 4}
+{"Item_ID": "16-632-1308", "Name": "Arabica Coffee", "Expiration_Date": "11/21/2025", "Warehouse_Location": "60094 Goodland Junction", "Expiring_Soon": false, "Stock_Quantity": 99, "Aisle": "G", "Shelf": 9}
+{"Item_ID": "93-813-2419", "Name": "Digestive Biscuit", "Expiration_Date": "6/22/2025", "Warehouse_Location": "7407 Farragut Pass", "Expiring_Soon": false, "Stock_Quantity": 133, "Aisle": "E", "Shelf": 4}
+{"Item_ID": "10-854-5467", "Name": "Canola Oil", "Expiration_Date": "11/26/2025", "Warehouse_Location": "3 Oakridge Parkway", "Expiring_Soon": false, "Stock_Quantity": 198, "Aisle": "V", "Shelf": 3}
+{"Item_ID": "54-830-6971", "Name": "Tilapia", "Expiration_Date": "5/18/2025", "Warehouse_Location": "674 Ryan Alley", "Expiring_Soon": false, "Stock_Quantity": 194, "Aisle": "D", "Shelf": 1}
+{"Item_ID": "94-528-8088", "Name": "Haddock", "Expiration_Date": "3/8/2025", "Warehouse_Location": "21379 Stoughton Junction", "Expiring_Soon": false, "Stock_Quantity": 93, "Aisle": "W", "Shelf": 9}
+{"Item_ID": "94-697-2396", "Name": "Sourdough Bread", "Expiration_Date": "7/7/2025", "Warehouse_Location": "44 Thompson Terrace", "Expiring_Soon": false, "Stock_Quantity": 87, "Aisle": "L", "Shelf": 6}
+{"Item_ID": "04-542-3863", "Name": "Bread Flour", "Expiration_Date": "12/22/2025", "Warehouse_Location": "403 Loomis Way", "Expiring_Soon": false, "Stock_Quantity": 174, "Aisle": "H", "Shelf": 8}
+{"Item_ID": "02-974-8526", "Name": "Onion", "Expiration_Date": "8/7/2025", "Warehouse_Location": "42 Green Ridge Terrace", "Expiring_Soon": false, "Stock_Quantity": 27, "Aisle": "Z", "Shelf": 10}
+{"Item_ID": "09-712-3630", "Name": "Grapes", "Expiration_Date": "9/30/2025", "Warehouse_Location": "10 Golf Course Hill", "Expiring_Soon": false, "Stock_Quantity": 87, "Aisle": "K", "Shelf": 8}
+{"Item_ID": "42-674-3917", "Name": "Whole Wheat Flour", "Expiration_Date": "6/6/2025", "Warehouse_Location": "78 Forest Dale Road", "Expiring_Soon": false, "Stock_Quantity": 115, "Aisle": "H", "Shelf": 9}
+{"Item_ID": "02-170-5225", "Name": "Raw Sugar", "Expiration_Date": "2/23/2025", "Warehouse_Location": "36 Bobwhite Parkway", "Expiring_Soon": false, "Stock_Quantity": 167, "Aisle": "V", "Shelf": 3}
+{"Item_ID": "94-071-2261", "Name": "Pear", "Expiration_Date": "3/30/2025", "Warehouse_Location": "2004 Cody Plaza", "Expiring_Soon": false, "Stock_Quantity": 130, "Aisle": "S", "Shelf": 2}
+{"Item_ID": "01-018-6418", "Name": "Chocolate Biscuit", "Expiration_Date": "7/16/2025", "Warehouse_Location": "481 Mifflin Hill", "Expiring_Soon": false, "Stock_Quantity": 45, "Aisle": "O", "Shelf": 8}
+{"Item_ID": "10-002-6494", "Name": "Mango", "Expiration_Date": "11/11/2025", "Warehouse_Location": "48 Vahlen Place", "Expiring_Soon": false, "Stock_Quantity": 43, "Aisle": "F", "Shelf": 2}
+{"Item_ID": "37-246-0018", "Name": "Broccoli", "Expiration_Date": "4/11/2025", "Warehouse_Location": "52 Alpine Crossing", "Expiring_Soon": false, "Stock_Quantity": 187, "Aisle": "N", "Shelf": 9}
+{"Item_ID": "50-329-3145", "Name": "Milk", "Expiration_Date": "4/21/2025", "Warehouse_Location": "591 Maple Wood Drive", "Expiring_Soon": false, "Stock_Quantity": 17, "Aisle": "W", "Shelf": 1}
+{"Item_ID": "57-167-0669", "Name": "Haddock", "Expiration_Date": "12/30/2025", "Warehouse_Location": "1005 Lyons Junction", "Expiring_Soon": false, "Stock_Quantity": 145, "Aisle": "E", "Shelf": 4}
+{"Item_ID": "00-119-8780", "Name": "Halibut", "Expiration_Date": "3/4/2025", "Warehouse_Location": "21 Sunbrook Court", "Expiring_Soon": false, "Stock_Quantity": 56, "Aisle": "E", "Shelf": 4}
+{"Item_ID": "10-255-8579", "Name": "Basmati Rice", "Expiration_Date": "1/28/2025", "Warehouse_Location": "1959 Marcy Center", "Expiring_Soon": false, "Stock_Quantity": 94, "Aisle": "I", "Shelf": 5}
+{"Item_ID": "36-531-4087", "Name": "Almond Flour", "Expiration_Date": "3/14/2025", "Warehouse_Location": "2 Columbus Drive", "Expiring_Soon": false, "Stock_Quantity": 71, "Aisle": "M", "Shelf": 5}
+{"Item_ID": "54-109-8062", "Name": "Sushi Rice", "Expiration_Date": "2/16/2025", "Warehouse_Location": "67 Little Fleur Road", "Expiring_Soon": false, "Stock_Quantity": 25, "Aisle": "H", "Shelf": 8}
+{"Item_ID": "73-751-4393", "Name": "Onion", "Expiration_Date": "3/23/2025", "Warehouse_Location": "03 Roth Court", "Expiring_Soon": false, "Stock_Quantity": 199, "Aisle": "L", "Shelf": 2}
+{"Item_ID": "82-342-7339", "Name": "Vanilla Biscuit", "Expiration_Date": "3/4/2025", "Warehouse_Location": "317 Anniversary Pass", "Expiring_Soon": false, "Stock_Quantity": 65, "Aisle": "U", "Shelf": 5}
+{"Item_ID": "38-417-4656", "Name": "White Sugar", "Expiration_Date": "12/23/2025", "Warehouse_Location": "1309 Elka Junction", "Expiring_Soon": false, "Stock_Quantity": 124, "Aisle": "L", "Shelf": 3}
+{"Item_ID": "55-164-7723", "Name": "Halibut", "Expiration_Date": "1/8/2025", "Warehouse_Location": "6410 Northwestern Pass", "Expiring_Soon": false, "Stock_Quantity": 17, "Aisle": "F", "Shelf": 1}
+{"Item_ID": "45-250-4679", "Name": "Bread Flour", "Expiration_Date": "7/5/2025", "Warehouse_Location": "49148 Meadow Ridge Way", "Expiring_Soon": false, "Stock_Quantity": 160, "Aisle": "X", "Shelf": 10}
+{"Item_ID": "62-393-9939", "Name": "Cheddar Cheese", "Expiration_Date": "10/5/2025", "Warehouse_Location": "5 Oxford Pass", "Expiring_Soon": false, "Stock_Quantity": 59, "Aisle": "X", "Shelf": 3}
+{"Item_ID": "52-481-5224", "Name": "Kiwi", "Expiration_Date": "2/15/2025", "Warehouse_Location": "80 Old Shore Plaza", "Expiring_Soon": false, "Stock_Quantity": 25, "Aisle": "K", "Shelf": 3}
+{"Item_ID": "94-658-4945", "Name": "Sweet Potato", "Expiration_Date": "5/8/2025", "Warehouse_Location": "15 Veith Circle", "Expiring_Soon": false, "Stock_Quantity": 139, "Aisle": "J", "Shelf": 7}
+{"Item_ID": "35-257-9312", "Name": "Parmesan Cheese", "Expiration_Date": "4/6/2025", "Warehouse_Location": "9463 Northland Court", "Expiring_Soon": false, "Stock_Quantity": 64, "Aisle": "S", "Shelf": 6}
+{"Item_ID": "56-213-0577", "Name": "Papaya", "Expiration_Date": "9/17/2025", "Warehouse_Location": "851 Hollow Ridge Center", "Expiring_Soon": false, "Stock_Quantity": 74, "Aisle": "F", "Shelf": 8}
+{"Item_ID": "10-378-9729", "Name": "Cabbage", "Expiration_Date": "9/21/2025", "Warehouse_Location": "2 Butterfield Pass", "Expiring_Soon": false, "Stock_Quantity": 160, "Aisle": "T", "Shelf": 9}
+{"Item_ID": "14-305-5348", "Name": "Cheese", "Expiration_Date": "3/20/2025", "Warehouse_Location": "19 Shoshone Circle", "Expiring_Soon": false, "Stock_Quantity": 95, "Aisle": "E", "Shelf": 3}
+{"Item_ID": "50-772-2613", "Name": "Cheddar Cheese", "Expiration_Date": "3/23/2025", "Warehouse_Location": "7 Lunder Hill", "Expiring_Soon": false, "Stock_Quantity": 92, "Aisle": "E", "Shelf": 9}
+{"Item_ID": "20-387-7746", "Name": "Powdered Sugar", "Expiration_Date": "10/27/2025", "Warehouse_Location": "9050 Dorton Pass", "Expiring_Soon": false, "Stock_Quantity": 48, "Aisle": "U", "Shelf": 5}
+{"Item_ID": "45-317-9731", "Name": "Palm Oil", "Expiration_Date": "8/20/2025", "Warehouse_Location": "70156 7th Junction", "Expiring_Soon": false, "Stock_Quantity": 146, "Aisle": "Z", "Shelf": 3}
+{"Item_ID": "02-275-6061", "Name": "Potato", "Expiration_Date": "8/19/2025", "Warehouse_Location": "6891 Mandrake Park", "Expiring_Soon": false, "Stock_Quantity": 137, "Aisle": "K", "Shelf": 4}
+{"Item_ID": "60-343-3288", "Name": "Tilapia", "Expiration_Date": "5/3/2025", "Warehouse_Location": "6 Hanover Terrace", "Expiring_Soon": false, "Stock_Quantity": 135, "Aisle": "C", "Shelf": 4}
+{"Item_ID": "70-145-2550", "Name": "Lemon", "Expiration_Date": "8/6/2025", "Warehouse_Location": "5141 Anniversary Crossing", "Expiring_Soon": false, "Stock_Quantity": 53, "Aisle": "R", "Shelf": 5}
+{"Item_ID": "85-207-4164", "Name": "Eggplant", "Expiration_Date": "12/10/2025", "Warehouse_Location": "41 Comanche Park", "Expiring_Soon": false, "Stock_Quantity": 96, "Aisle": "E", "Shelf": 9}
+{"Item_ID": "34-861-4446", "Name": "Ricotta Cheese", "Expiration_Date": "1/6/2025", "Warehouse_Location": "113 Donald Court", "Expiring_Soon": false, "Stock_Quantity": 14, "Aisle": "X", "Shelf": 6}
+{"Item_ID": "66-854-5736", "Name": "Kiwi", "Expiration_Date": "5/10/2025", "Warehouse_Location": "50880 Nobel Road", "Expiring_Soon": false, "Stock_Quantity": 137, "Aisle": "W", "Shelf": 6}
+{"Item_ID": "16-187-5729", "Name": "Black Tea", "Expiration_Date": "3/30/2025", "Warehouse_Location": "22555 Macpherson Plaza", "Expiring_Soon": false, "Stock_Quantity": 51, "Aisle": "J", "Shelf": 6}
+{"Item_ID": "34-538-1180", "Name": "Sour Cream", "Expiration_Date": "4/6/2025", "Warehouse_Location": "19 Aberg Trail", "Expiring_Soon": false, "Stock_Quantity": 156, "Aisle": "T", "Shelf": 4}
+{"Item_ID": "02-575-1980", "Name": "Plum", "Expiration_Date": "11/24/2025", "Warehouse_Location": "34832 Autumn Leaf Terrace", "Expiring_Soon": false, "Stock_Quantity": 87, "Aisle": "F", "Shelf": 10}
+{"Item_ID": "22-760-4605", "Name": "Yogurt", "Expiration_Date": "8/3/2025", "Warehouse_Location": "09264 Forest Dale Drive", "Expiring_Soon": false, "Stock_Quantity": 102, "Aisle": "U", "Shelf": 3}
+{"Item_ID": "99-894-4351", "Name": "White Sugar", "Expiration_Date": "12/25/2025", "Warehouse_Location": "185 Saint Paul Road", "Expiring_Soon": false, "Stock_Quantity": 19, "Aisle": "N", "Shelf": 10}
+{"Item_ID": "11-316-8405", "Name": "Mango", "Expiration_Date": "11/25/2025", "Warehouse_Location": "108 Morning Center", "Expiring_Soon": false, "Stock_Quantity": 183, "Aisle": "W", "Shelf": 4}
+{"Item_ID": "98-499-2220", "Name": "Parmesan Cheese", "Expiration_Date": "11/21/2025", "Warehouse_Location": "27 School Court", "Expiring_Soon": false, "Stock_Quantity": 133, "Aisle": "Q", "Shelf": 3}
+{"Item_ID": "10-137-9759", "Name": "Watermelon", "Expiration_Date": "3/10/2025", "Warehouse_Location": "402 Kings Road", "Expiring_Soon": false, "Stock_Quantity": 132, "Aisle": "J", "Shelf": 5}
+{"Item_ID": "43-910-2342", "Name": "Plum", "Expiration_Date": "7/19/2025", "Warehouse_Location": "46758 Hallows Center", "Expiring_Soon": false, "Stock_Quantity": 78, "Aisle": "Q", "Shelf": 5}
+{"Item_ID": "84-151-2114", "Name": "Brown Rice", "Expiration_Date": "8/11/2025", "Warehouse_Location": "12 Rigney Street", "Expiring_Soon": false, "Stock_Quantity": 112, "Aisle": "T", "Shelf": 7}
+{"Item_ID": "43-693-2092", "Name": "Butter", "Expiration_Date": "9/22/2025", "Warehouse_Location": "76 Toban Plaza", "Expiring_Soon": false, "Stock_Quantity": 168, "Aisle": "I", "Shelf": 8}
+{"Item_ID": "90-492-0564", "Name": "Pomegranate", "Expiration_Date": "7/20/2025", "Warehouse_Location": "54 Pawling Crossing", "Expiring_Soon": false, "Stock_Quantity": 119, "Aisle": "H", "Shelf": 5}
+{"Item_ID": "43-851-9440", "Name": "Lime", "Expiration_Date": "3/4/2025", "Warehouse_Location": "4033 Sloan Hill", "Expiring_Soon": false, "Stock_Quantity": 6, "Aisle": "Q", "Shelf": 9}
+{"Item_ID": "19-323-0506", "Name": "Halibut", "Expiration_Date": "10/15/2025", "Warehouse_Location": "5 Ohio Lane", "Expiring_Soon": false, "Stock_Quantity": 192, "Aisle": "W", "Shelf": 2}
+{"Item_ID": "80-020-8041", "Name": "Black Rice", "Expiration_Date": "7/8/2025", "Warehouse_Location": "662 Vernon Point", "Expiring_Soon": false, "Stock_Quantity": 89, "Aisle": "X", "Shelf": 5}
+{"Item_ID": "68-734-1585", "Name": "Greek Yogurt", "Expiration_Date": "7/13/2025", "Warehouse_Location": "3 Hagan Drive", "Expiring_Soon": false, "Stock_Quantity": 28, "Aisle": "O", "Shelf": 2}
+{"Item_ID": "70-871-4536", "Name": "Swiss Cheese", "Expiration_Date": "6/17/2025", "Warehouse_Location": "5 Waxwing Junction", "Expiring_Soon": false, "Stock_Quantity": 109, "Aisle": "Q", "Shelf": 5}
+{"Item_ID": "74-818-3306", "Name": "Spinach", "Expiration_Date": "5/9/2025", "Warehouse_Location": "62 Thackeray Center", "Expiring_Soon": false, "Stock_Quantity": 23, "Aisle": "N", "Shelf": 2}
+{"Item_ID": "29-823-6004", "Name": "Zucchini", "Expiration_Date": "3/10/2025", "Warehouse_Location": "3 Lawn Park", "Expiring_Soon": false, "Stock_Quantity": 39, "Aisle": "B", "Shelf": 8}
+{"Item_ID": "49-570-8214", "Name": "Sour Cream", "Expiration_Date": "12/18/2025", "Warehouse_Location": "1823 Elgar Park", "Expiring_Soon": false, "Stock_Quantity": 152, "Aisle": "C", "Shelf": 8}
+{"Item_ID": "76-476-9996", "Name": "Chocolate Biscuit", "Expiration_Date": "12/6/2025", "Warehouse_Location": "0 Larry Terrace", "Expiring_Soon": false, "Stock_Quantity": 182, "Aisle": "O", "Shelf": 5}
+{"Item_ID": "27-262-2437", "Name": "Swiss Cheese", "Expiration_Date": "10/9/2025", "Warehouse_Location": "739 Swallow Road", "Expiring_Soon": false, "Stock_Quantity": 16, "Aisle": "O", "Shelf": 2}
+{"Item_ID": "44-637-5512", "Name": "Watermelon", "Expiration_Date": "5/26/2025", "Warehouse_Location": "00064 Mosinee Circle", "Expiring_Soon": false, "Stock_Quantity": 169, "Aisle": "R", "Shelf": 1}
+{"Item_ID": "81-605-6246", "Name": "Sardines", "Expiration_Date": "3/6/2025", "Warehouse_Location": "65721 Caliangt Crossing", "Expiring_Soon": false, "Stock_Quantity": 106, "Aisle": "V", "Shelf": 7}
+{"Item_ID": "92-455-2959", "Name": "Robusta Coffee", "Expiration_Date": "2/25/2025", "Warehouse_Location": "0 Ohio Hill", "Expiring_Soon": false, "Stock_Quantity": 163, "Aisle": "B", "Shelf": 3}
+{"Item_ID": "31-746-4951", "Name": "Whole Wheat Flour", "Expiration_Date": "9/6/2025", "Warehouse_Location": "759 Waywood Court", "Expiring_Soon": false, "Stock_Quantity": 67, "Aisle": "P", "Shelf": 3}
+{"Item_ID": "35-529-2933", "Name": "Broccoli", "Expiration_Date": "7/13/2025", "Warehouse_Location": "2 School Drive", "Expiring_Soon": false, "Stock_Quantity": 84, "Aisle": "O", "Shelf": 2}
+{"Item_ID": "10-249-7928", "Name": "Black Rice", "Expiration_Date": "11/3/2025", "Warehouse_Location": "57598 Russell Center", "Expiring_Soon": false, "Stock_Quantity": 134, "Aisle": "I", "Shelf": 7}
+{"Item_ID": "42-907-6946", "Name": "Coconut Oil", "Expiration_Date": "8/31/2025", "Warehouse_Location": "093 Anhalt Crossing", "Expiring_Soon": false, "Stock_Quantity": 176, "Aisle": "W", "Shelf": 7}
+{"Item_ID": "15-846-7959", "Name": "Zucchini", "Expiration_Date": "3/20/2025", "Warehouse_Location": "6251 Eliot Hill", "Expiring_Soon": false, "Stock_Quantity": 121, "Aisle": "B", "Shelf": 6}
+{"Item_ID": "03-276-3931", "Name": "Mango", "Expiration_Date": "12/20/2025", "Warehouse_Location": "081 Bellgrove Place", "Expiring_Soon": false, "Stock_Quantity": 4, "Aisle": "J", "Shelf": 4}
+{"Item_ID": "28-608-0039", "Name": "Lemon", "Expiration_Date": "4/15/2025", "Warehouse_Location": "31057 Roth Place", "Expiring_Soon": false, "Stock_Quantity": 118, "Aisle": "X", "Shelf": 1}
+{"Item_ID": "47-548-6500", "Name": "Onion", "Expiration_Date": "12/25/2025", "Warehouse_Location": "06 Shopko Pass", "Expiring_Soon": false, "Stock_Quantity": 94, "Aisle": "R", "Shelf": 10}
+{"Item_ID": "00-215-7434", "Name": "Egg (Goose)", "Expiration_Date": "11/28/2025", "Warehouse_Location": "389 Ridgeway Park", "Expiring_Soon": false, "Stock_Quantity": 43, "Aisle": "U", "Shelf": 8}
+{"Item_ID": "41-735-9837", "Name": "Robusta Coffee", "Expiration_Date": "9/1/2025", "Warehouse_Location": "2374 Chive Court", "Expiring_Soon": false, "Stock_Quantity": 176, "Aisle": "U", "Shelf": 6}
+{"Item_ID": "65-282-0419", "Name": "White Tea", "Expiration_Date": "12/5/2025", "Warehouse_Location": "509 Waywood Center", "Expiring_Soon": false, "Stock_Quantity": 138, "Aisle": "V", "Shelf": 9}
+{"Item_ID": "01-703-8441", "Name": "Raw Sugar", "Expiration_Date": "6/21/2025", "Warehouse_Location": "4029 Lotheville Pass", "Expiring_Soon": false, "Stock_Quantity": 133, "Aisle": "H", "Shelf": 7}
+{"Item_ID": "21-650-9319", "Name": "White Bread", "Expiration_Date": "4/24/2025", "Warehouse_Location": "4 Hagan Court", "Expiring_Soon": false, "Stock_Quantity": 102, "Aisle": "P", "Shelf": 6}
+{"Item_ID": "83-556-0996", "Name": "Powdered Sugar", "Expiration_Date": "10/30/2025", "Warehouse_Location": "53 Forest Run Plaza", "Expiring_Soon": false, "Stock_Quantity": 71, "Aisle": "K", "Shelf": 5}
+{"Item_ID": "32-270-1385", "Name": "Greek Yogurt", "Expiration_Date": "8/8/2025", "Warehouse_Location": "0500 Calypso Pass", "Expiring_Soon": false, "Stock_Quantity": 200, "Aisle": "B", "Shelf": 7}
+{"Item_ID": "47-578-4161", "Name": "Anchovies", "Expiration_Date": "9/14/2025", "Warehouse_Location": "5 Forest Run Way", "Expiring_Soon": false, "Stock_Quantity": 63, "Aisle": "M", "Shelf": 6}
+{"Item_ID": "07-337-9889", "Name": "Cauliflower", "Expiration_Date": "9/29/2025", "Warehouse_Location": "4 Loomis Way", "Expiring_Soon": false, "Stock_Quantity": 198, "Aisle": "D", "Shelf": 5}
+{"Item_ID": "29-436-6570", "Name": "Digestive Biscuit", "Expiration_Date": "9/17/2025", "Warehouse_Location": "30590 Bowman Alley", "Expiring_Soon": false, "Stock_Quantity": 23, "Aisle": "S", "Shelf": 1}
+{"Item_ID": "74-181-4135", "Name": "Egg (Chicken)", "Expiration_Date": "9/17/2025", "Warehouse_Location": "79878 Katie Trail", "Expiring_Soon": false, "Stock_Quantity": 66, "Aisle": "R", "Shelf": 4}
+{"Item_ID": "69-171-1305", "Name": "Brown Rice", "Expiration_Date": "10/11/2025", "Warehouse_Location": "9951 Petterle Alley", "Expiring_Soon": false, "Stock_Quantity": 49, "Aisle": "B", "Shelf": 9}
+{"Item_ID": "38-655-2312", "Name": "Kale", "Expiration_Date": "10/18/2025", "Warehouse_Location": "17 Reinke Circle", "Expiring_Soon": false, "Stock_Quantity": 167, "Aisle": "X", "Shelf": 6}
+{"Item_ID": "00-366-9496", "Name": "Grapes", "Expiration_Date": "12/28/2025", "Warehouse_Location": "898 Rowland Trail", "Expiring_Soon": false, "Stock_Quantity": 40, "Aisle": "H", "Shelf": 4}
+{"Item_ID": "86-978-6666", "Name": "Whole Wheat Flour", "Expiration_Date": "9/15/2025", "Warehouse_Location": "21343 Brentwood Circle", "Expiring_Soon": false, "Stock_Quantity": 52, "Aisle": "N", "Shelf": 2}
+{"Item_ID": "36-296-9609", "Name": "Sunflower Oil", "Expiration_Date": "12/1/2025", "Warehouse_Location": "7 Rutledge Pass", "Expiring_Soon": false, "Stock_Quantity": 120, "Aisle": "I", "Shelf": 2}
+{"Item_ID": "14-521-4167", "Name": "Buttermilk", "Expiration_Date": "3/6/2025", "Warehouse_Location": "00847 Reindahl Place", "Expiring_Soon": false, "Stock_Quantity": 68, "Aisle": "Q", "Shelf": 3}
+{"Item_ID": "87-762-1317", "Name": "Mozzarella Cheese", "Expiration_Date": "2/9/2025", "Warehouse_Location": "9305 Warrior Way", "Expiring_Soon": false, "Stock_Quantity": 145, "Aisle": "P", "Shelf": 5}
+{"Item_ID": "87-272-6544", "Name": "Egg (Goose)", "Expiration_Date": "2/13/2025", "Warehouse_Location": "4 Nelson Alley", "Expiring_Soon": false, "Stock_Quantity": 34, "Aisle": "Y", "Shelf": 10}
+{"Item_ID": "48-789-9187", "Name": "Peach", "Expiration_Date": "11/15/2025", "Warehouse_Location": "41 Stephen Crossing", "Expiring_Soon": false, "Stock_Quantity": 87, "Aisle": "H", "Shelf": 8}
+{"Item_ID": "61-607-7622", "Name": "Egg (Duck)", "Expiration_Date": "1/15/2025", "Warehouse_Location": "329 Helena Park", "Expiring_Soon": false, "Stock_Quantity": 20, "Aisle": "W", "Shelf": 8}
+{"Item_ID": "79-494-2472", "Name": "Green Beans", "Expiration_Date": "4/23/2025", "Warehouse_Location": "1615 Bellgrove Crossing", "Expiring_Soon": false, "Stock_Quantity": 150, "Aisle": "Z", "Shelf": 6}
+{"Item_ID": "77-777-4536", "Name": "Basmati Rice", "Expiration_Date": "4/4/2025", "Warehouse_Location": "4784 Farmco Alley", "Expiring_Soon": false, "Stock_Quantity": 105, "Aisle": "N", "Shelf": 8}
+{"Item_ID": "40-021-2400", "Name": "Zucchini", "Expiration_Date": "5/11/2025", "Warehouse_Location": "265 Columbus Way", "Expiring_Soon": false, "Stock_Quantity": 136, "Aisle": "L", "Shelf": 1}
+{"Item_ID": "91-127-7489", "Name": "Orange", "Expiration_Date": "8/4/2025", "Warehouse_Location": "43211 Anzinger Drive", "Expiring_Soon": false, "Stock_Quantity": 165, "Aisle": "E", "Shelf": 7}
+{"Item_ID": "26-010-9519", "Name": "Trout", "Expiration_Date": "1/9/2025", "Warehouse_Location": "4508 Shopko Trail", "Expiring_Soon": false, "Stock_Quantity": 10, "Aisle": "V", "Shelf": 5}
+{"Item_ID": "39-358-3340", "Name": "Basmati Rice", "Expiration_Date": "3/14/2025", "Warehouse_Location": "308 Doe Crossing Pass", "Expiring_Soon": false, "Stock_Quantity": 152, "Aisle": "L", "Shelf": 3}
+{"Item_ID": "19-021-5024", "Name": "Broccoli", "Expiration_Date": "5/7/2025", "Warehouse_Location": "4 Heffernan Lane", "Expiring_Soon": false, "Stock_Quantity": 199, "Aisle": "S", "Shelf": 2}
+{"Item_ID": "57-903-6434", "Name": "Tomato", "Expiration_Date": "3/23/2025", "Warehouse_Location": "34 Linden Court", "Expiring_Soon": false, "Stock_Quantity": 141, "Aisle": "D", "Shelf": 4}
+{"Item_ID": "43-893-5408", "Name": "Short Grain Rice", "Expiration_Date": "8/24/2025", "Warehouse_Location": "6 Orin Place", "Expiring_Soon": false, "Stock_Quantity": 49, "Aisle": "J", "Shelf": 5}
+{"Item_ID": "09-536-2626", "Name": "Olive Oil", "Expiration_Date": "3/21/2025", "Warehouse_Location": "205 Straubel Court", "Expiring_Soon": false, "Stock_Quantity": 187, "Aisle": "B", "Shelf": 1}
+{"Item_ID": "69-578-7930", "Name": "Brown Rice", "Expiration_Date": "6/5/2025", "Warehouse_Location": "83291 Hansons Crossing", "Expiring_Soon": false, "Stock_Quantity": 154, "Aisle": "K", "Shelf": 3}
+{"Item_ID": "42-141-5718", "Name": "Cheese", "Expiration_Date": "12/26/2025", "Warehouse_Location": "1700 Briar Crest Parkway", "Expiring_Soon": false, "Stock_Quantity": 100, "Aisle": "W", "Shelf": 7}
+{"Item_ID": "41-240-8856", "Name": "Haddock", "Expiration_Date": "1/10/2025", "Warehouse_Location": "8 Autumn Leaf Drive", "Expiring_Soon": false, "Stock_Quantity": 153, "Aisle": "L", "Shelf": 4}
+{"Item_ID": "71-954-4501", "Name": "Anchovies", "Expiration_Date": "7/26/2025", "Warehouse_Location": "290 Rusk Avenue", "Expiring_Soon": false, "Stock_Quantity": 97, "Aisle": "N", "Shelf": 6}
+{"Item_ID": "44-408-7594", "Name": "Eggplant", "Expiration_Date": "1/8/2025", "Warehouse_Location": "81 Oneill Circle", "Expiring_Soon": false, "Stock_Quantity": 176, "Aisle": "Z", "Shelf": 9}
+{"Item_ID": "93-966-7754", "Name": "Pineapple", "Expiration_Date": "9/27/2025", "Warehouse_Location": "4 4th Place", "Expiring_Soon": false, "Stock_Quantity": 92, "Aisle": "X", "Shelf": 8}
+{"Item_ID": "26-629-5920", "Name": "Rye Bread", "Expiration_Date": "12/14/2025", "Warehouse_Location": "77563 Russell Lane", "Expiring_Soon": false, "Stock_Quantity": 57, "Aisle": "I", "Shelf": 2}
+{"Item_ID": "42-175-1648", "Name": "Pomegranate", "Expiration_Date": "9/9/2025", "Warehouse_Location": "72778 Loftsgordon Center", "Expiring_Soon": false, "Stock_Quantity": 120, "Aisle": "U", "Shelf": 10}
+{"Item_ID": "71-300-2191", "Name": "Broccoli", "Expiration_Date": "5/1/2025", "Warehouse_Location": "7 Heffernan Drive", "Expiring_Soon": false, "Stock_Quantity": 194, "Aisle": "T", "Shelf": 5}
+{"Item_ID": "85-212-2729", "Name": "Egg (Turkey)", "Expiration_Date": "5/16/2025", "Warehouse_Location": "93 Longview Junction", "Expiring_Soon": false, "Stock_Quantity": 150, "Aisle": "X", "Shelf": 10}
+{"Item_ID": "83-553-9523", "Name": "Buttermilk", "Expiration_Date": "1/28/2025", "Warehouse_Location": "84336 Haas Place", "Expiring_Soon": false, "Stock_Quantity": 165, "Aisle": "I", "Shelf": 3}
+{"Item_ID": "13-798-3397", "Name": "Egg (Turkey)", "Expiration_Date": "12/20/2025", "Warehouse_Location": "93321 Kennedy Point", "Expiring_Soon": false, "Stock_Quantity": 33, "Aisle": "K", "Shelf": 2}
+{"Item_ID": "49-919-8798", "Name": "Evaporated Milk", "Expiration_Date": "10/10/2025", "Warehouse_Location": "3 Dottie Junction", "Expiring_Soon": false, "Stock_Quantity": 8, "Aisle": "I", "Shelf": 2}
+{"Item_ID": "44-368-7112", "Name": "Corn Oil", "Expiration_Date": "12/6/2025", "Warehouse_Location": "82 Hintze Court", "Expiring_Soon": false, "Stock_Quantity": 174, "Aisle": "D", "Shelf": 8}
+{"Item_ID": "10-218-2680", "Name": "Egg (Turkey)", "Expiration_Date": "1/3/2025", "Warehouse_Location": "6810 Aberg Junction", "Expiring_Soon": false, "Stock_Quantity": 71, "Aisle": "N", "Shelf": 1}
+{"Item_ID": "45-852-2446", "Name": "Salmon", "Expiration_Date": "11/29/2025", "Warehouse_Location": "56 Petterle Circle", "Expiring_Soon": false, "Stock_Quantity": 178, "Aisle": "N", "Shelf": 5}
+{"Item_ID": "99-543-5039", "Name": "Lemon", "Expiration_Date": "7/29/2025", "Warehouse_Location": "71796 Waubesa Terrace", "Expiring_Soon": false, "Stock_Quantity": 109, "Aisle": "O", "Shelf": 4}
+{"Item_ID": "63-168-6018", "Name": "Cucumber", "Expiration_Date": "5/1/2025", "Warehouse_Location": "0847 Artisan Hill", "Expiring_Soon": false, "Stock_Quantity": 107, "Aisle": "N", "Shelf": 1}
+{"Item_ID": "79-569-8856", "Name": "Vegetable Oil", "Expiration_Date": "6/11/2025", "Warehouse_Location": "03643 Oakridge Lane", "Expiring_Soon": false, "Stock_Quantity": 4, "Aisle": "W", "Shelf": 3}
+{"Item_ID": "73-561-2867", "Name": "Sourdough Bread", "Expiration_Date": "9/29/2025", "Warehouse_Location": "7444 Saint Paul Circle", "Expiring_Soon": false, "Stock_Quantity": 8, "Aisle": "H", "Shelf": 7}
+{"Item_ID": "80-375-9075", "Name": "Swiss Cheese", "Expiration_Date": "6/19/2025", "Warehouse_Location": "3831 Goodland Road", "Expiring_Soon": false, "Stock_Quantity": 13, "Aisle": "H", "Shelf": 6}
+{"Item_ID": "35-353-4068", "Name": "Bread Flour", "Expiration_Date": "7/5/2025", "Warehouse_Location": "8583 Northwestern Terrace", "Expiring_Soon": false, "Stock_Quantity": 133, "Aisle": "W", "Shelf": 6}
+{"Item_ID": "27-635-8394", "Name": "Orange", "Expiration_Date": "3/19/2025", "Warehouse_Location": "812 Shelley Circle", "Expiring_Soon": false, "Stock_Quantity": 146, "Aisle": "M", "Shelf": 7}
+{"Item_ID": "01-144-5960", "Name": "Trout", "Expiration_Date": "7/13/2025", "Warehouse_Location": "52105 Mandrake Place", "Expiring_Soon": false, "Stock_Quantity": 177, "Aisle": "W", "Shelf": 4}
+{"Item_ID": "85-561-4694", "Name": "Kiwi", "Expiration_Date": "5/11/2025", "Warehouse_Location": "1 Lake View Trail", "Expiring_Soon": false, "Stock_Quantity": 103, "Aisle": "E", "Shelf": 6}
+{"Item_ID": "24-975-4231", "Name": "Green Beans", "Expiration_Date": "8/17/2025", "Warehouse_Location": "62494 Longview Drive", "Expiring_Soon": false, "Stock_Quantity": 38, "Aisle": "G", "Shelf": 10}
+{"Item_ID": "56-810-0550", "Name": "Mackerel", "Expiration_Date": "9/4/2025", "Warehouse_Location": "376 Reinke Court", "Expiring_Soon": false, "Stock_Quantity": 95, "Aisle": "G", "Shelf": 7}
+{"Item_ID": "28-107-4953", "Name": "Chocolate Biscuit", "Expiration_Date": "10/18/2025", "Warehouse_Location": "29755 Daystar Street", "Expiring_Soon": false, "Stock_Quantity": 93, "Aisle": "J", "Shelf": 4}
+{"Item_ID": "93-682-2069", "Name": "Lime", "Expiration_Date": "8/16/2025", "Warehouse_Location": "2718 Londonderry Plaza", "Expiring_Soon": false, "Stock_Quantity": 71, "Aisle": "K", "Shelf": 5}
+{"Item_ID": "08-495-6853", "Name": "Heavy Cream", "Expiration_Date": "8/14/2025", "Warehouse_Location": "7943 Amoth Parkway", "Expiring_Soon": false, "Stock_Quantity": 142, "Aisle": "C", "Shelf": 5}
+{"Item_ID": "76-325-9093", "Name": "Sesame Oil", "Expiration_Date": "12/18/2025", "Warehouse_Location": "01471 Burrows Lane", "Expiring_Soon": false, "Stock_Quantity": 52, "Aisle": "J", "Shelf": 5}
+{"Item_ID": "83-704-6367", "Name": "Arabica Coffee", "Expiration_Date": "9/7/2025", "Warehouse_Location": "298 Corry Plaza", "Expiring_Soon": false, "Stock_Quantity": 179, "Aisle": "M", "Shelf": 8}
+{"Item_ID": "89-922-4773", "Name": "Whole Wheat Flour", "Expiration_Date": "12/27/2025", "Warehouse_Location": "11 Thackeray Hill", "Expiring_Soon": false, "Stock_Quantity": 4, "Aisle": "D", "Shelf": 9}
+{"Item_ID": "11-922-3342", "Name": "Black Coffee", "Expiration_Date": "3/4/2025", "Warehouse_Location": "094 Carberry Lane", "Expiring_Soon": false, "Stock_Quantity": 103, "Aisle": "U", "Shelf": 2}
+{"Item_ID": "65-854-9364", "Name": "Black Rice", "Expiration_Date": "4/22/2025", "Warehouse_Location": "752 Mccormick Way", "Expiring_Soon": false, "Stock_Quantity": 94, "Aisle": "N", "Shelf": 6}
+{"Item_ID": "02-508-3777", "Name": "Egg (Quail)", "Expiration_Date": "6/26/2025", "Warehouse_Location": "895 Northland Hill", "Expiring_Soon": false, "Stock_Quantity": 79, "Aisle": "W", "Shelf": 3}
+{"Item_ID": "83-966-3280", "Name": "Mackerel", "Expiration_Date": "9/20/2025", "Warehouse_Location": "0743 4th Place", "Expiring_Soon": false, "Stock_Quantity": 73, "Aisle": "U", "Shelf": 9}
+{"Item_ID": "11-733-1756", "Name": "Rice Flour", "Expiration_Date": "2/24/2025", "Warehouse_Location": "127 Eliot Road", "Expiring_Soon": false, "Stock_Quantity": 23, "Aisle": "J", "Shelf": 6}
+{"Item_ID": "85-237-3505", "Name": "Green Tea", "Expiration_Date": "11/3/2025", "Warehouse_Location": "20073 Northfield Way", "Expiring_Soon": false, "Stock_Quantity": 191, "Aisle": "O", "Shelf": 6}
+{"Item_ID": "23-265-8144", "Name": "Yogurt", "Expiration_Date": "10/25/2025", "Warehouse_Location": "14042 Dottie Avenue", "Expiring_Soon": false, "Stock_Quantity": 188, "Aisle": "P", "Shelf": 1}
+{"Item_ID": "76-090-4411", "Name": "Ricotta Cheese", "Expiration_Date": "4/16/2025", "Warehouse_Location": "15 Loomis Avenue", "Expiring_Soon": false, "Stock_Quantity": 108, "Aisle": "F", "Shelf": 7}
+{"Item_ID": "41-475-5305", "Name": "Rye Bread", "Expiration_Date": "9/12/2025", "Warehouse_Location": "88 Hooker Parkway", "Expiring_Soon": false, "Stock_Quantity": 91, "Aisle": "G", "Shelf": 9}
+{"Item_ID": "17-002-4721", "Name": "Green Beans", "Expiration_Date": "10/29/2025", "Warehouse_Location": "379 Duke Court", "Expiring_Soon": false, "Stock_Quantity": 85, "Aisle": "C", "Shelf": 3}
+{"Item_ID": "61-293-6327", "Name": "Salmon", "Expiration_Date": "4/4/2025", "Warehouse_Location": "4353 Dixon Circle", "Expiring_Soon": false, "Stock_Quantity": 31, "Aisle": "K", "Shelf": 2}
+{"Item_ID": "19-377-5021", "Name": "Mackerel", "Expiration_Date": "12/24/2025", "Warehouse_Location": "884 Sloan Drive", "Expiring_Soon": false, "Stock_Quantity": 151, "Aisle": "Y", "Shelf": 4}
+{"Item_ID": "56-657-4387", "Name": "White Bread", "Expiration_Date": "6/22/2025", "Warehouse_Location": "5 Lyons Street", "Expiring_Soon": false, "Stock_Quantity": 82, "Aisle": "X", "Shelf": 7}
+{"Item_ID": "20-054-3716", "Name": "Chocolate Biscuit", "Expiration_Date": "2/25/2025", "Warehouse_Location": "39 Lakewood Gardens Center", "Expiring_Soon": false, "Stock_Quantity": 55, "Aisle": "J", "Shelf": 6}
+{"Item_ID": "62-100-2245", "Name": "Sourdough Bread", "Expiration_Date": "7/12/2025", "Warehouse_Location": "56830 Fremont Road", "Expiring_Soon": false, "Stock_Quantity": 109, "Aisle": "E", "Shelf": 1}
+{"Item_ID": "05-184-4175", "Name": "Black Coffee", "Expiration_Date": "5/3/2025", "Warehouse_Location": "57 Di Loreto Circle", "Expiring_Soon": false, "Stock_Quantity": 106, "Aisle": "F", "Shelf": 4}
+{"Item_ID": "72-989-2512", "Name": "Mushrooms", "Expiration_Date": "10/28/2025", "Warehouse_Location": "61 Waubesa Court", "Expiring_Soon": false, "Stock_Quantity": 64, "Aisle": "G", "Shelf": 8}
+{"Item_ID": "73-567-6194", "Name": "Whipped Cream", "Expiration_Date": "9/8/2025", "Warehouse_Location": "069 Basil Center", "Expiring_Soon": false, "Stock_Quantity": 28, "Aisle": "C", "Shelf": 9}
+{"Item_ID": "70-542-4269", "Name": "Gouda Cheese", "Expiration_Date": "4/17/2025", "Warehouse_Location": "7 Victoria Hill", "Expiring_Soon": false, "Stock_Quantity": 47, "Aisle": "R", "Shelf": 9}
+{"Item_ID": "74-404-0582", "Name": "Cherry", "Expiration_Date": "6/11/2025", "Warehouse_Location": "07 Maple Wood Drive", "Expiring_Soon": false, "Stock_Quantity": 62, "Aisle": "A", "Shelf": 1}
+{"Item_ID": "61-680-9496", "Name": "Apple", "Expiration_Date": "4/14/2025", "Warehouse_Location": "2 Northridge Street", "Expiring_Soon": false, "Stock_Quantity": 46, "Aisle": "X", "Shelf": 5}
+{"Item_ID": "47-802-5023", "Name": "Cod", "Expiration_Date": "6/7/2025", "Warehouse_Location": "7096 Mcguire Park", "Expiring_Soon": false, "Stock_Quantity": 116, "Aisle": "P", "Shelf": 5}
+{"Item_ID": "53-446-8243", "Name": "Orange", "Expiration_Date": "4/23/2025", "Warehouse_Location": "757 Grasskamp Drive", "Expiring_Soon": false, "Stock_Quantity": 15, "Aisle": "M", "Shelf": 5}
+{"Item_ID": "91-257-3672", "Name": "Tilapia", "Expiration_Date": "7/5/2025", "Warehouse_Location": "10997 Dexter Parkway", "Expiring_Soon": false, "Stock_Quantity": 140, "Aisle": "V", "Shelf": 1}
+{"Item_ID": "44-476-0390", "Name": "Lemon", "Expiration_Date": "3/14/2025", "Warehouse_Location": "022 Pierstorff Point", "Expiring_Soon": false, "Stock_Quantity": 42, "Aisle": "Y", "Shelf": 4}
+{"Item_ID": "57-394-1587", "Name": "Bread Flour", "Expiration_Date": "10/30/2025", "Warehouse_Location": "561 Blue Bill Park Road", "Expiring_Soon": false, "Stock_Quantity": 165, "Aisle": "E", "Shelf": 2}
+{"Item_ID": "36-127-4273", "Name": "Ricotta Cheese", "Expiration_Date": "7/31/2025", "Warehouse_Location": "10342 Division Place", "Expiring_Soon": false, "Stock_Quantity": 83, "Aisle": "H", "Shelf": 9}
+{"Item_ID": "57-394-4703", "Name": "White Tea", "Expiration_Date": "10/16/2025", "Warehouse_Location": "38 Banding Lane", "Expiring_Soon": false, "Stock_Quantity": 55, "Aisle": "C", "Shelf": 6}
+{"Item_ID": "68-761-6907", "Name": "Zucchini", "Expiration_Date": "2/2/2025", "Warehouse_Location": "9695 Alpine Trail", "Expiring_Soon": false, "Stock_Quantity": 47, "Aisle": "I", "Shelf": 8}
+{"Item_ID": "04-240-2226", "Name": "Olive Oil", "Expiration_Date": "3/5/2025", "Warehouse_Location": "504 Green Park", "Expiring_Soon": false, "Stock_Quantity": 7, "Aisle": "K", "Shelf": 6}
+{"Item_ID": "56-668-5370", "Name": "Vegetable Oil", "Expiration_Date": "8/3/2025", "Warehouse_Location": "05686 Golden Leaf Point", "Expiring_Soon": false, "Stock_Quantity": 86, "Aisle": "R", "Shelf": 4}
+{"Item_ID": "85-835-3445", "Name": "Egg (Goose)", "Expiration_Date": "5/12/2025", "Warehouse_Location": "288 Fair Oaks Place", "Expiring_Soon": false, "Stock_Quantity": 160, "Aisle": "Z", "Shelf": 1}
+{"Item_ID": "48-427-0551", "Name": "Arabica Coffee", "Expiration_Date": "11/3/2025", "Warehouse_Location": "2 7th Center", "Expiring_Soon": false, "Stock_Quantity": 180, "Aisle": "W", "Shelf": 10}
+{"Item_ID": "95-252-9619", "Name": "Carrot", "Expiration_Date": "11/9/2025", "Warehouse_Location": "57453 Northwestern Alley", "Expiring_Soon": false, "Stock_Quantity": 92, "Aisle": "W", "Shelf": 2}
+{"Item_ID": "07-834-3320", "Name": "Egg (Quail)", "Expiration_Date": "9/20/2025", "Warehouse_Location": "79 Monterey Avenue", "Expiring_Soon": false, "Stock_Quantity": 155, "Aisle": "Z", "Shelf": 4}
+{"Item_ID": "48-242-8445", "Name": "Plum", "Expiration_Date": "6/24/2025", "Warehouse_Location": "29 Vera Drive", "Expiring_Soon": false, "Stock_Quantity": 103, "Aisle": "O", "Shelf": 6}
+{"Item_ID": "86-330-0214", "Name": "Arabica Coffee", "Expiration_Date": "3/30/2025", "Warehouse_Location": "5818 Twin Pines Place", "Expiring_Soon": false, "Stock_Quantity": 8, "Aisle": "L", "Shelf": 6}
+{"Item_ID": "50-930-4751", "Name": "Salmon", "Expiration_Date": "2/25/2025", "Warehouse_Location": "80380 Valley Edge Road", "Expiring_Soon": false, "Stock_Quantity": 88, "Aisle": "B", "Shelf": 2}
+{"Item_ID": "46-632-8420", "Name": "Whipped Cream", "Expiration_Date": "5/23/2025", "Warehouse_Location": "9 Meadow Ridge Center", "Expiring_Soon": false, "Stock_Quantity": 103, "Aisle": "Y", "Shelf": 4}
+{"Item_ID": "17-274-6898", "Name": "Whole Wheat Bread", "Expiration_Date": "3/22/2025", "Warehouse_Location": "657 Texas Street", "Expiring_Soon": false, "Stock_Quantity": 8, "Aisle": "Z", "Shelf": 8}
+{"Item_ID": "27-459-0724", "Name": "Feta Cheese", "Expiration_Date": "2/24/2025", "Warehouse_Location": "4 Duke Way", "Expiring_Soon": false, "Stock_Quantity": 108, "Aisle": "J", "Shelf": 6}
+{"Item_ID": "07-617-6934", "Name": "Coconut Sugar", "Expiration_Date": "11/16/2025", "Warehouse_Location": "9262 Sullivan Crossing", "Expiring_Soon": false, "Stock_Quantity": 139, "Aisle": "D", "Shelf": 7}
+{"Item_ID": "46-520-1819", "Name": "Short Grain Rice", "Expiration_Date": "5/15/2025", "Warehouse_Location": "805 Nancy Crossing", "Expiring_Soon": false, "Stock_Quantity": 155, "Aisle": "Z", "Shelf": 2}
+{"Item_ID": "99-961-0767", "Name": "Heavy Cream", "Expiration_Date": "12/6/2025", "Warehouse_Location": "40113 Blaine Place", "Expiring_Soon": false, "Stock_Quantity": 88, "Aisle": "M", "Shelf": 4}
+{"Item_ID": "45-992-5653", "Name": "Whole Wheat Flour", "Expiration_Date": "10/19/2025", "Warehouse_Location": "5 Fisk Point", "Expiring_Soon": false, "Stock_Quantity": 87, "Aisle": "E", "Shelf": 1}
+{"Item_ID": "90-343-9640", "Name": "Avocado Oil", "Expiration_Date": "10/6/2025", "Warehouse_Location": "3622 Anhalt Lane", "Expiring_Soon": false, "Stock_Quantity": 19, "Aisle": "E", "Shelf": 3}
+{"Item_ID": "60-632-8752", "Name": "Chocolate Biscuit", "Expiration_Date": "1/26/2025", "Warehouse_Location": "48 Golf View Pass", "Expiring_Soon": false, "Stock_Quantity": 106, "Aisle": "N", "Shelf": 4}
+{"Item_ID": "84-272-0790", "Name": "Blueberries", "Expiration_Date": "7/29/2025", "Warehouse_Location": "53 Caliangt Junction", "Expiring_Soon": false, "Stock_Quantity": 14, "Aisle": "E", "Shelf": 8}
+{"Item_ID": "51-469-4611", "Name": "Long Grain Rice", "Expiration_Date": "1/7/2025", "Warehouse_Location": "04776 Saint Paul Park", "Expiring_Soon": false, "Stock_Quantity": 181, "Aisle": "S", "Shelf": 5}
+{"Item_ID": "04-758-0410", "Name": "Wild Rice", "Expiration_Date": "5/2/2025", "Warehouse_Location": "5 Toban Circle", "Expiring_Soon": false, "Stock_Quantity": 17, "Aisle": "E", "Shelf": 3}
+{"Item_ID": "15-884-7413", "Name": "Apple", "Expiration_Date": "4/16/2025", "Warehouse_Location": "6225 Westend Pass", "Expiring_Soon": false, "Stock_Quantity": 51, "Aisle": "U", "Shelf": 7}
+{"Item_ID": "49-526-7806", "Name": "Kale", "Expiration_Date": "5/1/2025", "Warehouse_Location": "6744 Helena Pass", "Expiring_Soon": false, "Stock_Quantity": 61, "Aisle": "T", "Shelf": 6}
+{"Item_ID": "30-429-2162", "Name": "Black Rice", "Expiration_Date": "1/15/2025", "Warehouse_Location": "6382 Anniversary Pass", "Expiring_Soon": false, "Stock_Quantity": 39, "Aisle": "P", "Shelf": 10}
+{"Item_ID": "60-747-8704", "Name": "Papaya", "Expiration_Date": "8/22/2025", "Warehouse_Location": "561 Pennsylvania Way", "Expiring_Soon": false, "Stock_Quantity": 73, "Aisle": "A", "Shelf": 7}
+{"Item_ID": "44-128-2185", "Name": "Jasmine Rice", "Expiration_Date": "12/30/2025", "Warehouse_Location": "012 Mockingbird Court", "Expiring_Soon": false, "Stock_Quantity": 83, "Aisle": "J", "Shelf": 7}
+{"Item_ID": "38-296-6634", "Name": "Peas", "Expiration_Date": "12/10/2025", "Warehouse_Location": "160 Kings Street", "Expiring_Soon": false, "Stock_Quantity": 106, "Aisle": "Z", "Shelf": 10}
+{"Item_ID": "80-459-5950", "Name": "Arabica Coffee", "Expiration_Date": "3/20/2025", "Warehouse_Location": "5 Killdeer Trail", "Expiring_Soon": false, "Stock_Quantity": 9, "Aisle": "G", "Shelf": 5}
+{"Item_ID": "64-854-8664", "Name": "Peanut Oil", "Expiration_Date": "8/30/2025", "Warehouse_Location": "76 Independence Drive", "Expiring_Soon": false, "Stock_Quantity": 56, "Aisle": "K", "Shelf": 6}
+{"Item_ID": "52-392-5312", "Name": "All-Purpose Flour", "Expiration_Date": "7/24/2025", "Warehouse_Location": "336 Old Shore Lane", "Expiring_Soon": false, "Stock_Quantity": 189, "Aisle": "Q", "Shelf": 6}
+{"Item_ID": "35-031-1497", "Name": "Green Coffee", "Expiration_Date": "11/2/2025", "Warehouse_Location": "581 Oneill Crossing", "Expiring_Soon": false, "Stock_Quantity": 58, "Aisle": "I", "Shelf": 4}
+{"Item_ID": "59-075-2457", "Name": "Egg (Goose)", "Expiration_Date": "11/10/2025", "Warehouse_Location": "2 Barby Lane", "Expiring_Soon": false, "Stock_Quantity": 197, "Aisle": "Z", "Shelf": 10}
+{"Item_ID": "69-834-2874", "Name": "Oatmeal Biscuit", "Expiration_Date": "10/7/2025", "Warehouse_Location": "39 Oxford Drive", "Expiring_Soon": false, "Stock_Quantity": 47, "Aisle": "R", "Shelf": 2}
+{"Item_ID": "65-674-6076", "Name": "Egg (Quail)", "Expiration_Date": "12/18/2025", "Warehouse_Location": "9738 Old Shore Trail", "Expiring_Soon": false, "Stock_Quantity": 105, "Aisle": "M", "Shelf": 10}
+{"Item_ID": "53-080-8252", "Name": "Sourdough Bread", "Expiration_Date": "11/20/2025", "Warehouse_Location": "2 Grayhawk Junction", "Expiring_Soon": false, "Stock_Quantity": 44, "Aisle": "Q", "Shelf": 7}
+{"Item_ID": "87-097-5691", "Name": "Robusta Coffee", "Expiration_Date": "3/26/2025", "Warehouse_Location": "236 Gateway Lane", "Expiring_Soon": false, "Stock_Quantity": 101, "Aisle": "L", "Shelf": 5}
+{"Item_ID": "11-053-0107", "Name": "Cherry", "Expiration_Date": "6/28/2025", "Warehouse_Location": "734 Thackeray Avenue", "Expiring_Soon": false, "Stock_Quantity": 60, "Aisle": "J", "Shelf": 8}
+{"Item_ID": "83-716-2177", "Name": "Halibut", "Expiration_Date": "9/13/2025", "Warehouse_Location": "26266 Esker Point", "Expiring_Soon": false, "Stock_Quantity": 110, "Aisle": "W", "Shelf": 6}
+{"Item_ID": "43-670-8544", "Name": "Orange", "Expiration_Date": "10/7/2025", "Warehouse_Location": "3 Logan Trail", "Expiring_Soon": false, "Stock_Quantity": 75, "Aisle": "K", "Shelf": 4}
+{"Item_ID": "74-587-2065", "Name": "Pear", "Expiration_Date": "3/2/2025", "Warehouse_Location": "84642 Clarendon Point", "Expiring_Soon": false, "Stock_Quantity": 32, "Aisle": "M", "Shelf": 1}
+{"Item_ID": "30-964-2694", "Name": "Peas", "Expiration_Date": "6/30/2025", "Warehouse_Location": "39 Dovetail Terrace", "Expiring_Soon": false, "Stock_Quantity": 138, "Aisle": "M", "Shelf": 4}
+{"Item_ID": "89-602-6755", "Name": "Milk", "Expiration_Date": "7/17/2025", "Warehouse_Location": "4 Bashford Court", "Expiring_Soon": false, "Stock_Quantity": 104, "Aisle": "Y", "Shelf": 1}
+{"Item_ID": "10-555-5971", "Name": "Sourdough Bread", "Expiration_Date": "9/27/2025", "Warehouse_Location": "8425 New Castle Parkway", "Expiring_Soon": false, "Stock_Quantity": 165, "Aisle": "E", "Shelf": 8}
+{"Item_ID": "89-624-7462", "Name": "Asparagus", "Expiration_Date": "11/24/2025", "Warehouse_Location": "25 Drewry Alley", "Expiring_Soon": false, "Stock_Quantity": 57, "Aisle": "A", "Shelf": 6}
+{"Item_ID": "91-417-0366", "Name": "Grapes", "Expiration_Date": "12/4/2025", "Warehouse_Location": "1 Elmside Parkway", "Expiring_Soon": false, "Stock_Quantity": 138, "Aisle": "K", "Shelf": 1}
+{"Item_ID": "53-805-9523", "Name": "Sourdough Bread", "Expiration_Date": "5/14/2025", "Warehouse_Location": "94 Mallory Center", "Expiring_Soon": false, "Stock_Quantity": 160, "Aisle": "L", "Shelf": 5}
+{"Item_ID": "61-827-4098", "Name": "Cod", "Expiration_Date": "3/24/2025", "Warehouse_Location": "29992 Warrior Center", "Expiring_Soon": false, "Stock_Quantity": 35, "Aisle": "G", "Shelf": 10}
+{"Item_ID": "78-237-0277", "Name": "Black Tea", "Expiration_Date": "1/13/2025", "Warehouse_Location": "79 Cardinal Court", "Expiring_Soon": false, "Stock_Quantity": 136, "Aisle": "H", "Shelf": 4}
+{"Item_ID": "75-029-9003", "Name": "Sourdough Bread", "Expiration_Date": "4/1/2025", "Warehouse_Location": "19180 Hagan Parkway", "Expiring_Soon": false, "Stock_Quantity": 105, "Aisle": "E", "Shelf": 3}
+{"Item_ID": "83-321-7887", "Name": "Egg (Duck)", "Expiration_Date": "8/2/2025", "Warehouse_Location": "35598 Fuller Terrace", "Expiring_Soon": false, "Stock_Quantity": 192, "Aisle": "O", "Shelf": 1}
+{"Item_ID": "85-440-3667", "Name": "Gouda Cheese", "Expiration_Date": "9/9/2025", "Warehouse_Location": "6151 Forster Drive", "Expiring_Soon": false, "Stock_Quantity": 192, "Aisle": "I", "Shelf": 3}
+{"Item_ID": "03-597-9488", "Name": "Buttermilk", "Expiration_Date": "3/28/2025", "Warehouse_Location": "53 Lawn Circle", "Expiring_Soon": false, "Stock_Quantity": 184, "Aisle": "C", "Shelf": 1}
+{"Item_ID": "71-436-5841", "Name": "Cauliflower", "Expiration_Date": "6/25/2025", "Warehouse_Location": "52 Victoria Plaza", "Expiring_Soon": false, "Stock_Quantity": 150, "Aisle": "O", "Shelf": 4}
+{"Item_ID": "12-828-1063", "Name": "Mozzarella Cheese", "Expiration_Date": "8/5/2025", "Warehouse_Location": "018 Oxford Crossing", "Expiring_Soon": false, "Stock_Quantity": 37, "Aisle": "F", "Shelf": 1}
+{"Item_ID": "76-264-0748", "Name": "Eggplant", "Expiration_Date": "1/9/2025", "Warehouse_Location": "55 Morning Terrace", "Expiring_Soon": false, "Stock_Quantity": 156, "Aisle": "A", "Shelf": 8}
+{"Item_ID": "78-362-8578", "Name": "Lemon", "Expiration_Date": "4/10/2025", "Warehouse_Location": "86 Corben Crossing", "Expiring_Soon": false, "Stock_Quantity": 108, "Aisle": "D", "Shelf": 1}
+{"Item_ID": "96-774-0457", "Name": "Cod", "Expiration_Date": "10/22/2025", "Warehouse_Location": "7369 Thackeray Drive", "Expiring_Soon": false, "Stock_Quantity": 33, "Aisle": "W", "Shelf": 2}
+{"Item_ID": "75-094-1179", "Name": "Rye Bread", "Expiration_Date": "7/18/2025", "Warehouse_Location": "13 Forest Run Place", "Expiring_Soon": false, "Stock_Quantity": 65, "Aisle": "K", "Shelf": 7}
+{"Item_ID": "97-300-7511", "Name": "Egg (Duck)", "Expiration_Date": "3/21/2025", "Warehouse_Location": "45190 Fordem Court", "Expiring_Soon": false, "Stock_Quantity": 62, "Aisle": "H", "Shelf": 10}
+{"Item_ID": "57-359-3397", "Name": "Garlic", "Expiration_Date": "12/19/2025", "Warehouse_Location": "81071 West Alley", "Expiring_Soon": false, "Stock_Quantity": 46, "Aisle": "U", "Shelf": 2}
+{"Item_ID": "09-622-7119", "Name": "Haddock", "Expiration_Date": "6/15/2025", "Warehouse_Location": "665 Sommers Circle", "Expiring_Soon": false, "Stock_Quantity": 158, "Aisle": "R", "Shelf": 3}
+{"Item_ID": "98-858-6323", "Name": "Swiss Cheese", "Expiration_Date": "11/16/2025", "Warehouse_Location": "80729 Homewood Plaza", "Expiring_Soon": false, "Stock_Quantity": 35, "Aisle": "G", "Shelf": 5}
+{"Item_ID": "41-316-8427", "Name": "Arborio Rice", "Expiration_Date": "9/21/2025", "Warehouse_Location": "03416 Valley Edge Circle", "Expiring_Soon": false, "Stock_Quantity": 121, "Aisle": "E", "Shelf": 3}
+{"Item_ID": "15-797-4824", "Name": "Coconut", "Expiration_Date": "1/14/2025", "Warehouse_Location": "25923 Loeprich Junction", "Expiring_Soon": false, "Stock_Quantity": 108, "Aisle": "K", "Shelf": 6}
+{"Item_ID": "76-623-7844", "Name": "Egg (Quail)", "Expiration_Date": "5/15/2025", "Warehouse_Location": "868 Swallow Point", "Expiring_Soon": false, "Stock_Quantity": 63, "Aisle": "X", "Shelf": 5}
+{"Item_ID": "80-988-4653", "Name": "Zucchini", "Expiration_Date": "4/19/2025", "Warehouse_Location": "8 Russell Pass", "Expiring_Soon": false, "Stock_Quantity": 186, "Aisle": "O", "Shelf": 10}
+{"Item_ID": "93-571-7294", "Name": "Sushi Rice", "Expiration_Date": "5/22/2025", "Warehouse_Location": "76 Fisk Park", "Expiring_Soon": false, "Stock_Quantity": 122, "Aisle": "A", "Shelf": 8}
+{"Item_ID": "45-172-7012", "Name": "Papaya", "Expiration_Date": "12/1/2025", "Warehouse_Location": "11 Kedzie Avenue", "Expiring_Soon": false, "Stock_Quantity": 107, "Aisle": "A", "Shelf": 5}
+{"Item_ID": "07-858-5487", "Name": "Swiss Cheese", "Expiration_Date": "12/29/2025", "Warehouse_Location": "6 Susan Alley", "Expiring_Soon": false, "Stock_Quantity": 19, "Aisle": "A", "Shelf": 1}
+{"Item_ID": "71-999-2404", "Name": "Mango", "Expiration_Date": "1/29/2025", "Warehouse_Location": "18 Warrior Circle", "Expiring_Soon": false, "Stock_Quantity": 156, "Aisle": "E", "Shelf": 9}
+{"Item_ID": "90-303-1821", "Name": "Onion", "Expiration_Date": "10/5/2025", "Warehouse_Location": "6435 Burning Wood Drive", "Expiring_Soon": false, "Stock_Quantity": 179, "Aisle": "N", "Shelf": 4}
+{"Item_ID": "74-610-2295", "Name": "Green Coffee", "Expiration_Date": "9/26/2025", "Warehouse_Location": "87 Bluestem Parkway", "Expiring_Soon": false, "Stock_Quantity": 180, "Aisle": "A", "Shelf": 1}
+{"Item_ID": "79-400-6216", "Name": "Mozzarella Cheese", "Expiration_Date": "10/2/2025", "Warehouse_Location": "4 Warbler Center", "Expiring_Soon": false, "Stock_Quantity": 153, "Aisle": "J", "Shelf": 6}
+{"Item_ID": "27-269-5260", "Name": "Pineapple", "Expiration_Date": "10/22/2025", "Warehouse_Location": "1661 Springview Terrace", "Expiring_Soon": false, "Stock_Quantity": 131, "Aisle": "B", "Shelf": 8}
+{"Item_ID": "47-581-0363", "Name": "Parmesan Cheese", "Expiration_Date": "1/20/2025", "Warehouse_Location": "8 Dawn Court", "Expiring_Soon": false, "Stock_Quantity": 181, "Aisle": "T", "Shelf": 7}
+{"Item_ID": "36-330-5036", "Name": "Salmon", "Expiration_Date": "5/17/2025", "Warehouse_Location": "21 Golden Leaf Hill", "Expiring_Soon": false, "Stock_Quantity": 194, "Aisle": "F", "Shelf": 7}
+{"Item_ID": "14-844-4138", "Name": "Black Coffee", "Expiration_Date": "3/3/2025", "Warehouse_Location": "40643 Sullivan Lane", "Expiring_Soon": false, "Stock_Quantity": 132, "Aisle": "J", "Shelf": 1}
+{"Item_ID": "58-182-6781", "Name": "Oatmeal Biscuit", "Expiration_Date": "11/15/2025", "Warehouse_Location": "86 Maryland Junction", "Expiring_Soon": false, "Stock_Quantity": 69, "Aisle": "W", "Shelf": 9}
+{"Item_ID": "70-815-4015", "Name": "Butter Biscuit", "Expiration_Date": "8/30/2025", "Warehouse_Location": "175 Sycamore Circle", "Expiring_Soon": false, "Stock_Quantity": 179, "Aisle": "I", "Shelf": 5}
+{"Item_ID": "31-255-9616", "Name": "Tuna", "Expiration_Date": "3/16/2025", "Warehouse_Location": "9440 Coleman Drive", "Expiring_Soon": false, "Stock_Quantity": 153, "Aisle": "X", "Shelf": 10}
+{"Item_ID": "21-013-3508", "Name": "Cabbage", "Expiration_Date": "11/10/2025", "Warehouse_Location": "84305 Fair Oaks Plaza", "Expiring_Soon": false, "Stock_Quantity": 46, "Aisle": "X", "Shelf": 5}
+{"Item_ID": "24-579-6500", "Name": "Anchovies", "Expiration_Date": "9/4/2025", "Warehouse_Location": "4 Stang Place", "Expiring_Soon": false, "Stock_Quantity": 199, "Aisle": "U", "Shelf": 9}
+{"Item_ID": "99-194-5600", "Name": "Cauliflower", "Expiration_Date": "5/14/2025", "Warehouse_Location": "973 Spaight Place", "Expiring_Soon": false, "Stock_Quantity": 168, "Aisle": "O", "Shelf": 3}
+{"Item_ID": "70-005-5970", "Name": "Apple", "Expiration_Date": "12/24/2025", "Warehouse_Location": "82955 Dayton Street", "Expiring_Soon": false, "Stock_Quantity": 95, "Aisle": "E", "Shelf": 6}
+{"Item_ID": "65-780-5622", "Name": "Butter Biscuit", "Expiration_Date": "5/27/2025", "Warehouse_Location": "65 Forster Way", "Expiring_Soon": false, "Stock_Quantity": 3, "Aisle": "X", "Shelf": 3}
+{"Item_ID": "71-594-6552", "Name": "Long Grain Rice", "Expiration_Date": "4/17/2025", "Warehouse_Location": "3 Westerfield Crossing", "Expiring_Soon": false, "Stock_Quantity": 131, "Aisle": "U", "Shelf": 3}
+{"Item_ID": "04-637-8815", "Name": "Apricot", "Expiration_Date": "11/24/2025", "Warehouse_Location": "537 Maple Alley", "Expiring_Soon": false, "Stock_Quantity": 38, "Aisle": "V", "Shelf": 8}
+{"Item_ID": "15-144-9413", "Name": "Strawberries", "Expiration_Date": "7/29/2025", "Warehouse_Location": "3 Buhler Place", "Expiring_Soon": false, "Stock_Quantity": 137, "Aisle": "I", "Shelf": 9}
+{"Item_ID": "40-003-7322", "Name": "White Sugar", "Expiration_Date": "10/11/2025", "Warehouse_Location": "2693 6th Court", "Expiring_Soon": false, "Stock_Quantity": 152, "Aisle": "Q", "Shelf": 9}
+{"Item_ID": "01-026-2772", "Name": "Blueberries", "Expiration_Date": "5/27/2025", "Warehouse_Location": "3 Bunting Point", "Expiring_Soon": false, "Stock_Quantity": 43, "Aisle": "N", "Shelf": 8}
+{"Item_ID": "06-690-2335", "Name": "Jasmine Rice", "Expiration_Date": "5/7/2025", "Warehouse_Location": "5 Linden Terrace", "Expiring_Soon": false, "Stock_Quantity": 14, "Aisle": "B", "Shelf": 3}
+{"Item_ID": "19-854-3663", "Name": "Watermelon", "Expiration_Date": "12/14/2025", "Warehouse_Location": "4 Dakota Avenue", "Expiring_Soon": false, "Stock_Quantity": 39, "Aisle": "N", "Shelf": 6}
+{"Item_ID": "87-199-2743", "Name": "Papaya", "Expiration_Date": "11/12/2025", "Warehouse_Location": "38695 Kenwood Circle", "Expiring_Soon": false, "Stock_Quantity": 108, "Aisle": "V", "Shelf": 4}
+{"Item_ID": "21-693-8216", "Name": "Corn Oil", "Expiration_Date": "10/27/2025", "Warehouse_Location": "32468 Utah Pass", "Expiring_Soon": false, "Stock_Quantity": 27, "Aisle": "Z", "Shelf": 8}
+{"Item_ID": "87-903-3486", "Name": "Peanut Oil", "Expiration_Date": "2/29/2025", "Warehouse_Location": "99 Twin Pines Alley", "Expiring_Soon": false, "Stock_Quantity": 2, "Aisle": "R", "Shelf": 1}
+{"Item_ID": "55-631-7937", "Name": "Greek Yogurt", "Expiration_Date": "1/21/2025", "Warehouse_Location": "82 Drewry Junction", "Expiring_Soon": false, "Stock_Quantity": 35, "Aisle": "G", "Shelf": 9}
+{"Item_ID": "79-741-0770", "Name": "Mushrooms", "Expiration_Date": "3/17/2025", "Warehouse_Location": "91 Kinsman Terrace", "Expiring_Soon": false, "Stock_Quantity": 27, "Aisle": "C", "Shelf": 1}
+{"Item_ID": "62-795-7801", "Name": "Palm Oil", "Expiration_Date": "11/23/2025", "Warehouse_Location": "94451 Arkansas Park", "Expiring_Soon": false, "Stock_Quantity": 137, "Aisle": "H", "Shelf": 4}
+{"Item_ID": "98-064-4465", "Name": "Mozzarella Cheese", "Expiration_Date": "11/11/2025", "Warehouse_Location": "109 Twin Pines Avenue", "Expiring_Soon": false, "Stock_Quantity": 145, "Aisle": "Q", "Shelf": 10}
+{"Item_ID": "08-940-8578", "Name": "Onion", "Expiration_Date": "11/22/2025", "Warehouse_Location": "74 Menomonie Point", "Expiring_Soon": false, "Stock_Quantity": 174, "Aisle": "T", "Shelf": 5}
+{"Item_ID": "68-732-5919", "Name": "Jasmine Rice", "Expiration_Date": "5/17/2025", "Warehouse_Location": "56 Bonner Point", "Expiring_Soon": false, "Stock_Quantity": 54, "Aisle": "F", "Shelf": 2}
+{"Item_ID": "74-132-5528", "Name": "Cauliflower", "Expiration_Date": "1/22/2025", "Warehouse_Location": "611 Fieldstone Drive", "Expiring_Soon": false, "Stock_Quantity": 142, "Aisle": "G", "Shelf": 8}
+{"Item_ID": "12-798-9401", "Name": "Cream", "Expiration_Date": "5/25/2025", "Warehouse_Location": "5 Forster Point", "Expiring_Soon": false, "Stock_Quantity": 123, "Aisle": "F", "Shelf": 5}
+{"Item_ID": "51-934-9117", "Name": "Sardines", "Expiration_Date": "1/31/2025", "Warehouse_Location": "05944 Scott Parkway", "Expiring_Soon": false, "Stock_Quantity": 76, "Aisle": "U", "Shelf": 10}
+{"Item_ID": "77-312-6317", "Name": "Spinach", "Expiration_Date": "10/1/2025", "Warehouse_Location": "3616 Carey Pass", "Expiring_Soon": false, "Stock_Quantity": 109, "Aisle": "C", "Shelf": 2}
+{"Item_ID": "11-581-9869", "Name": "Carrot", "Expiration_Date": "9/26/2025", "Warehouse_Location": "44801 Myrtle Center", "Expiring_Soon": false, "Stock_Quantity": 183, "Aisle": "M", "Shelf": 5}
+{"Item_ID": "90-737-0044", "Name": "Black Rice", "Expiration_Date": "5/17/2025", "Warehouse_Location": "92321 Nelson Trail", "Expiring_Soon": false, "Stock_Quantity": 6, "Aisle": "K", "Shelf": 6}
+{"Item_ID": "75-927-9108", "Name": "Cabbage", "Expiration_Date": "7/2/2025", "Warehouse_Location": "43 Washington Street", "Expiring_Soon": false, "Stock_Quantity": 187, "Aisle": "O", "Shelf": 7}
+{"Item_ID": "72-066-4597", "Name": "Broccoli", "Expiration_Date": "12/13/2025", "Warehouse_Location": "03 Fisk Alley", "Expiring_Soon": false, "Stock_Quantity": 158, "Aisle": "U", "Shelf": 5}
+{"Item_ID": "88-183-5781", "Name": "Whole Wheat Bread", "Expiration_Date": "12/27/2025", "Warehouse_Location": "46 Delaware Place", "Expiring_Soon": false, "Stock_Quantity": 84, "Aisle": "T", "Shelf": 6}
+{"Item_ID": "43-469-7551", "Name": "Arabica Coffee", "Expiration_Date": "1/25/2025", "Warehouse_Location": "760 Butternut Plaza", "Expiring_Soon": false, "Stock_Quantity": 114, "Aisle": "X", "Shelf": 3}
+{"Item_ID": "28-044-4102", "Name": "Papaya", "Expiration_Date": "8/27/2025", "Warehouse_Location": "309 Burning Wood Center", "Expiring_Soon": false, "Stock_Quantity": 16, "Aisle": "H", "Shelf": 8}
+{"Item_ID": "20-225-3930", "Name": "White Tea", "Expiration_Date": "3/17/2025", "Warehouse_Location": "5756 Stephen Avenue", "Expiring_Soon": false, "Stock_Quantity": 151, "Aisle": "O", "Shelf": 6}
+{"Item_ID": "68-977-2498", "Name": "Grapes", "Expiration_Date": "7/21/2025", "Warehouse_Location": "6482 Ramsey Alley", "Expiring_Soon": false, "Stock_Quantity": 162, "Aisle": "G", "Shelf": 9}
+{"Item_ID": "46-452-9419", "Name": "Egg (Duck)", "Expiration_Date": "7/8/2025", "Warehouse_Location": "55782 Welch Hill", "Expiring_Soon": false, "Stock_Quantity": 106, "Aisle": "K", "Shelf": 6}
+{"Item_ID": "62-509-0666", "Name": "Almond Flour", "Expiration_Date": "7/3/2025", "Warehouse_Location": "1468 Meadow Vale Court", "Expiring_Soon": false, "Stock_Quantity": 84, "Aisle": "G", "Shelf": 2}
+{"Item_ID": "69-743-0161", "Name": "Bread Flour", "Expiration_Date": "11/21/2025", "Warehouse_Location": "583 Loftsgordon Road", "Expiring_Soon": false, "Stock_Quantity": 157, "Aisle": "X", "Shelf": 6}
+{"Item_ID": "70-149-6756", "Name": "Heavy Cream", "Expiration_Date": "6/26/2025", "Warehouse_Location": "6 Messerschmidt Place", "Expiring_Soon": false, "Stock_Quantity": 117, "Aisle": "W", "Shelf": 8}
+{"Item_ID": "04-104-6993", "Name": "Buttermilk", "Expiration_Date": "10/15/2025", "Warehouse_Location": "55095 Northview Drive", "Expiring_Soon": false, "Stock_Quantity": 18, "Aisle": "V", "Shelf": 9}
+{"Item_ID": "08-637-9335", "Name": "Lettuce", "Expiration_Date": "7/25/2025", "Warehouse_Location": "9 Cardinal Alley", "Expiring_Soon": false, "Stock_Quantity": 4, "Aisle": "A", "Shelf": 7}
+{"Item_ID": "03-919-9890", "Name": "Halibut", "Expiration_Date": "7/25/2025", "Warehouse_Location": "7 Riverside Road", "Expiring_Soon": false, "Stock_Quantity": 64, "Aisle": "K", "Shelf": 8}
+{"Item_ID": "54-281-3746", "Name": "Green Beans", "Expiration_Date": "11/3/2025", "Warehouse_Location": "00 Ridgeway Plaza", "Expiring_Soon": false, "Stock_Quantity": 52, "Aisle": "U", "Shelf": 4}
+{"Item_ID": "43-153-8268", "Name": "Vegetable Oil", "Expiration_Date": "10/2/2025", "Warehouse_Location": "29815 Bonner Trail", "Expiring_Soon": false, "Stock_Quantity": 191, "Aisle": "K", "Shelf": 9}
+{"Item_ID": "37-248-6266", "Name": "Pear", "Expiration_Date": "5/24/2025", "Warehouse_Location": "7051 Calypso Place", "Expiring_Soon": false, "Stock_Quantity": 151, "Aisle": "I", "Shelf": 9}
+{"Item_ID": "53-667-4109", "Name": "Onion", "Expiration_Date": "5/24/2025", "Warehouse_Location": "992 East Point", "Expiring_Soon": false, "Stock_Quantity": 170, "Aisle": "S", "Shelf": 1}
+{"Item_ID": "02-920-4829", "Name": "White Bread", "Expiration_Date": "5/22/2025", "Warehouse_Location": "4 Judy Hill", "Expiring_Soon": false, "Stock_Quantity": 153, "Aisle": "P", "Shelf": 2}
+{"Item_ID": "14-115-8371", "Name": "Chocolate Biscuit", "Expiration_Date": "9/1/2025", "Warehouse_Location": "40 Cody Pass", "Expiring_Soon": false, "Stock_Quantity": 104, "Aisle": "R", "Shelf": 4}
+{"Item_ID": "71-085-4290", "Name": "Cucumber", "Expiration_Date": "12/4/2025", "Warehouse_Location": "2 Basil Street", "Expiring_Soon": false, "Stock_Quantity": 102, "Aisle": "T", "Shelf": 1}
+{"Item_ID": "98-445-7372", "Name": "Cod", "Expiration_Date": "5/30/2025", "Warehouse_Location": "8531 Manley Court", "Expiring_Soon": false, "Stock_Quantity": 34, "Aisle": "O", "Shelf": 1}
+{"Item_ID": "63-936-0145", "Name": "Plum", "Expiration_Date": "12/3/2025", "Warehouse_Location": "95 Kingsford Terrace", "Expiring_Soon": false, "Stock_Quantity": 91, "Aisle": "U", "Shelf": 4}
+{"Item_ID": "96-316-7600", "Name": "Bell Pepper", "Expiration_Date": "7/7/2025", "Warehouse_Location": "6 Swallow Crossing", "Expiring_Soon": false, "Stock_Quantity": 163, "Aisle": "I", "Shelf": 1}
+{"Item_ID": "87-791-5803", "Name": "Tuna", "Expiration_Date": "9/1/2025", "Warehouse_Location": "8 Fremont Circle", "Expiring_Soon": false, "Stock_Quantity": 167, "Aisle": "G", "Shelf": 1}
+{"Item_ID": "88-586-8797", "Name": "Grapes", "Expiration_Date": "2/9/2025", "Warehouse_Location": "9469 Bayside Plaza", "Expiring_Soon": false, "Stock_Quantity": 77, "Aisle": "J", "Shelf": 10}
+{"Item_ID": "22-849-2551", "Name": "Mushrooms", "Expiration_Date": "9/8/2025", "Warehouse_Location": "81533 John Wall Court", "Expiring_Soon": false, "Stock_Quantity": 169, "Aisle": "X", "Shelf": 3}
+{"Item_ID": "80-698-0324", "Name": "Butter Biscuit", "Expiration_Date": "5/25/2025", "Warehouse_Location": "7 Duke Parkway", "Expiring_Soon": false, "Stock_Quantity": 9, "Aisle": "T", "Shelf": 5}
+{"Item_ID": "26-799-3714", "Name": "Robusta Coffee", "Expiration_Date": "4/6/2025", "Warehouse_Location": "49225 Homewood Place", "Expiring_Soon": false, "Stock_Quantity": 76, "Aisle": "F", "Shelf": 7}
+{"Item_ID": "36-840-2728", "Name": "Mackerel", "Expiration_Date": "3/14/2025", "Warehouse_Location": "08545 Lillian Street", "Expiring_Soon": false, "Stock_Quantity": 59, "Aisle": "T", "Shelf": 7}
+{"Item_ID": "28-824-9017", "Name": "Trout", "Expiration_Date": "6/14/2025", "Warehouse_Location": "4 Jay Terrace", "Expiring_Soon": false, "Stock_Quantity": 115, "Aisle": "F", "Shelf": 5}
+{"Item_ID": "35-328-8392", "Name": "Long Grain Rice", "Expiration_Date": "4/21/2025", "Warehouse_Location": "09 Londonderry Hill", "Expiring_Soon": false, "Stock_Quantity": 6, "Aisle": "X", "Shelf": 6}
+{"Item_ID": "12-342-4482", "Name": "Trout", "Expiration_Date": "8/29/2025", "Warehouse_Location": "374 Blue Bill Park Point", "Expiring_Soon": false, "Stock_Quantity": 99, "Aisle": "I", "Shelf": 6}
+{"Item_ID": "08-573-9997", "Name": "Pomegranate", "Expiration_Date": "12/2/2025", "Warehouse_Location": "03 Little Fleur Pass", "Expiring_Soon": false, "Stock_Quantity": 37, "Aisle": "B", "Shelf": 3}
+{"Item_ID": "95-738-4658", "Name": "Green Coffee", "Expiration_Date": "10/30/2025", "Warehouse_Location": "35 Golf Course Alley", "Expiring_Soon": false, "Stock_Quantity": 124, "Aisle": "M", "Shelf": 2}
+{"Item_ID": "15-905-7750", "Name": "Apricot", "Expiration_Date": "9/29/2025", "Warehouse_Location": "36687 Maple Avenue", "Expiring_Soon": false, "Stock_Quantity": 132, "Aisle": "X", "Shelf": 4}
+{"Item_ID": "85-806-0613", "Name": "Oatmeal Biscuit", "Expiration_Date": "4/26/2025", "Warehouse_Location": "9269 Main Trail", "Expiring_Soon": false, "Stock_Quantity": 157, "Aisle": "N", "Shelf": 8}
+{"Item_ID": "41-131-3841", "Name": "Almond Flour", "Expiration_Date": "3/20/2025", "Warehouse_Location": "16 Fair Oaks Pass", "Expiring_Soon": false, "Stock_Quantity": 184, "Aisle": "X", "Shelf": 9}
+{"Item_ID": "55-522-8242", "Name": "Whipped Cream", "Expiration_Date": "9/7/2025", "Warehouse_Location": "7 Spohn Avenue", "Expiring_Soon": false, "Stock_Quantity": 148, "Aisle": "C", "Shelf": 8}
+{"Item_ID": "49-891-4927", "Name": "Cottage Cheese", "Expiration_Date": "11/28/2025", "Warehouse_Location": "46 Hoffman Trail", "Expiring_Soon": false, "Stock_Quantity": 186, "Aisle": "D", "Shelf": 9}
+{"Item_ID": "03-833-3577", "Name": "Cucumber", "Expiration_Date": "10/16/2025", "Warehouse_Location": "38 Killdeer Point", "Expiring_Soon": false, "Stock_Quantity": 64, "Aisle": "G", "Shelf": 10}
+{"Item_ID": "67-130-4114", "Name": "Bell Pepper", "Expiration_Date": "1/24/2025", "Warehouse_Location": "9327 Hanover Way", "Expiring_Soon": false, "Stock_Quantity": 73, "Aisle": "G", "Shelf": 2}
+{"Item_ID": "24-009-1208", "Name": "White Tea", "Expiration_Date": "2/6/2025", "Warehouse_Location": "99 Duke Lane", "Expiring_Soon": false, "Stock_Quantity": 47, "Aisle": "V", "Shelf": 9}
+{"Item_ID": "89-673-1543", "Name": "Digestive Biscuit", "Expiration_Date": "1/3/2025", "Warehouse_Location": "297 Petterle Way", "Expiring_Soon": false, "Stock_Quantity": 83, "Aisle": "P", "Shelf": 2}
+{"Item_ID": "44-552-3909", "Name": "Pear", "Expiration_Date": "1/19/2025", "Warehouse_Location": "6 Charing Cross Circle", "Expiring_Soon": false, "Stock_Quantity": 189, "Aisle": "U", "Shelf": 3}
+{"Item_ID": "57-437-1828", "Name": "Plum", "Expiration_Date": "10/5/2025", "Warehouse_Location": "15068 Scoville Court", "Expiring_Soon": false, "Stock_Quantity": 114, "Aisle": "V", "Shelf": 4}
+{"Item_ID": "35-617-3857", "Name": "Arabica Coffee", "Expiration_Date": "3/6/2025", "Warehouse_Location": "292 Charing Cross Terrace", "Expiring_Soon": false, "Stock_Quantity": 96, "Aisle": "L", "Shelf": 3}
+{"Item_ID": "24-310-9184", "Name": "Rye Bread", "Expiration_Date": "4/8/2025", "Warehouse_Location": "6 Haas Circle", "Expiring_Soon": false, "Stock_Quantity": 153, "Aisle": "V", "Shelf": 4}
+{"Item_ID": "25-349-7974", "Name": "Spinach", "Expiration_Date": "6/22/2025", "Warehouse_Location": "42 Bunker Hill Junction", "Expiring_Soon": false, "Stock_Quantity": 118, "Aisle": "A", "Shelf": 9}
+{"Item_ID": "26-031-8070", "Name": "Vegetable Oil", "Expiration_Date": "4/19/2025", "Warehouse_Location": "5414 Linden Point", "Expiring_Soon": false, "Stock_Quantity": 55, "Aisle": "K", "Shelf": 10}
+{"Item_ID": "53-146-9979", "Name": "Powdered Sugar", "Expiration_Date": "8/8/2025", "Warehouse_Location": "42 Mandrake Alley", "Expiring_Soon": false, "Stock_Quantity": 183, "Aisle": "K", "Shelf": 10}
+{"Item_ID": "13-673-7016", "Name": "Peach", "Expiration_Date": "2/23/2025", "Warehouse_Location": "04 Hagan Crossing", "Expiring_Soon": false, "Stock_Quantity": 15, "Aisle": "A", "Shelf": 5}
+{"Item_ID": "51-000-8113", "Name": "Green Tea", "Expiration_Date": "11/20/2025", "Warehouse_Location": "51369 Dawn Hill", "Expiring_Soon": false, "Stock_Quantity": 86, "Aisle": "R", "Shelf": 4}
+{"Item_ID": "67-625-9704", "Name": "Sardines", "Expiration_Date": "7/18/2025", "Warehouse_Location": "7819 Fallview Park", "Expiring_Soon": false, "Stock_Quantity": 47, "Aisle": "Y", "Shelf": 2}
+{"Item_ID": "08-703-1382", "Name": "Peach", "Expiration_Date": "6/21/2025", "Warehouse_Location": "082 Clove Plaza", "Expiring_Soon": false, "Stock_Quantity": 200, "Aisle": "X", "Shelf": 9}
+{"Item_ID": "66-312-5511", "Name": "Anchovies", "Expiration_Date": "12/15/2025", "Warehouse_Location": "959 Dorton Pass", "Expiring_Soon": false, "Stock_Quantity": 49, "Aisle": "S", "Shelf": 7}
+{"Item_ID": "39-479-5147", "Name": "Tuna", "Expiration_Date": "4/4/2025", "Warehouse_Location": "14 Talmadge Park", "Expiring_Soon": false, "Stock_Quantity": 167, "Aisle": "X", "Shelf": 6}
+{"Item_ID": "48-193-1199", "Name": "Canola Oil", "Expiration_Date": "6/9/2025", "Warehouse_Location": "339 Paget Place", "Expiring_Soon": false, "Stock_Quantity": 177, "Aisle": "Q", "Shelf": 10}
+{"Item_ID": "73-010-8323", "Name": "Tuna", "Expiration_Date": "4/29/2025", "Warehouse_Location": "811 Dapin Center", "Expiring_Soon": false, "Stock_Quantity": 124, "Aisle": "S", "Shelf": 7}
+{"Item_ID": "97-093-4278", "Name": "Buttermilk", "Expiration_Date": "6/1/2025", "Warehouse_Location": "467 Dexter Pass", "Expiring_Soon": false, "Stock_Quantity": 43, "Aisle": "M", "Shelf": 2}
+{"Item_ID": "67-710-5120", "Name": "Bread Flour", "Expiration_Date": "2/25/2025", "Warehouse_Location": "978 Shasta Lane", "Expiring_Soon": false, "Stock_Quantity": 122, "Aisle": "S", "Shelf": 10}
+{"Item_ID": "78-689-8958", "Name": "White Tea", "Expiration_Date": "3/29/2025", "Warehouse_Location": "04 Mesta Parkway", "Expiring_Soon": false, "Stock_Quantity": 131, "Aisle": "Y", "Shelf": 4}
+{"Item_ID": "65-759-3721", "Name": "Butter Biscuit", "Expiration_Date": "12/28/2025", "Warehouse_Location": "315 Acker Alley", "Expiring_Soon": false, "Stock_Quantity": 4, "Aisle": "M", "Shelf": 8}
+{"Item_ID": "38-664-2155", "Name": "Cauliflower", "Expiration_Date": "5/30/2025", "Warehouse_Location": "843 Pepper Wood Hill", "Expiring_Soon": false, "Stock_Quantity": 161, "Aisle": "I", "Shelf": 3}
+{"Item_ID": "27-495-1912", "Name": "Potato", "Expiration_Date": "5/24/2025", "Warehouse_Location": "12710 Gulseth Circle", "Expiring_Soon": false, "Stock_Quantity": 107, "Aisle": "Q", "Shelf": 10}
+{"Item_ID": "64-418-8356", "Name": "Sunflower Oil", "Expiration_Date": "4/28/2025", "Warehouse_Location": "1 Green Hill", "Expiring_Soon": false, "Stock_Quantity": 141, "Aisle": "W", "Shelf": 4}
+{"Item_ID": "95-356-1566", "Name": "Grapes", "Expiration_Date": "1/29/2025", "Warehouse_Location": "622 Buena Vista Trail", "Expiring_Soon": false, "Stock_Quantity": 117, "Aisle": "J", "Shelf": 7}
+{"Item_ID": "93-342-8794", "Name": "Bread Flour", "Expiration_Date": "11/22/2025", "Warehouse_Location": "39102 Division Trail", "Expiring_Soon": false, "Stock_Quantity": 82, "Aisle": "W", "Shelf": 6}
+{"Item_ID": "66-268-8345", "Name": "Greek Yogurt", "Expiration_Date": "1/8/2025", "Warehouse_Location": "550 Clemons Plaza", "Expiring_Soon": false, "Stock_Quantity": 75, "Aisle": "H", "Shelf": 6}
+{"Item_ID": "40-205-8252", "Name": "Multigrain Bread", "Expiration_Date": "7/14/2025", "Warehouse_Location": "883 Marcy Place", "Expiring_Soon": false, "Stock_Quantity": 116, "Aisle": "B", "Shelf": 10}
+{"Item_ID": "38-555-9147", "Name": "Black Coffee", "Expiration_Date": "3/8/2025", "Warehouse_Location": "0 Oneill Hill", "Expiring_Soon": false, "Stock_Quantity": 61, "Aisle": "L", "Shelf": 7}
+{"Item_ID": "89-713-6071", "Name": "Sesame Oil", "Expiration_Date": "11/25/2025", "Warehouse_Location": "60 Dottie Hill", "Expiring_Soon": false, "Stock_Quantity": 184, "Aisle": "O", "Shelf": 5}
+{"Item_ID": "60-456-8169", "Name": "Cheddar Cheese", "Expiration_Date": "2/25/2025", "Warehouse_Location": "710 Service Park", "Expiring_Soon": false, "Stock_Quantity": 63, "Aisle": "U", "Shelf": 9}
+{"Item_ID": "76-540-6407", "Name": "Orange", "Expiration_Date": "12/13/2025", "Warehouse_Location": "77 Prairie Rose Park", "Expiring_Soon": false, "Stock_Quantity": 63, "Aisle": "Z", "Shelf": 3}
+{"Item_ID": "51-462-0747", "Name": "Lime", "Expiration_Date": "3/10/2025", "Warehouse_Location": "453 Dryden Park", "Expiring_Soon": false, "Stock_Quantity": 94, "Aisle": "K", "Shelf": 6}
+{"Item_ID": "32-261-0008", "Name": "Heavy Cream", "Expiration_Date": "7/18/2025", "Warehouse_Location": "2 Kingsford Center", "Expiring_Soon": false, "Stock_Quantity": 8, "Aisle": "N", "Shelf": 10}
+{"Item_ID": "83-568-3475", "Name": "Halibut", "Expiration_Date": "2/10/2025", "Warehouse_Location": "29150 Farmco Crossing", "Expiring_Soon": false, "Stock_Quantity": 19, "Aisle": "G", "Shelf": 6}
+{"Item_ID": "57-779-4955", "Name": "Black Rice", "Expiration_Date": "1/20/2025", "Warehouse_Location": "38436 Anthes Way", "Expiring_Soon": false, "Stock_Quantity": 98, "Aisle": "J", "Shelf": 8}
+{"Item_ID": "20-325-1965", "Name": "Coconut", "Expiration_Date": "5/21/2025", "Warehouse_Location": "78884 Union Street", "Expiring_Soon": false, "Stock_Quantity": 38, "Aisle": "K", "Shelf": 3}
+{"Item_ID": "45-050-4720", "Name": "Black Rice", "Expiration_Date": "3/13/2025", "Warehouse_Location": "7 Ridge Oak Pass", "Expiring_Soon": false, "Stock_Quantity": 30, "Aisle": "Y", "Shelf": 3}
+{"Item_ID": "28-146-2641", "Name": "Parmesan Cheese", "Expiration_Date": "4/8/2025", "Warehouse_Location": "73 Graedel Street", "Expiring_Soon": false, "Stock_Quantity": 162, "Aisle": "H", "Shelf": 2}
+{"Item_ID": "06-996-3221", "Name": "Evaporated Milk", "Expiration_Date": "6/10/2025", "Warehouse_Location": "579 Schlimgen Alley", "Expiring_Soon": false, "Stock_Quantity": 54, "Aisle": "K", "Shelf": 6}
+{"Item_ID": "82-811-7988", "Name": "Olive Oil", "Expiration_Date": "12/13/2025", "Warehouse_Location": "65 Chinook Circle", "Expiring_Soon": false, "Stock_Quantity": 199, "Aisle": "X", "Shelf": 10}
+{"Item_ID": "00-357-2313", "Name": "Avocado Oil", "Expiration_Date": "12/13/2025", "Warehouse_Location": "0 Oxford Crossing", "Expiring_Soon": false, "Stock_Quantity": 115, "Aisle": "N", "Shelf": 10}
+{"Item_ID": "87-423-8486", "Name": "Powdered Sugar", "Expiration_Date": "3/9/2025", "Warehouse_Location": "5 Homewood Street", "Expiring_Soon": false, "Stock_Quantity": 126, "Aisle": "U", "Shelf": 9}
+{"Item_ID": "69-561-2496", "Name": "Banana", "Expiration_Date": "12/9/2025", "Warehouse_Location": "154 Delladonna Hill", "Expiring_Soon": false, "Stock_Quantity": 47, "Aisle": "I", "Shelf": 10}
+{"Item_ID": "47-221-3391", "Name": "Black Coffee", "Expiration_Date": "9/12/2025", "Warehouse_Location": "0023 Upham Road", "Expiring_Soon": false, "Stock_Quantity": 178, "Aisle": "M", "Shelf": 8}
+{"Item_ID": "82-380-5378", "Name": "Cheese", "Expiration_Date": "3/7/2025", "Warehouse_Location": "05518 Saint Paul Street", "Expiring_Soon": false, "Stock_Quantity": 81, "Aisle": "M", "Shelf": 1}
+{"Item_ID": "11-766-8738", "Name": "Watermelon", "Expiration_Date": "3/22/2025", "Warehouse_Location": "20 Nelson Way", "Expiring_Soon": false, "Stock_Quantity": 14, "Aisle": "W", "Shelf": 8}
+{"Item_ID": "66-327-2821", "Name": "Palm Oil", "Expiration_Date": "5/27/2025", "Warehouse_Location": "703 Hermina Center", "Expiring_Soon": false, "Stock_Quantity": 166, "Aisle": "G", "Shelf": 10}
+{"Item_ID": "05-720-8792", "Name": "Carrot", "Expiration_Date": "10/26/2025", "Warehouse_Location": "2 Northview Avenue", "Expiring_Soon": false, "Stock_Quantity": 160, "Aisle": "G", "Shelf": 3}
+{"Item_ID": "04-293-6969", "Name": "Peach", "Expiration_Date": "8/20/2025", "Warehouse_Location": "0 Oak Valley Lane", "Expiring_Soon": false, "Stock_Quantity": 151, "Aisle": "A", "Shelf": 10}
+{"Item_ID": "60-285-3783", "Name": "Mushrooms", "Expiration_Date": "1/15/2025", "Warehouse_Location": "37973 Parkside Junction", "Expiring_Soon": false, "Stock_Quantity": 139, "Aisle": "R", "Shelf": 8}
+{"Item_ID": "92-362-3567", "Name": "Tomato", "Expiration_Date": "12/25/2025", "Warehouse_Location": "826 Melvin Pass", "Expiring_Soon": false, "Stock_Quantity": 195, "Aisle": "Y", "Shelf": 2}
+{"Item_ID": "76-584-4790", "Name": "Peanut Oil", "Expiration_Date": "1/1/2025", "Warehouse_Location": "1170 Shasta Circle", "Expiring_Soon": false, "Stock_Quantity": 2, "Aisle": "G", "Shelf": 10}
+{"Item_ID": "15-045-8444", "Name": "Green Coffee", "Expiration_Date": "3/27/2025", "Warehouse_Location": "97 Thierer Terrace", "Expiring_Soon": false, "Stock_Quantity": 166, "Aisle": "Q", "Shelf": 6}
+{"Item_ID": "48-957-6116", "Name": "Eggplant", "Expiration_Date": "8/5/2025", "Warehouse_Location": "938 Hanover Point", "Expiring_Soon": false, "Stock_Quantity": 43, "Aisle": "M", "Shelf": 4}
+{"Item_ID": "67-473-7093", "Name": "Black Tea", "Expiration_Date": "4/19/2025", "Warehouse_Location": "87417 Forest Pass", "Expiring_Soon": false, "Stock_Quantity": 79, "Aisle": "I", "Shelf": 6}
+{"Item_ID": "26-134-9069", "Name": "Whipped Cream", "Expiration_Date": "1/30/2025", "Warehouse_Location": "4929 Westend Point", "Expiring_Soon": false, "Stock_Quantity": 187, "Aisle": "G", "Shelf": 4}
+{"Item_ID": "81-354-4203", "Name": "Haddock", "Expiration_Date": "4/28/2025", "Warehouse_Location": "12 Luster Terrace", "Expiring_Soon": false, "Stock_Quantity": 167, "Aisle": "K", "Shelf": 8}
+{"Item_ID": "40-630-1431", "Name": "Cherry", "Expiration_Date": "11/7/2025", "Warehouse_Location": "8119 Homewood Drive", "Expiring_Soon": false, "Stock_Quantity": 153, "Aisle": "T", "Shelf": 8}
+{"Item_ID": "74-943-9034", "Name": "White Bread", "Expiration_Date": "5/6/2025", "Warehouse_Location": "0 Saint Paul Center", "Expiring_Soon": false, "Stock_Quantity": 97, "Aisle": "U", "Shelf": 7}
+{"Item_ID": "01-820-5784", "Name": "Egg (Duck)", "Expiration_Date": "4/26/2025", "Warehouse_Location": "6982 Crownhardt Circle", "Expiring_Soon": false, "Stock_Quantity": 167, "Aisle": "I", "Shelf": 5}
+{"Item_ID": "94-525-6925", "Name": "Rye Bread", "Expiration_Date": "9/17/2025", "Warehouse_Location": "667 Arkansas Circle", "Expiring_Soon": false, "Stock_Quantity": 107, "Aisle": "Q", "Shelf": 3}
+{"Item_ID": "55-680-0982", "Name": "Green Tea", "Expiration_Date": "8/19/2025", "Warehouse_Location": "0 Sutteridge Trail", "Expiring_Soon": false, "Stock_Quantity": 188, "Aisle": "L", "Shelf": 10}
+{"Item_ID": "79-428-8753", "Name": "Cabbage", "Expiration_Date": "12/30/2025", "Warehouse_Location": "9 Holmberg Circle", "Expiring_Soon": false, "Stock_Quantity": 160, "Aisle": "K", "Shelf": 1}
+{"Item_ID": "29-875-6900", "Name": "Papaya", "Expiration_Date": "8/22/2025", "Warehouse_Location": "2 Sachtjen Park", "Expiring_Soon": false, "Stock_Quantity": 4, "Aisle": "R", "Shelf": 9}
+{"Item_ID": "21-890-2826", "Name": "Gouda Cheese", "Expiration_Date": "9/19/2025", "Warehouse_Location": "84 Hoffman Way", "Expiring_Soon": false, "Stock_Quantity": 69, "Aisle": "P", "Shelf": 4}
+{"Item_ID": "09-101-1740", "Name": "Sushi Rice", "Expiration_Date": "8/31/2025", "Warehouse_Location": "96629 Nova Plaza", "Expiring_Soon": false, "Stock_Quantity": 40, "Aisle": "U", "Shelf": 9}
+{"Item_ID": "15-762-1058", "Name": "Lime", "Expiration_Date": "1/4/2025", "Warehouse_Location": "083 Mccormick Park", "Expiring_Soon": false, "Stock_Quantity": 155, "Aisle": "Z", "Shelf": 6}
+{"Item_ID": "45-194-4094", "Name": "Plum", "Expiration_Date": "10/10/2025", "Warehouse_Location": "2 Scofield Street", "Expiring_Soon": false, "Stock_Quantity": 57, "Aisle": "W", "Shelf": 4}
+{"Item_ID": "56-875-3717", "Name": "Brown Rice", "Expiration_Date": "5/3/2025", "Warehouse_Location": "32 Cottonwood Pass", "Expiring_Soon": false, "Stock_Quantity": 70, "Aisle": "K", "Shelf": 5}
+{"Item_ID": "58-122-2282", "Name": "Black Tea", "Expiration_Date": "6/12/2025", "Warehouse_Location": "96 American Ash Center", "Expiring_Soon": false, "Stock_Quantity": 145, "Aisle": "M", "Shelf": 1}
+{"Item_ID": "06-336-5482", "Name": "Sardines", "Expiration_Date": "8/24/2025", "Warehouse_Location": "7 Mockingbird Hill", "Expiring_Soon": false, "Stock_Quantity": 111, "Aisle": "R", "Shelf": 6}
+{"Item_ID": "07-219-8017", "Name": "Palm Oil", "Expiration_Date": "11/8/2025", "Warehouse_Location": "357 High Crossing Parkway", "Expiring_Soon": false, "Stock_Quantity": 172, "Aisle": "A", "Shelf": 6}
+{"Item_ID": "34-110-1040", "Name": "Bell Pepper", "Expiration_Date": "6/24/2025", "Warehouse_Location": "42397 Knutson Place", "Expiring_Soon": false, "Stock_Quantity": 195, "Aisle": "M", "Shelf": 9}
+{"Item_ID": "95-130-9020", "Name": "Heavy Cream", "Expiration_Date": "1/21/2025", "Warehouse_Location": "2 Canary Street", "Expiring_Soon": false, "Stock_Quantity": 124, "Aisle": "Y", "Shelf": 4}
+{"Item_ID": "34-086-3222", "Name": "Lemon", "Expiration_Date": "6/5/2025", "Warehouse_Location": "867 Merrick Place", "Expiring_Soon": false, "Stock_Quantity": 74, "Aisle": "K", "Shelf": 10}
+{"Item_ID": "18-278-2383", "Name": "Gouda Cheese", "Expiration_Date": "7/2/2025", "Warehouse_Location": "96 American Center", "Expiring_Soon": false, "Stock_Quantity": 148, "Aisle": "B", "Shelf": 10}
+{"Item_ID": "93-772-3085", "Name": "Banana", "Expiration_Date": "1/20/2025", "Warehouse_Location": "07359 Porter Park", "Expiring_Soon": false, "Stock_Quantity": 86, "Aisle": "X", "Shelf": 6}
+{"Item_ID": "44-112-3331", "Name": "Tuna", "Expiration_Date": "4/8/2025", "Warehouse_Location": "63787 Arkansas Street", "Expiring_Soon": false, "Stock_Quantity": 161, "Aisle": "C", "Shelf": 7}
+{"Item_ID": "29-092-3453", "Name": "Spinach", "Expiration_Date": "6/17/2025", "Warehouse_Location": "676 Redwing Trail", "Expiring_Soon": false, "Stock_Quantity": 126, "Aisle": "Y", "Shelf": 3}
+{"Item_ID": "92-551-8504", "Name": "Raw Sugar", "Expiration_Date": "12/24/2025", "Warehouse_Location": "461 Bluejay Circle", "Expiring_Soon": false, "Stock_Quantity": 88, "Aisle": "T", "Shelf": 6}
+{"Item_ID": "57-861-4379", "Name": "Swiss Cheese", "Expiration_Date": "2/4/2025", "Warehouse_Location": "64407 Marcy Plaza", "Expiring_Soon": false, "Stock_Quantity": 75, "Aisle": "H", "Shelf": 7}
+{"Item_ID": "60-644-6596", "Name": "Trout", "Expiration_Date": "11/10/2025", "Warehouse_Location": "22 Hudson Pass", "Expiring_Soon": false, "Stock_Quantity": 116, "Aisle": "F", "Shelf": 4}
+{"Item_ID": "42-495-7698", "Name": "Sushi Rice", "Expiration_Date": "7/22/2025", "Warehouse_Location": "91 Gateway Pass", "Expiring_Soon": false, "Stock_Quantity": 80, "Aisle": "X", "Shelf": 5}
+{"Item_ID": "16-354-8122", "Name": "Digestive Biscuit", "Expiration_Date": "11/27/2025", "Warehouse_Location": "66 Raven Pass", "Expiring_Soon": false, "Stock_Quantity": 107, "Aisle": "T", "Shelf": 1}
+{"Item_ID": "61-801-8665", "Name": "Robusta Coffee", "Expiration_Date": "6/24/2025", "Warehouse_Location": "58 La Follette Park", "Expiring_Soon": false, "Stock_Quantity": 90, "Aisle": "B", "Shelf": 1}
+{"Item_ID": "94-020-6982", "Name": "Tuna", "Expiration_Date": "5/4/2025", "Warehouse_Location": "381 Rutledge Place", "Expiring_Soon": false, "Stock_Quantity": 154, "Aisle": "C", "Shelf": 8}
+{"Item_ID": "55-936-2406", "Name": "Bread Flour", "Expiration_Date": "4/5/2025", "Warehouse_Location": "52691 8th Drive", "Expiring_Soon": false, "Stock_Quantity": 14, "Aisle": "U", "Shelf": 8}
+{"Item_ID": "37-567-3218", "Name": "Almond Flour", "Expiration_Date": "7/20/2025", "Warehouse_Location": "153 Caliangt Plaza", "Expiring_Soon": false, "Stock_Quantity": 111, "Aisle": "R", "Shelf": 6}
+{"Item_ID": "22-621-2774", "Name": "Strawberries", "Expiration_Date": "6/14/2025", "Warehouse_Location": "00 Drewry Court", "Expiring_Soon": false, "Stock_Quantity": 125, "Aisle": "O", "Shelf": 10}
+{"Item_ID": "34-075-0371", "Name": "Watermelon", "Expiration_Date": "12/3/2025", "Warehouse_Location": "0039 Shelley Place", "Expiring_Soon": false, "Stock_Quantity": 171, "Aisle": "Q", "Shelf": 1}
+{"Item_ID": "46-083-7058", "Name": "Haddock", "Expiration_Date": "6/9/2025", "Warehouse_Location": "21530 Prentice Place", "Expiring_Soon": false, "Stock_Quantity": 167, "Aisle": "M", "Shelf": 5}
+{"Item_ID": "32-933-0329", "Name": "Blueberries", "Expiration_Date": "4/15/2025", "Warehouse_Location": "57150 Del Sol Alley", "Expiring_Soon": false, "Stock_Quantity": 56, "Aisle": "H", "Shelf": 4}
+{"Item_ID": "24-986-5091", "Name": "Vanilla Biscuit", "Expiration_Date": "8/14/2025", "Warehouse_Location": "88 Lighthouse Bay Crossing", "Expiring_Soon": false, "Stock_Quantity": 133, "Aisle": "Z", "Shelf": 1}
+{"Item_ID": "42-220-9305", "Name": "White Sugar", "Expiration_Date": "10/14/2025", "Warehouse_Location": "61932 Cascade Crossing", "Expiring_Soon": false, "Stock_Quantity": 100, "Aisle": "Z", "Shelf": 8}
+{"Item_ID": "27-757-4489", "Name": "Egg (Goose)", "Expiration_Date": "7/4/2025", "Warehouse_Location": "27535 Morrow Avenue", "Expiring_Soon": false, "Stock_Quantity": 29, "Aisle": "Z", "Shelf": 2}
+{"Item_ID": "89-388-3239", "Name": "Grapes", "Expiration_Date": "4/19/2025", "Warehouse_Location": "4346 Columbus Way", "Expiring_Soon": false, "Stock_Quantity": 102, "Aisle": "W", "Shelf": 3}
+{"Item_ID": "68-977-6854", "Name": "Apricot", "Expiration_Date": "3/2/2025", "Warehouse_Location": "2633 Shasta Alley", "Expiring_Soon": false, "Stock_Quantity": 36, "Aisle": "P", "Shelf": 4}
+{"Item_ID": "40-751-8635", "Name": "Pineapple", "Expiration_Date": "3/5/2025", "Warehouse_Location": "3 Ronald Regan Center", "Expiring_Soon": false, "Stock_Quantity": 118, "Aisle": "N", "Shelf": 8}
+{"Item_ID": "53-050-8242", "Name": "Mackerel", "Expiration_Date": "2/15/2025", "Warehouse_Location": "9 Cordelia Trail", "Expiring_Soon": false, "Stock_Quantity": 149, "Aisle": "M", "Shelf": 2}
+{"Item_ID": "15-907-3681", "Name": "Plum", "Expiration_Date": "2/20/2025", "Warehouse_Location": "21633 Sycamore Center", "Expiring_Soon": false, "Stock_Quantity": 84, "Aisle": "Q", "Shelf": 3}
+{"Item_ID": "80-039-1261", "Name": "Strawberries", "Expiration_Date": "6/12/2025", "Warehouse_Location": "1 Havey Park", "Expiring_Soon": false, "Stock_Quantity": 102, "Aisle": "U", "Shelf": 4}
+{"Item_ID": "56-831-6199", "Name": "Salmon", "Expiration_Date": "8/14/2025", "Warehouse_Location": "1247 Hoard Hill", "Expiring_Soon": false, "Stock_Quantity": 194, "Aisle": "O", "Shelf": 2}
+{"Item_ID": "42-134-9798", "Name": "Canola Oil", "Expiration_Date": "12/30/2025", "Warehouse_Location": "0087 Bluejay Plaza", "Expiring_Soon": false, "Stock_Quantity": 77, "Aisle": "V", "Shelf": 2}
+{"Item_ID": "06-655-5498", "Name": "Wild Rice", "Expiration_Date": "9/28/2025", "Warehouse_Location": "8569 Bashford Court", "Expiring_Soon": false, "Stock_Quantity": 75, "Aisle": "E", "Shelf": 2}
+{"Item_ID": "58-229-1358", "Name": "Cream", "Expiration_Date": "9/28/2025", "Warehouse_Location": "1 Lillian Plaza", "Expiring_Soon": false, "Stock_Quantity": 112, "Aisle": "S", "Shelf": 1}
+{"Item_ID": "90-865-9150", "Name": "Powdered Sugar", "Expiration_Date": "7/9/2025", "Warehouse_Location": "00029 Fisk Point", "Expiring_Soon": false, "Stock_Quantity": 109, "Aisle": "B", "Shelf": 10}
+{"Item_ID": "60-911-3745", "Name": "Black Rice", "Expiration_Date": "1/18/2025", "Warehouse_Location": "75054 Ramsey Parkway", "Expiring_Soon": false, "Stock_Quantity": 59, "Aisle": "W", "Shelf": 1}
+{"Item_ID": "96-334-2593", "Name": "White Tea", "Expiration_Date": "11/19/2025", "Warehouse_Location": "9559 Muir Trail", "Expiring_Soon": false, "Stock_Quantity": 63, "Aisle": "S", "Shelf": 10}
+{"Item_ID": "93-815-0565", "Name": "Sesame Oil", "Expiration_Date": "7/1/2025", "Warehouse_Location": "8868 Armistice Place", "Expiring_Soon": false, "Stock_Quantity": 127, "Aisle": "Y", "Shelf": 1}
+{"Item_ID": "82-243-3180", "Name": "Palm Oil", "Expiration_Date": "2/11/2025", "Warehouse_Location": "97 Sunnyside Court", "Expiring_Soon": false, "Stock_Quantity": 65, "Aisle": "I", "Shelf": 7}
+{"Item_ID": "46-911-1159", "Name": "Onion", "Expiration_Date": "12/19/2025", "Warehouse_Location": "9171 Norway Maple Trail", "Expiring_Soon": false, "Stock_Quantity": 32, "Aisle": "O", "Shelf": 1}
+{"Item_ID": "87-104-0187", "Name": "Whole Wheat Flour", "Expiration_Date": "2/5/2025", "Warehouse_Location": "0 Moose Lane", "Expiring_Soon": false, "Stock_Quantity": 75, "Aisle": "T", "Shelf": 4}
+{"Item_ID": "08-725-8156", "Name": "Tilapia", "Expiration_Date": "3/15/2025", "Warehouse_Location": "73397 Steensland Circle", "Expiring_Soon": false, "Stock_Quantity": 90, "Aisle": "N", "Shelf": 6}
+{"Item_ID": "89-335-0155", "Name": "Brown Rice", "Expiration_Date": "1/16/2025", "Warehouse_Location": "9 Kipling Road", "Expiring_Soon": false, "Stock_Quantity": 9, "Aisle": "E", "Shelf": 10}
+{"Item_ID": "79-920-2395", "Name": "Mushrooms", "Expiration_Date": "7/16/2025", "Warehouse_Location": "911 Merry Junction", "Expiring_Soon": false, "Stock_Quantity": 85, "Aisle": "L", "Shelf": 7}
+{"Item_ID": "93-015-0811", "Name": "Pineapple", "Expiration_Date": "6/26/2025", "Warehouse_Location": "1 Pleasure Hill", "Expiring_Soon": false, "Stock_Quantity": 176, "Aisle": "X", "Shelf": 2}
+{"Item_ID": "77-937-1108", "Name": "White Sugar", "Expiration_Date": "4/12/2025", "Warehouse_Location": "01 Hansons Crossing", "Expiring_Soon": false, "Stock_Quantity": 181, "Aisle": "I", "Shelf": 5}
+{"Item_ID": "79-884-8810", "Name": "Cucumber", "Expiration_Date": "8/15/2025", "Warehouse_Location": "546 Declaration Place", "Expiring_Soon": false, "Stock_Quantity": 79, "Aisle": "N", "Shelf": 5}
+{"Item_ID": "65-235-7676", "Name": "Whole Wheat Bread", "Expiration_Date": "6/3/2025", "Warehouse_Location": "31208 Westerfield Way", "Expiring_Soon": false, "Stock_Quantity": 41, "Aisle": "Q", "Shelf": 8}
+{"Item_ID": "67-984-5368", "Name": "Parmesan Cheese", "Expiration_Date": "7/28/2025", "Warehouse_Location": "0 Fordem Place", "Expiring_Soon": false, "Stock_Quantity": 170, "Aisle": "A", "Shelf": 8}
+{"Item_ID": "27-442-3654", "Name": "Herbal Tea", "Expiration_Date": "12/3/2025", "Warehouse_Location": "67677 Lakewood Gardens Way", "Expiring_Soon": false, "Stock_Quantity": 3, "Aisle": "Q", "Shelf": 6}
+{"Item_ID": "77-959-1018", "Name": "Lettuce", "Expiration_Date": "6/12/2025", "Warehouse_Location": "03 Ryan Circle", "Expiring_Soon": false, "Stock_Quantity": 192, "Aisle": "V", "Shelf": 2}
+{"Item_ID": "63-956-0739", "Name": "Robusta Coffee", "Expiration_Date": "12/22/2025", "Warehouse_Location": "6808 Chinook Parkway", "Expiring_Soon": false, "Stock_Quantity": 36, "Aisle": "O", "Shelf": 8}
+{"Item_ID": "28-197-9246", "Name": "Powdered Sugar", "Expiration_Date": "5/23/2025", "Warehouse_Location": "8499 Hanover Terrace", "Expiring_Soon": false, "Stock_Quantity": 28, "Aisle": "X", "Shelf": 7}
+{"Item_ID": "29-756-7042", "Name": "Digestive Biscuit", "Expiration_Date": "5/7/2025", "Warehouse_Location": "99 Fair Oaks Circle", "Expiring_Soon": false, "Stock_Quantity": 149, "Aisle": "H", "Shelf": 5}
+{"Item_ID": "39-449-0772", "Name": "Feta Cheese", "Expiration_Date": "10/5/2025", "Warehouse_Location": "195 Portage Junction", "Expiring_Soon": false, "Stock_Quantity": 7, "Aisle": "P", "Shelf": 9}
+{"Item_ID": "17-504-3699", "Name": "Sweet Potato", "Expiration_Date": "8/17/2025", "Warehouse_Location": "18 Daystar Parkway", "Expiring_Soon": false, "Stock_Quantity": 8, "Aisle": "I", "Shelf": 1}
+{"Item_ID": "01-439-6231", "Name": "Sunflower Oil", "Expiration_Date": "12/9/2025", "Warehouse_Location": "8 Spaight Circle", "Expiring_Soon": false, "Stock_Quantity": 9, "Aisle": "K", "Shelf": 2}
+{"Item_ID": "56-303-5256", "Name": "Wild Rice", "Expiration_Date": "3/21/2025", "Warehouse_Location": "3 Hermina Circle", "Expiring_Soon": false, "Stock_Quantity": 158, "Aisle": "P", "Shelf": 8}
+{"Item_ID": "19-047-4239", "Name": "Peach", "Expiration_Date": "4/30/2025", "Warehouse_Location": "7 West Street", "Expiring_Soon": false, "Stock_Quantity": 55, "Aisle": "P", "Shelf": 9}
+{"Item_ID": "83-108-1174", "Name": "White Bread", "Expiration_Date": "12/25/2025", "Warehouse_Location": "3 Monument Street", "Expiring_Soon": false, "Stock_Quantity": 8, "Aisle": "U", "Shelf": 8}
+{"Item_ID": "51-761-6320", "Name": "Egg (Goose)", "Expiration_Date": "6/22/2025", "Warehouse_Location": "587 Vermont Terrace", "Expiring_Soon": false, "Stock_Quantity": 12, "Aisle": "X", "Shelf": 2}
+{"Item_ID": "75-152-8731", "Name": "Pear", "Expiration_Date": "8/8/2025", "Warehouse_Location": "622 Anthes Lane", "Expiring_Soon": false, "Stock_Quantity": 121, "Aisle": "H", "Shelf": 9}
+{"Item_ID": "54-374-9986", "Name": "Cream", "Expiration_Date": "3/21/2025", "Warehouse_Location": "74997 Katie Terrace", "Expiring_Soon": false, "Stock_Quantity": 142, "Aisle": "G", "Shelf": 2}
+{"Item_ID": "41-594-5069", "Name": "Egg (Duck)", "Expiration_Date": "3/21/2025", "Warehouse_Location": "9 Clemons Hill", "Expiring_Soon": false, "Stock_Quantity": 132, "Aisle": "B", "Shelf": 4}
+{"Item_ID": "13-144-2169", "Name": "Eggplant", "Expiration_Date": "9/7/2025", "Warehouse_Location": "52 Namekagon Junction", "Expiring_Soon": false, "Stock_Quantity": 31, "Aisle": "B", "Shelf": 4}
+{"Item_ID": "34-709-9237", "Name": "Carrot", "Expiration_Date": "4/24/2025", "Warehouse_Location": "1509 Hoard Circle", "Expiring_Soon": false, "Stock_Quantity": 19, "Aisle": "M", "Shelf": 7}
+{"Item_ID": "20-022-3173", "Name": "Bread Flour", "Expiration_Date": "2/22/2025", "Warehouse_Location": "81878 Nobel Point", "Expiring_Soon": false, "Stock_Quantity": 43, "Aisle": "R", "Shelf": 4}
+{"Item_ID": "02-085-7218", "Name": "Cheddar Cheese", "Expiration_Date": "1/28/2025", "Warehouse_Location": "2835 Schlimgen Parkway", "Expiring_Soon": false, "Stock_Quantity": 142, "Aisle": "F", "Shelf": 3}
+{"Item_ID": "86-672-4191", "Name": "Egg (Goose)", "Expiration_Date": "2/8/2025", "Warehouse_Location": "18 Troy Avenue", "Expiring_Soon": false, "Stock_Quantity": 127, "Aisle": "R", "Shelf": 7}
+{"Item_ID": "38-049-9319", "Name": "Oatmeal Biscuit", "Expiration_Date": "5/9/2025", "Warehouse_Location": "6 Lillian Junction", "Expiring_Soon": false, "Stock_Quantity": 90, "Aisle": "I", "Shelf": 3}
+{"Item_ID": "15-679-3935", "Name": "Grapes", "Expiration_Date": "2/20/2025", "Warehouse_Location": "95 Garrison Plaza", "Expiring_Soon": false, "Stock_Quantity": 85, "Aisle": "A", "Shelf": 5}
+{"Item_ID": "77-377-1659", "Name": "Almond Flour", "Expiration_Date": "6/19/2025", "Warehouse_Location": "6 Acker Street", "Expiring_Soon": false, "Stock_Quantity": 48, "Aisle": "J", "Shelf": 6}
+{"Item_ID": "01-903-5373", "Name": "Strawberries", "Expiration_Date": "6/21/2025", "Warehouse_Location": "32525 Marquette Park", "Expiring_Soon": false, "Stock_Quantity": 27, "Aisle": "H", "Shelf": 10}
+{"Item_ID": "78-953-2073", "Name": "Canola Oil", "Expiration_Date": "1/4/2025", "Warehouse_Location": "085 Reinke Pass", "Expiring_Soon": false, "Stock_Quantity": 75, "Aisle": "Z", "Shelf": 2}
+{"Item_ID": "47-441-7682", "Name": "Digestive Biscuit", "Expiration_Date": "11/30/2025", "Warehouse_Location": "4247 David Crossing", "Expiring_Soon": false, "Stock_Quantity": 155, "Aisle": "G", "Shelf": 6}
+{"Item_ID": "46-255-3073", "Name": "Tilapia", "Expiration_Date": "7/11/2025", "Warehouse_Location": "57 Eastwood Junction", "Expiring_Soon": false, "Stock_Quantity": 70, "Aisle": "F", "Shelf": 8}
+{"Item_ID": "71-631-5875", "Name": "Salmon", "Expiration_Date": "10/25/2025", "Warehouse_Location": "13 Loomis Alley", "Expiring_Soon": false, "Stock_Quantity": 134, "Aisle": "Y", "Shelf": 9}
+{"Item_ID": "57-763-5501", "Name": "Cod", "Expiration_Date": "3/24/2025", "Warehouse_Location": "46 Colorado Place", "Expiring_Soon": false, "Stock_Quantity": 175, "Aisle": "P", "Shelf": 1}
+{"Item_ID": "45-402-0421", "Name": "Swiss Cheese", "Expiration_Date": "7/14/2025", "Warehouse_Location": "36 Longview Street", "Expiring_Soon": false, "Stock_Quantity": 91, "Aisle": "N", "Shelf": 4}
+{"Item_ID": "29-135-0791", "Name": "Jasmine Rice", "Expiration_Date": "1/11/2025", "Warehouse_Location": "97 Utah Lane", "Expiring_Soon": false, "Stock_Quantity": 117, "Aisle": "C", "Shelf": 5}
+{"Item_ID": "71-015-9181", "Name": "Pomegranate", "Expiration_Date": "10/26/2025", "Warehouse_Location": "62238 Mallory Place", "Expiring_Soon": false, "Stock_Quantity": 62, "Aisle": "E", "Shelf": 3}
+{"Item_ID": "40-795-0753", "Name": "Raw Sugar", "Expiration_Date": "5/30/2025", "Warehouse_Location": "66879 Susan Place", "Expiring_Soon": false, "Stock_Quantity": 34, "Aisle": "M", "Shelf": 10}
+{"Item_ID": "48-957-8596", "Name": "Banana", "Expiration_Date": "10/18/2025", "Warehouse_Location": "3825 Raven Avenue", "Expiring_Soon": false, "Stock_Quantity": 47, "Aisle": "D", "Shelf": 5}
+{"Item_ID": "38-390-2115", "Name": "Potato", "Expiration_Date": "3/1/2025", "Warehouse_Location": "3 Del Mar Point", "Expiring_Soon": false, "Stock_Quantity": 60, "Aisle": "Y", "Shelf": 1}
+{"Item_ID": "13-980-8804", "Name": "Sweet Potato", "Expiration_Date": "2/10/2025", "Warehouse_Location": "41 Nelson Center", "Expiring_Soon": false, "Stock_Quantity": 34, "Aisle": "H", "Shelf": 8}
+{"Item_ID": "41-237-5498", "Name": "Cheese", "Expiration_Date": "2/6/2025", "Warehouse_Location": "29817 Coleman Drive", "Expiring_Soon": false, "Stock_Quantity": 138, "Aisle": "U", "Shelf": 3}
+{"Item_ID": "05-334-2923", "Name": "Bread Flour", "Expiration_Date": "5/16/2025", "Warehouse_Location": "8 Surrey Pass", "Expiring_Soon": false, "Stock_Quantity": 174, "Aisle": "W", "Shelf": 7}
+{"Item_ID": "26-161-6692", "Name": "Zucchini", "Expiration_Date": "9/19/2025", "Warehouse_Location": "70001 Vahlen Lane", "Expiring_Soon": false, "Stock_Quantity": 164, "Aisle": "M", "Shelf": 9}
+{"Item_ID": "65-527-9488", "Name": "Grapes", "Expiration_Date": "10/10/2025", "Warehouse_Location": "23704 Algoma Park", "Expiring_Soon": false, "Stock_Quantity": 63, "Aisle": "F", "Shelf": 7}
+{"Item_ID": "74-234-0628", "Name": "Almond Flour", "Expiration_Date": "5/13/2025", "Warehouse_Location": "2 Veith Crossing", "Expiring_Soon": false, "Stock_Quantity": 55, "Aisle": "X", "Shelf": 5}
+{"Item_ID": "98-148-0940", "Name": "Egg (Chicken)", "Expiration_Date": "11/5/2025", "Warehouse_Location": "588 Waywood Trail", "Expiring_Soon": false, "Stock_Quantity": 38, "Aisle": "V", "Shelf": 10}
+{"Item_ID": "94-355-3070", "Name": "Tilapia", "Expiration_Date": "7/23/2025", "Warehouse_Location": "116 Spaight Park", "Expiring_Soon": false, "Stock_Quantity": 130, "Aisle": "A", "Shelf": 3}
+{"Item_ID": "01-050-2246", "Name": "Grapes", "Expiration_Date": "9/8/2025", "Warehouse_Location": "38 Esch Pass", "Expiring_Soon": false, "Stock_Quantity": 134, "Aisle": "A", "Shelf": 4}
+{"Item_ID": "28-433-8533", "Name": "Multigrain Bread", "Expiration_Date": "2/2/2025", "Warehouse_Location": "8 Mayer Trail", "Expiring_Soon": false, "Stock_Quantity": 126, "Aisle": "X", "Shelf": 8}
+{"Item_ID": "52-402-9245", "Name": "Broccoli", "Expiration_Date": "9/19/2025", "Warehouse_Location": "185 Stone Corner Parkway", "Expiring_Soon": false, "Stock_Quantity": 38, "Aisle": "J", "Shelf": 3}
+{"Item_ID": "10-445-0741", "Name": "Anchovies", "Expiration_Date": "3/31/2025", "Warehouse_Location": "31 Loomis Park", "Expiring_Soon": false, "Stock_Quantity": 191, "Aisle": "P", "Shelf": 1}
+{"Item_ID": "89-543-3456", "Name": "Blueberries", "Expiration_Date": "2/6/2025", "Warehouse_Location": "22782 Oriole Way", "Expiring_Soon": false, "Stock_Quantity": 53, "Aisle": "F", "Shelf": 8}
+{"Item_ID": "56-894-3733", "Name": "Yogurt", "Expiration_Date": "2/2/2025", "Warehouse_Location": "897 Independence Circle", "Expiring_Soon": false, "Stock_Quantity": 147, "Aisle": "K", "Shelf": 9}
+{"Item_ID": "94-190-5193", "Name": "Carrot", "Expiration_Date": "4/9/2025", "Warehouse_Location": "24385 Prentice Plaza", "Expiring_Soon": false, "Stock_Quantity": 80, "Aisle": "B", "Shelf": 6}
+{"Item_ID": "58-063-8633", "Name": "Bell Pepper", "Expiration_Date": "9/22/2025", "Warehouse_Location": "33424 Express Avenue", "Expiring_Soon": false, "Stock_Quantity": 82, "Aisle": "L", "Shelf": 3}
+{"Item_ID": "31-211-5803", "Name": "Oatmeal Biscuit", "Expiration_Date": "2/7/2025", "Warehouse_Location": "492 Shoshone Road", "Expiring_Soon": false, "Stock_Quantity": 144, "Aisle": "Z", "Shelf": 10}
+{"Item_ID": "61-317-9944", "Name": "White Bread", "Expiration_Date": "10/29/2025", "Warehouse_Location": "21844 Artisan Trail", "Expiring_Soon": false, "Stock_Quantity": 80, "Aisle": "T", "Shelf": 7}
+{"Item_ID": "80-374-5711", "Name": "Herbal Tea", "Expiration_Date": "12/7/2025", "Warehouse_Location": "13 Bluejay Way", "Expiring_Soon": false, "Stock_Quantity": 167, "Aisle": "Z", "Shelf": 2}
+{"Item_ID": "31-969-4614", "Name": "Arabica Coffee", "Expiration_Date": "1/15/2025", "Warehouse_Location": "993 Kensington Drive", "Expiring_Soon": false, "Stock_Quantity": 85, "Aisle": "T", "Shelf": 8}
+{"Item_ID": "37-666-3902", "Name": "Cauliflower", "Expiration_Date": "6/12/2025", "Warehouse_Location": "85276 Lakewood Gardens Alley", "Expiring_Soon": false, "Stock_Quantity": 23, "Aisle": "Q", "Shelf": 9}
+{"Item_ID": "81-844-2979", "Name": "Broccoli", "Expiration_Date": "5/11/2025", "Warehouse_Location": "16 Elgar Point", "Expiring_Soon": false, "Stock_Quantity": 117, "Aisle": "G", "Shelf": 1}
+{"Item_ID": "50-942-2409", "Name": "Peas", "Expiration_Date": "12/10/2025", "Warehouse_Location": "7182 Summit Court", "Expiring_Soon": false, "Stock_Quantity": 120, "Aisle": "S", "Shelf": 2}
+{"Item_ID": "60-311-5701", "Name": "Sesame Oil", "Expiration_Date": "7/17/2025", "Warehouse_Location": "9 Meadow Vale Drive", "Expiring_Soon": false, "Stock_Quantity": 12, "Aisle": "X", "Shelf": 6}
+{"Item_ID": "11-155-7826", "Name": "Arabica Coffee", "Expiration_Date": "12/26/2025", "Warehouse_Location": "321 Barby Parkway", "Expiring_Soon": false, "Stock_Quantity": 58, "Aisle": "A", "Shelf": 9}
+{"Item_ID": "22-083-3347", "Name": "Long Grain Rice", "Expiration_Date": "4/30/2025", "Warehouse_Location": "38 Superior Road", "Expiring_Soon": false, "Stock_Quantity": 112, "Aisle": "S", "Shelf": 9}
+{"Item_ID": "37-064-7275", "Name": "Robusta Coffee", "Expiration_Date": "9/22/2025", "Warehouse_Location": "149 Lawn Way", "Expiring_Soon": false, "Stock_Quantity": 128, "Aisle": "W", "Shelf": 8}
+{"Item_ID": "86-692-2312", "Name": "Avocado Oil", "Expiration_Date": "4/30/2025", "Warehouse_Location": "00616 Manitowish Parkway", "Expiring_Soon": false, "Stock_Quantity": 62, "Aisle": "B", "Shelf": 4}
+{"Item_ID": "02-034-6209", "Name": "Sour Cream", "Expiration_Date": "10/8/2025", "Warehouse_Location": "96 Brown Drive", "Expiring_Soon": false, "Stock_Quantity": 120, "Aisle": "V", "Shelf": 6}
+{"Item_ID": "02-655-3240", "Name": "Rice Flour", "Expiration_Date": "6/20/2025", "Warehouse_Location": "6738 Tennyson Road", "Expiring_Soon": false, "Stock_Quantity": 70, "Aisle": "S", "Shelf": 1}
+{"Item_ID": "00-534-9775", "Name": "Black Coffee", "Expiration_Date": "8/17/2025", "Warehouse_Location": "68 Dakota Center", "Expiring_Soon": false, "Stock_Quantity": 46, "Aisle": "A", "Shelf": 2}
+{"Item_ID": "06-340-6856", "Name": "Wild Rice", "Expiration_Date": "2/29/2025", "Warehouse_Location": "84 Rusk Terrace", "Expiring_Soon": false, "Stock_Quantity": 16, "Aisle": "Z", "Shelf": 4}
+{"Item_ID": "17-236-0566", "Name": "Sweet Potato", "Expiration_Date": "8/4/2025", "Warehouse_Location": "803 5th Alley", "Expiring_Soon": false, "Stock_Quantity": 6, "Aisle": "I", "Shelf": 6}
+{"Item_ID": "94-029-2717", "Name": "Broccoli", "Expiration_Date": "6/9/2025", "Warehouse_Location": "071 Nobel Circle", "Expiring_Soon": false, "Stock_Quantity": 172, "Aisle": "J", "Shelf": 2}
+{"Item_ID": "65-145-9672", "Name": "Long Grain Rice", "Expiration_Date": "5/26/2025", "Warehouse_Location": "8 Dovetail Junction", "Expiring_Soon": false, "Stock_Quantity": 48, "Aisle": "I", "Shelf": 10}
+{"Item_ID": "03-940-0630", "Name": "Sunflower Oil", "Expiration_Date": "4/3/2025", "Warehouse_Location": "27408 Burning Wood Street", "Expiring_Soon": false, "Stock_Quantity": 49, "Aisle": "C", "Shelf": 1}
+{"Item_ID": "60-343-7973", "Name": "Multigrain Bread", "Expiration_Date": "4/9/2025", "Warehouse_Location": "85408 Toban Crossing", "Expiring_Soon": false, "Stock_Quantity": 20, "Aisle": "H", "Shelf": 5}
+{"Item_ID": "66-993-4234", "Name": "Cucumber", "Expiration_Date": "6/24/2025", "Warehouse_Location": "22 Dexter Trail", "Expiring_Soon": false, "Stock_Quantity": 40, "Aisle": "W", "Shelf": 9}
+{"Item_ID": "81-573-0943", "Name": "Egg (Chicken)", "Expiration_Date": "11/14/2025", "Warehouse_Location": "20 Marcy Circle", "Expiring_Soon": false, "Stock_Quantity": 1, "Aisle": "F", "Shelf": 3}
+{"Item_ID": "15-240-6267", "Name": "Eggplant", "Expiration_Date": "4/26/2025", "Warehouse_Location": "25784 Old Gate Crossing", "Expiring_Soon": false, "Stock_Quantity": 72, "Aisle": "N", "Shelf": 8}
+{"Item_ID": "55-154-4728", "Name": "Arabica Coffee", "Expiration_Date": "3/29/2025", "Warehouse_Location": "96 Westridge Junction", "Expiring_Soon": false, "Stock_Quantity": 143, "Aisle": "W", "Shelf": 2}
+{"Item_ID": "10-617-7581", "Name": "Peanut Oil", "Expiration_Date": "6/17/2025", "Warehouse_Location": "0 Lawn Parkway", "Expiring_Soon": false, "Stock_Quantity": 159, "Aisle": "O", "Shelf": 1}
+{"Item_ID": "11-745-3025", "Name": "Peach", "Expiration_Date": "9/3/2025", "Warehouse_Location": "3104 Ridge Oak Hill", "Expiring_Soon": false, "Stock_Quantity": 15, "Aisle": "J", "Shelf": 10}
+{"Item_ID": "76-954-1442", "Name": "Arabica Coffee", "Expiration_Date": "3/18/2025", "Warehouse_Location": "43024 Elka Avenue", "Expiring_Soon": false, "Stock_Quantity": 158, "Aisle": "S", "Shelf": 9}
+{"Item_ID": "51-459-5630", "Name": "Sour Cream", "Expiration_Date": "12/14/2025", "Warehouse_Location": "805 Center Parkway", "Expiring_Soon": false, "Stock_Quantity": 17, "Aisle": "X", "Shelf": 10}
+{"Item_ID": "27-881-1177", "Name": "Green Tea", "Expiration_Date": "11/23/2025", "Warehouse_Location": "1223 Monument Drive", "Expiring_Soon": false, "Stock_Quantity": 42, "Aisle": "Q", "Shelf": 4}
+{"Item_ID": "48-414-6162", "Name": "Arabica Coffee", "Expiration_Date": "5/5/2025", "Warehouse_Location": "17780 Lindbergh Junction", "Expiring_Soon": false, "Stock_Quantity": 115, "Aisle": "W", "Shelf": 10}
+{"Item_ID": "72-341-1154", "Name": "Heavy Cream", "Expiration_Date": "9/9/2025", "Warehouse_Location": "8682 Golf Course Junction", "Expiring_Soon": false, "Stock_Quantity": 138, "Aisle": "R", "Shelf": 1}
+{"Item_ID": "33-378-1365", "Name": "Egg (Goose)", "Expiration_Date": "2/4/2025", "Warehouse_Location": "23560 Talmadge Center", "Expiring_Soon": false, "Stock_Quantity": 80, "Aisle": "R", "Shelf": 5}
+{"Item_ID": "82-041-7211", "Name": "Swiss Cheese", "Expiration_Date": "7/1/2025", "Warehouse_Location": "285 1st Park", "Expiring_Soon": false, "Stock_Quantity": 22, "Aisle": "A", "Shelf": 4}
+{"Item_ID": "43-193-9915", "Name": "Mozzarella Cheese", "Expiration_Date": "9/23/2025", "Warehouse_Location": "61 Transport Parkway", "Expiring_Soon": false, "Stock_Quantity": 92, "Aisle": "M", "Shelf": 2}
+{"Item_ID": "27-474-0056", "Name": "Spinach", "Expiration_Date": "6/19/2025", "Warehouse_Location": "538 Bayside Parkway", "Expiring_Soon": false, "Stock_Quantity": 1, "Aisle": "D", "Shelf": 2}
+{"Item_ID": "99-033-5661", "Name": "Rice Flour", "Expiration_Date": "9/25/2025", "Warehouse_Location": "289 Longview Point", "Expiring_Soon": false, "Stock_Quantity": 58, "Aisle": "S", "Shelf": 2}
+{"Item_ID": "57-101-0060", "Name": "Whole Wheat Flour", "Expiration_Date": "9/11/2025", "Warehouse_Location": "78919 East Crossing", "Expiring_Soon": false, "Stock_Quantity": 175, "Aisle": "Z", "Shelf": 7}
+{"Item_ID": "93-198-5984", "Name": "Mango", "Expiration_Date": "9/17/2025", "Warehouse_Location": "54706 Prairieview Point", "Expiring_Soon": false, "Stock_Quantity": 152, "Aisle": "C", "Shelf": 3}
+{"Item_ID": "75-080-4909", "Name": "Corn Oil", "Expiration_Date": "9/9/2025", "Warehouse_Location": "7 Gateway Center", "Expiring_Soon": false, "Stock_Quantity": 72, "Aisle": "Q", "Shelf": 1}
+{"Item_ID": "06-849-4869", "Name": "Sesame Oil", "Expiration_Date": "7/15/2025", "Warehouse_Location": "041 Paget Alley", "Expiring_Soon": false, "Stock_Quantity": 91, "Aisle": "C", "Shelf": 10}
+{"Item_ID": "34-369-7712", "Name": "Apricot", "Expiration_Date": "6/6/2025", "Warehouse_Location": "0 Lerdahl Parkway", "Expiring_Soon": false, "Stock_Quantity": 143, "Aisle": "Q", "Shelf": 4}
+{"Item_ID": "38-732-7667", "Name": "Pineapple", "Expiration_Date": "9/28/2025", "Warehouse_Location": "3645 Ridge Oak Drive", "Expiring_Soon": false, "Stock_Quantity": 39, "Aisle": "H", "Shelf": 6}
+{"Item_ID": "51-273-4240", "Name": "Multigrain Bread", "Expiration_Date": "6/20/2025", "Warehouse_Location": "7 Prairieview Place", "Expiring_Soon": false, "Stock_Quantity": 34, "Aisle": "O", "Shelf": 2}
+{"Item_ID": "80-658-6456", "Name": "Mango", "Expiration_Date": "12/10/2025", "Warehouse_Location": "44051 Old Shore Junction", "Expiring_Soon": false, "Stock_Quantity": 54, "Aisle": "Y", "Shelf": 2}
+{"Item_ID": "19-610-2236", "Name": "Whole Wheat Bread", "Expiration_Date": "3/19/2025", "Warehouse_Location": "8524 Shelley Way", "Expiring_Soon": false, "Stock_Quantity": 56, "Aisle": "U", "Shelf": 6}
+{"Item_ID": "74-562-7431", "Name": "Vanilla Biscuit", "Expiration_Date": "11/1/2025", "Warehouse_Location": "79 Ronald Regan Avenue", "Expiring_Soon": false, "Stock_Quantity": 40, "Aisle": "U", "Shelf": 4}
+{"Item_ID": "84-546-7624", "Name": "Cherry", "Expiration_Date": "6/1/2025", "Warehouse_Location": "61057 Hallows Junction", "Expiring_Soon": false, "Stock_Quantity": 111, "Aisle": "Y", "Shelf": 2}
+{"Item_ID": "53-008-2419", "Name": "Jasmine Rice", "Expiration_Date": "5/27/2025", "Warehouse_Location": "63 Debra Park", "Expiring_Soon": false, "Stock_Quantity": 50, "Aisle": "D", "Shelf": 10}
+{"Item_ID": "76-401-7083", "Name": "Pomegranate", "Expiration_Date": "7/31/2025", "Warehouse_Location": "31892 Pennsylvania Street", "Expiring_Soon": false, "Stock_Quantity": 100, "Aisle": "X", "Shelf": 1}
+{"Item_ID": "16-380-0753", "Name": "Apricot", "Expiration_Date": "5/8/2025", "Warehouse_Location": "701 Logan Court", "Expiring_Soon": false, "Stock_Quantity": 6, "Aisle": "U", "Shelf": 10}
+{"Item_ID": "15-796-3130", "Name": "Rye Bread", "Expiration_Date": "5/29/2025", "Warehouse_Location": "85 Lunder Court", "Expiring_Soon": false, "Stock_Quantity": 199, "Aisle": "O", "Shelf": 7}
+{"Item_ID": "11-073-0189", "Name": "Plum", "Expiration_Date": "5/6/2025", "Warehouse_Location": "5104 Jana Court", "Expiring_Soon": false, "Stock_Quantity": 12, "Aisle": "R", "Shelf": 10}
+{"Item_ID": "80-072-8774", "Name": "Tuna", "Expiration_Date": "10/15/2025", "Warehouse_Location": "239 Anderson Court", "Expiring_Soon": false, "Stock_Quantity": 44, "Aisle": "O", "Shelf": 9}
+{"Item_ID": "81-578-7404", "Name": "Gouda Cheese", "Expiration_Date": "4/6/2025", "Warehouse_Location": "5989 Longview Drive", "Expiring_Soon": false, "Stock_Quantity": 117, "Aisle": "O", "Shelf": 7}
+{"Item_ID": "52-029-2382", "Name": "Coconut Oil", "Expiration_Date": "4/8/2025", "Warehouse_Location": "08896 Evergreen Avenue", "Expiring_Soon": false, "Stock_Quantity": 64, "Aisle": "M", "Shelf": 9}
+{"Item_ID": "31-627-6025", "Name": "White Bread", "Expiration_Date": "1/20/2025", "Warehouse_Location": "44638 Corscot Lane", "Expiring_Soon": false, "Stock_Quantity": 19, "Aisle": "Q", "Shelf": 10}
+{"Item_ID": "92-995-8689", "Name": "Cheddar Cheese", "Expiration_Date": "3/6/2025", "Warehouse_Location": "1 Merchant Circle", "Expiring_Soon": false, "Stock_Quantity": 180, "Aisle": "I", "Shelf": 9}
+{"Item_ID": "73-942-0508", "Name": "Kale", "Expiration_Date": "10/4/2025", "Warehouse_Location": "1034 2nd Point", "Expiring_Soon": false, "Stock_Quantity": 167, "Aisle": "H", "Shelf": 9}
+{"Item_ID": "68-436-1268", "Name": "Egg (Duck)", "Expiration_Date": "7/11/2025", "Warehouse_Location": "1 Mockingbird Parkway", "Expiring_Soon": false, "Stock_Quantity": 63, "Aisle": "A", "Shelf": 10}
+{"Item_ID": "59-857-6577", "Name": "Evaporated Milk", "Expiration_Date": "3/4/2025", "Warehouse_Location": "230 Tony Court", "Expiring_Soon": false, "Stock_Quantity": 99, "Aisle": "T", "Shelf": 9}
+{"Item_ID": "12-046-2988", "Name": "Corn Oil", "Expiration_Date": "11/21/2025", "Warehouse_Location": "931 Browning Center", "Expiring_Soon": false, "Stock_Quantity": 24, "Aisle": "M", "Shelf": 6}
+{"Item_ID": "35-836-6718", "Name": "Ricotta Cheese", "Expiration_Date": "1/22/2025", "Warehouse_Location": "05 Canary Circle", "Expiring_Soon": false, "Stock_Quantity": 82, "Aisle": "Y", "Shelf": 8}
+{"Item_ID": "40-902-1995", "Name": "Asparagus", "Expiration_Date": "4/1/2025", "Warehouse_Location": "1519 Delaware Court", "Expiring_Soon": false, "Stock_Quantity": 171, "Aisle": "W", "Shelf": 5}
+{"Item_ID": "39-768-8205", "Name": "Egg (Turkey)", "Expiration_Date": "11/29/2025", "Warehouse_Location": "32 Rigney Terrace", "Expiring_Soon": false, "Stock_Quantity": 64, "Aisle": "C", "Shelf": 6}
+{"Item_ID": "54-758-4622", "Name": "Chocolate Biscuit", "Expiration_Date": "11/21/2025", "Warehouse_Location": "865 Eagle Crest Park", "Expiring_Soon": false, "Stock_Quantity": 66, "Aisle": "X", "Shelf": 2}
+{"Item_ID": "80-334-0215", "Name": "Grapes", "Expiration_Date": "6/22/2025", "Warehouse_Location": "611 Waubesa Circle", "Expiring_Soon": false, "Stock_Quantity": 106, "Aisle": "K", "Shelf": 5}
+{"Item_ID": "29-205-1132", "Name": "Sushi Rice", "Expiration_Date": "9/19/2025", "Warehouse_Location": "48 Del Sol Trail", "Expiring_Soon": false, "Stock_Quantity": 28, "Aisle": "P", "Shelf": 7}
+{"Item_ID": "18-107-7886", "Name": "Evaporated Milk", "Expiration_Date": "2/27/2025", "Warehouse_Location": "55309 6th Junction", "Expiring_Soon": false, "Stock_Quantity": 52, "Aisle": "Z", "Shelf": 4}
+{"Item_ID": "73-874-7534", "Name": "Pomegranate", "Expiration_Date": "12/18/2025", "Warehouse_Location": "901 Norway Maple Crossing", "Expiring_Soon": false, "Stock_Quantity": 196, "Aisle": "Y", "Shelf": 5}
+{"Item_ID": "33-807-7247", "Name": "Mozzarella Cheese", "Expiration_Date": "1/3/2025", "Warehouse_Location": "63464 Jana Court", "Expiring_Soon": false, "Stock_Quantity": 191, "Aisle": "Q", "Shelf": 3}
+{"Item_ID": "51-572-5497", "Name": "Orange", "Expiration_Date": "4/28/2025", "Warehouse_Location": "9516 Burrows Circle", "Expiring_Soon": false, "Stock_Quantity": 169, "Aisle": "T", "Shelf": 4}
+{"Item_ID": "76-854-0095", "Name": "White Sugar", "Expiration_Date": "12/28/2025", "Warehouse_Location": "7834 Cordelia Alley", "Expiring_Soon": false, "Stock_Quantity": 142, "Aisle": "S", "Shelf": 8}
+{"Item_ID": "86-273-9377", "Name": "White Rice", "Expiration_Date": "11/29/2025", "Warehouse_Location": "1 Hollow Ridge Park", "Expiring_Soon": false, "Stock_Quantity": 118, "Aisle": "D", "Shelf": 7}
+{"Item_ID": "17-647-0503", "Name": "Cod", "Expiration_Date": "8/20/2025", "Warehouse_Location": "0 Village Green Street", "Expiring_Soon": false, "Stock_Quantity": 21, "Aisle": "U", "Shelf": 1}
+{"Item_ID": "05-899-1428", "Name": "Avocado Oil", "Expiration_Date": "7/1/2025", "Warehouse_Location": "591 Maple Junction", "Expiring_Soon": false, "Stock_Quantity": 107, "Aisle": "I", "Shelf": 1}
+{"Item_ID": "44-634-8292", "Name": "Whole Wheat Flour", "Expiration_Date": "1/2/2025", "Warehouse_Location": "46 Orin Drive", "Expiring_Soon": false, "Stock_Quantity": 120, "Aisle": "U", "Shelf": 2}
+{"Item_ID": "57-562-2358", "Name": "Black Coffee", "Expiration_Date": "2/4/2025", "Warehouse_Location": "00 6th Parkway", "Expiring_Soon": false, "Stock_Quantity": 32, "Aisle": "Y", "Shelf": 8}
+{"Item_ID": "22-141-9798", "Name": "White Sugar", "Expiration_Date": "4/30/2025", "Warehouse_Location": "6 Nobel Junction", "Expiring_Soon": false, "Stock_Quantity": 61, "Aisle": "K", "Shelf": 4}
+{"Item_ID": "40-997-2786", "Name": "Yogurt", "Expiration_Date": "10/14/2025", "Warehouse_Location": "5551 Mallory Lane", "Expiring_Soon": false, "Stock_Quantity": 98, "Aisle": "A", "Shelf": 6}
+{"Item_ID": "76-027-4850", "Name": "Onion", "Expiration_Date": "6/24/2025", "Warehouse_Location": "425 Shasta Terrace", "Expiring_Soon": false, "Stock_Quantity": 49, "Aisle": "K", "Shelf": 8}
+{"Item_ID": "20-405-4865", "Name": "Milk", "Expiration_Date": "9/18/2025", "Warehouse_Location": "36483 Burning Wood Pass", "Expiring_Soon": false, "Stock_Quantity": 108, "Aisle": "V", "Shelf": 8}
+{"Item_ID": "85-510-2915", "Name": "White Bread", "Expiration_Date": "10/9/2025", "Warehouse_Location": "8 Merrick Lane", "Expiring_Soon": false, "Stock_Quantity": 2, "Aisle": "C", "Shelf": 4}
+{"Item_ID": "39-629-5554", "Name": "Egg (Goose)", "Expiration_Date": "2/5/2025", "Warehouse_Location": "267 International Plaza", "Expiring_Soon": false, "Stock_Quantity": 5, "Aisle": "P", "Shelf": 6}
+{"Item_ID": "99-137-1730", "Name": "Bread Flour", "Expiration_Date": "10/18/2025", "Warehouse_Location": "4105 Fair Oaks Parkway", "Expiring_Soon": false, "Stock_Quantity": 86, "Aisle": "I", "Shelf": 10}
+{"Item_ID": "24-228-6840", "Name": "Herbal Tea", "Expiration_Date": "11/28/2025", "Warehouse_Location": "68241 Hanson Circle", "Expiring_Soon": false, "Stock_Quantity": 114, "Aisle": "P", "Shelf": 9}
+{"Item_ID": "46-622-3434", "Name": "Jasmine Rice", "Expiration_Date": "7/23/2025", "Warehouse_Location": "2 Miller Lane", "Expiring_Soon": false, "Stock_Quantity": 16, "Aisle": "O", "Shelf": 4}
+{"Item_ID": "54-708-7327", "Name": "Jasmine Rice", "Expiration_Date": "4/15/2025", "Warehouse_Location": "8182 Hazelcrest Place", "Expiring_Soon": false, "Stock_Quantity": 105, "Aisle": "L", "Shelf": 3}
+{"Item_ID": "36-383-3677", "Name": "Corn Oil", "Expiration_Date": "2/2/2025", "Warehouse_Location": "7 Anzinger Lane", "Expiring_Soon": false, "Stock_Quantity": 33, "Aisle": "R", "Shelf": 5}
+{"Item_ID": "49-377-9731", "Name": "Lime", "Expiration_Date": "4/19/2025", "Warehouse_Location": "3 Meadow Valley Court", "Expiring_Soon": false, "Stock_Quantity": 91, "Aisle": "F", "Shelf": 10}
+{"Item_ID": "22-895-6595", "Name": "Rice Flour", "Expiration_Date": "11/21/2025", "Warehouse_Location": "34642 Carpenter Place", "Expiring_Soon": false, "Stock_Quantity": 149, "Aisle": "U", "Shelf": 7}
+{"Item_ID": "92-652-3737", "Name": "Zucchini", "Expiration_Date": "10/1/2025", "Warehouse_Location": "66330 Northridge Street", "Expiring_Soon": false, "Stock_Quantity": 69, "Aisle": "S", "Shelf": 3}
+{"Item_ID": "00-440-9568", "Name": "Blueberries", "Expiration_Date": "12/20/2025", "Warehouse_Location": "052 Northland Trail", "Expiring_Soon": false, "Stock_Quantity": 113, "Aisle": "D", "Shelf": 8}
+{"Item_ID": "24-989-3302", "Name": "Coconut", "Expiration_Date": "7/30/2025", "Warehouse_Location": "736 Redwing Parkway", "Expiring_Soon": false, "Stock_Quantity": 4, "Aisle": "L", "Shelf": 10}
+{"Item_ID": "73-117-6105", "Name": "Brown Rice", "Expiration_Date": "1/23/2025", "Warehouse_Location": "955 4th Road", "Expiring_Soon": false, "Stock_Quantity": 197, "Aisle": "M", "Shelf": 10}
+{"Item_ID": "84-624-0201", "Name": "Bread Flour", "Expiration_Date": "1/20/2025", "Warehouse_Location": "9 Eastlawn Crossing", "Expiring_Soon": false, "Stock_Quantity": 134, "Aisle": "Z", "Shelf": 5}
+{"Item_ID": "36-899-5324", "Name": "Orange", "Expiration_Date": "12/19/2025", "Warehouse_Location": "3 Bashford Court", "Expiring_Soon": false, "Stock_Quantity": 2, "Aisle": "Z", "Shelf": 7}
+{"Item_ID": "36-177-0573", "Name": "Egg (Turkey)", "Expiration_Date": "4/13/2025", "Warehouse_Location": "35 Portage Road", "Expiring_Soon": false, "Stock_Quantity": 79, "Aisle": "P", "Shelf": 5}
+{"Item_ID": "70-854-6891", "Name": "Sourdough Bread", "Expiration_Date": "11/12/2025", "Warehouse_Location": "24045 Bluestem Point", "Expiring_Soon": false, "Stock_Quantity": 146, "Aisle": "N", "Shelf": 4}
+{"Item_ID": "00-405-7428", "Name": "Apple", "Expiration_Date": "1/12/2025", "Warehouse_Location": "42 Mallory Court", "Expiring_Soon": false, "Stock_Quantity": 116, "Aisle": "Z", "Shelf": 10}
+{"Item_ID": "28-986-8001", "Name": "Pomegranate", "Expiration_Date": "10/13/2025", "Warehouse_Location": "4 Old Shore Avenue", "Expiring_Soon": false, "Stock_Quantity": 30, "Aisle": "P", "Shelf": 9}
+{"Item_ID": "91-426-3204", "Name": "Haddock", "Expiration_Date": "7/8/2025", "Warehouse_Location": "269 Dakota Trail", "Expiring_Soon": false, "Stock_Quantity": 130, "Aisle": "L", "Shelf": 6}
+{"Item_ID": "09-286-8107", "Name": "Greek Yogurt", "Expiration_Date": "12/15/2025", "Warehouse_Location": "75 Bunting Junction", "Expiring_Soon": false, "Stock_Quantity": 22, "Aisle": "W", "Shelf": 6}
+{"Item_ID": "30-591-7275", "Name": "Brown Rice", "Expiration_Date": "1/18/2025", "Warehouse_Location": "7020 Porter Trail", "Expiring_Soon": false, "Stock_Quantity": 100, "Aisle": "Q", "Shelf": 5}
+{"Item_ID": "38-924-3007", "Name": "Peas", "Expiration_Date": "4/17/2025", "Warehouse_Location": "6 Anthes Court", "Expiring_Soon": false, "Stock_Quantity": 116, "Aisle": "C", "Shelf": 5}
+{"Item_ID": "83-573-4586", "Name": "Sesame Oil", "Expiration_Date": "7/18/2025", "Warehouse_Location": "84575 Randy Point", "Expiring_Soon": false, "Stock_Quantity": 156, "Aisle": "F", "Shelf": 5}
+{"Item_ID": "33-670-6797", "Name": "Mackerel", "Expiration_Date": "7/5/2025", "Warehouse_Location": "2869 Hudson Drive", "Expiring_Soon": false, "Stock_Quantity": 110, "Aisle": "D", "Shelf": 3}
+{"Item_ID": "72-970-0239", "Name": "Sesame Oil", "Expiration_Date": "7/18/2025", "Warehouse_Location": "73966 Pond Trail", "Expiring_Soon": false, "Stock_Quantity": 197, "Aisle": "I", "Shelf": 8}
+{"Item_ID": "90-128-7973", "Name": "Black Rice", "Expiration_Date": "3/13/2025", "Warehouse_Location": "46989 Crescent Oaks Junction", "Expiring_Soon": false, "Stock_Quantity": 168, "Aisle": "S", "Shelf": 6}
+{"Item_ID": "11-604-6002", "Name": "Canola Oil", "Expiration_Date": "5/29/2025", "Warehouse_Location": "17640 Cottonwood Place", "Expiring_Soon": false, "Stock_Quantity": 29, "Aisle": "Y", "Shelf": 6}
+{"Item_ID": "83-763-5038", "Name": "Buttermilk", "Expiration_Date": "10/23/2025", "Warehouse_Location": "5 Armistice Parkway", "Expiring_Soon": false, "Stock_Quantity": 192, "Aisle": "D", "Shelf": 10}
+{"Item_ID": "19-214-5762", "Name": "Pear", "Expiration_Date": "10/13/2025", "Warehouse_Location": "7 Bonner Terrace", "Expiring_Soon": false, "Stock_Quantity": 124, "Aisle": "X", "Shelf": 7}
+{"Item_ID": "47-749-3277", "Name": "Powdered Sugar", "Expiration_Date": "9/13/2025", "Warehouse_Location": "502 Sachs Circle", "Expiring_Soon": false, "Stock_Quantity": 54, "Aisle": "G", "Shelf": 4}
+{"Item_ID": "43-164-5984", "Name": "Butter", "Expiration_Date": "11/23/2025", "Warehouse_Location": "70862 Lighthouse Bay Junction", "Expiring_Soon": false, "Stock_Quantity": 42, "Aisle": "X", "Shelf": 6}
+{"Item_ID": "11-815-7923", "Name": "Parmesan Cheese", "Expiration_Date": "8/6/2025", "Warehouse_Location": "89 Springs Alley", "Expiring_Soon": false, "Stock_Quantity": 102, "Aisle": "R", "Shelf": 4}
+{"Item_ID": "06-858-5680", "Name": "Sesame Oil", "Expiration_Date": "1/16/2025", "Warehouse_Location": "49476 Tony Hill", "Expiring_Soon": false, "Stock_Quantity": 58, "Aisle": "I", "Shelf": 3}
+{"Item_ID": "25-522-6043", "Name": "Gouda Cheese", "Expiration_Date": "2/3/2025", "Warehouse_Location": "890 Eggendart Pass", "Expiring_Soon": false, "Stock_Quantity": 190, "Aisle": "T", "Shelf": 9}
+{"Item_ID": "48-289-0604", "Name": "Vegetable Oil", "Expiration_Date": "6/20/2025", "Warehouse_Location": "5 Colorado Park", "Expiring_Soon": false, "Stock_Quantity": 21, "Aisle": "E", "Shelf": 4}
+{"Item_ID": "91-553-1774", "Name": "Feta Cheese", "Expiration_Date": "4/12/2025", "Warehouse_Location": "84 Washington Crossing", "Expiring_Soon": false, "Stock_Quantity": 104, "Aisle": "U", "Shelf": 8}
+{"Item_ID": "10-768-2443", "Name": "Multigrain Bread", "Expiration_Date": "12/19/2025", "Warehouse_Location": "4 Orin Lane", "Expiring_Soon": false, "Stock_Quantity": 7, "Aisle": "A", "Shelf": 9}
+{"Item_ID": "39-315-3936", "Name": "Heavy Cream", "Expiration_Date": "8/10/2025", "Warehouse_Location": "850 Glacier Hill Drive", "Expiring_Soon": false, "Stock_Quantity": 179, "Aisle": "R", "Shelf": 4}
+{"Item_ID": "28-956-1320", "Name": "Greek Yogurt", "Expiration_Date": "9/5/2025", "Warehouse_Location": "95 Onsgard Way", "Expiring_Soon": false, "Stock_Quantity": 63, "Aisle": "S", "Shelf": 6}
+{"Item_ID": "41-538-3129", "Name": "Digestive Biscuit", "Expiration_Date": "7/31/2025", "Warehouse_Location": "2 Carioca Crossing", "Expiring_Soon": false, "Stock_Quantity": 151, "Aisle": "Z", "Shelf": 3}
+{"Item_ID": "85-781-5386", "Name": "Salmon", "Expiration_Date": "12/28/2025", "Warehouse_Location": "10577 Thierer Plaza", "Expiring_Soon": false, "Stock_Quantity": 184, "Aisle": "B", "Shelf": 7}
+{"Item_ID": "91-290-9062", "Name": "Digestive Biscuit", "Expiration_Date": "9/25/2025", "Warehouse_Location": "9821 Novick Hill", "Expiring_Soon": false, "Stock_Quantity": 34, "Aisle": "Y", "Shelf": 6}
+{"Item_ID": "47-554-5780", "Name": "Haddock", "Expiration_Date": "4/17/2025", "Warehouse_Location": "1 Westport Crossing", "Expiring_Soon": false, "Stock_Quantity": 23, "Aisle": "Q", "Shelf": 7}
+{"Item_ID": "70-206-4860", "Name": "Egg (Quail)", "Expiration_Date": "9/17/2025", "Warehouse_Location": "75 High Crossing Junction", "Expiring_Soon": false, "Stock_Quantity": 193, "Aisle": "A", "Shelf": 9}
+{"Item_ID": "24-571-1080", "Name": "Kale", "Expiration_Date": "4/11/2025", "Warehouse_Location": "5325 Milwaukee Lane", "Expiring_Soon": false, "Stock_Quantity": 60, "Aisle": "R", "Shelf": 7}
+{"Item_ID": "21-816-1004", "Name": "Black Coffee", "Expiration_Date": "7/22/2025", "Warehouse_Location": "564 Hazelcrest Crossing", "Expiring_Soon": false, "Stock_Quantity": 173, "Aisle": "S", "Shelf": 4}
+{"Item_ID": "20-031-0532", "Name": "Mango", "Expiration_Date": "11/9/2025", "Warehouse_Location": "8239 Laurel Way", "Expiring_Soon": false, "Stock_Quantity": 54, "Aisle": "Y", "Shelf": 1}
+{"Item_ID": "77-827-0820", "Name": "Sesame Oil", "Expiration_Date": "11/9/2025", "Warehouse_Location": "8851 Superior Park", "Expiring_Soon": false, "Stock_Quantity": 70, "Aisle": "I", "Shelf": 10}
+{"Item_ID": "40-860-4532", "Name": "Arabica Coffee", "Expiration_Date": "2/5/2025", "Warehouse_Location": "988 Southridge Way", "Expiring_Soon": false, "Stock_Quantity": 188, "Aisle": "H", "Shelf": 3}
+{"Item_ID": "30-996-2526", "Name": "Green Beans", "Expiration_Date": "9/7/2025", "Warehouse_Location": "77 Monterey Avenue", "Expiring_Soon": false, "Stock_Quantity": 90, "Aisle": "X", "Shelf": 1}
+{"Item_ID": "18-199-5799", "Name": "Cheddar Cheese", "Expiration_Date": "10/30/2025", "Warehouse_Location": "87784 Blaine Way", "Expiring_Soon": false, "Stock_Quantity": 11, "Aisle": "F", "Shelf": 6}
+{"Item_ID": "95-354-8583", "Name": "Long Grain Rice", "Expiration_Date": "10/20/2025", "Warehouse_Location": "848 Mariners Cove Junction", "Expiring_Soon": false, "Stock_Quantity": 117, "Aisle": "C", "Shelf": 1}
+{"Item_ID": "87-391-9658", "Name": "Corn Oil", "Expiration_Date": "1/7/2025", "Warehouse_Location": "92486 Laurel Alley", "Expiring_Soon": false, "Stock_Quantity": 35, "Aisle": "G", "Shelf": 6}
+{"Item_ID": "71-516-1996", "Name": "Corn Oil", "Expiration_Date": "6/20/2025", "Warehouse_Location": "12 Truax Court", "Expiring_Soon": false, "Stock_Quantity": 171, "Aisle": "V", "Shelf": 1}
+{"Item_ID": "29-344-3658", "Name": "Lime", "Expiration_Date": "9/19/2025", "Warehouse_Location": "7 Talmadge Street", "Expiring_Soon": false, "Stock_Quantity": 55, "Aisle": "Q", "Shelf": 7}
+{"Item_ID": "17-253-5688", "Name": "Greek Yogurt", "Expiration_Date": "6/20/2025", "Warehouse_Location": "7 Hooker Way", "Expiring_Soon": false, "Stock_Quantity": 57, "Aisle": "B", "Shelf": 2}
+{"Item_ID": "31-745-6850", "Name": "Cabbage", "Expiration_Date": "11/1/2025", "Warehouse_Location": "081 Jana Lane", "Expiring_Soon": false, "Stock_Quantity": 123, "Aisle": "Z", "Shelf": 8}
+{"Item_ID": "75-672-4378", "Name": "Pomegranate", "Expiration_Date": "6/5/2025", "Warehouse_Location": "4 Esch Point", "Expiring_Soon": false, "Stock_Quantity": 83, "Aisle": "J", "Shelf": 1}
+{"Item_ID": "74-294-3760", "Name": "Peanut Oil", "Expiration_Date": "11/27/2025", "Warehouse_Location": "0109 Stang Terrace", "Expiring_Soon": false, "Stock_Quantity": 9, "Aisle": "T", "Shelf": 2}
+{"Item_ID": "60-198-7050", "Name": "Green Tea", "Expiration_Date": "3/19/2025", "Warehouse_Location": "5306 Arkansas Avenue", "Expiring_Soon": false, "Stock_Quantity": 173, "Aisle": "M", "Shelf": 10}
+{"Item_ID": "49-861-7823", "Name": "Coconut", "Expiration_Date": "8/10/2025", "Warehouse_Location": "26 Graceland Circle", "Expiring_Soon": false, "Stock_Quantity": 105, "Aisle": "X", "Shelf": 3}
+{"Item_ID": "63-270-7076", "Name": "Multigrain Bread", "Expiration_Date": "1/24/2025", "Warehouse_Location": "6 Lunder Parkway", "Expiring_Soon": false, "Stock_Quantity": 34, "Aisle": "S", "Shelf": 6}
+{"Item_ID": "06-611-5454", "Name": "Peanut Oil", "Expiration_Date": "11/16/2025", "Warehouse_Location": "16 Autumn Leaf Way", "Expiring_Soon": false, "Stock_Quantity": 132, "Aisle": "E", "Shelf": 9}
+{"Item_ID": "54-822-9009", "Name": "Cauliflower", "Expiration_Date": "1/3/2025", "Warehouse_Location": "64389 Arkansas Alley", "Expiring_Soon": false, "Stock_Quantity": 70, "Aisle": "X", "Shelf": 8}
+{"Item_ID": "58-219-0241", "Name": "Avocado Oil", "Expiration_Date": "6/4/2025", "Warehouse_Location": "938 Garrison Court", "Expiring_Soon": false, "Stock_Quantity": 62, "Aisle": "L", "Shelf": 2}
+{"Item_ID": "69-895-3397", "Name": "Cucumber", "Expiration_Date": "3/4/2025", "Warehouse_Location": "98 Melody Street", "Expiring_Soon": false, "Stock_Quantity": 122, "Aisle": "X", "Shelf": 7}
+{"Item_ID": "84-075-7647", "Name": "Canola Oil", "Expiration_Date": "2/22/2025", "Warehouse_Location": "51 7th Court", "Expiring_Soon": false, "Stock_Quantity": 113, "Aisle": "S", "Shelf": 1}
+{"Item_ID": "98-575-4736", "Name": "Cucumber", "Expiration_Date": "9/17/2025", "Warehouse_Location": "83 Pleasure Street", "Expiring_Soon": false, "Stock_Quantity": 35, "Aisle": "X", "Shelf": 9}
+{"Item_ID": "68-973-8812", "Name": "Sweet Potato", "Expiration_Date": "5/24/2025", "Warehouse_Location": "55 Cherokee Circle", "Expiring_Soon": false, "Stock_Quantity": 134, "Aisle": "P", "Shelf": 9}
+{"Item_ID": "71-067-3278", "Name": "Anchovies", "Expiration_Date": "8/16/2025", "Warehouse_Location": "5521 Wayridge Center", "Expiring_Soon": false, "Stock_Quantity": 139, "Aisle": "F", "Shelf": 3}
+{"Item_ID": "60-771-0879", "Name": "Blueberries", "Expiration_Date": "5/3/2025", "Warehouse_Location": "9 Karstens Center", "Expiring_Soon": false, "Stock_Quantity": 89, "Aisle": "J", "Shelf": 1}
+{"Item_ID": "39-913-2999", "Name": "Evaporated Milk", "Expiration_Date": "4/10/2025", "Warehouse_Location": "15 Oriole Park", "Expiring_Soon": false, "Stock_Quantity": 106, "Aisle": "X", "Shelf": 3}
+{"Item_ID": "66-378-7532", "Name": "Blueberries", "Expiration_Date": "5/6/2025", "Warehouse_Location": "88678 Bayside Park", "Expiring_Soon": false, "Stock_Quantity": 186, "Aisle": "N", "Shelf": 4}
+{"Item_ID": "82-538-4809", "Name": "Cabbage", "Expiration_Date": "10/24/2025", "Warehouse_Location": "700 Northland Crossing", "Expiring_Soon": false, "Stock_Quantity": 6, "Aisle": "N", "Shelf": 7}
+{"Item_ID": "36-679-4670", "Name": "Bell Pepper", "Expiration_Date": "1/13/2025", "Warehouse_Location": "5 Warner Court", "Expiring_Soon": false, "Stock_Quantity": 119, "Aisle": "N", "Shelf": 6}
+{"Item_ID": "89-181-4523", "Name": "Wild Rice", "Expiration_Date": "12/22/2025", "Warehouse_Location": "022 Prairie Rose Drive", "Expiring_Soon": false, "Stock_Quantity": 111, "Aisle": "P", "Shelf": 8}
+{"Item_ID": "88-401-3700", "Name": "Cauliflower", "Expiration_Date": "1/20/2025", "Warehouse_Location": "39014 Randy Court", "Expiring_Soon": false, "Stock_Quantity": 2, "Aisle": "G", "Shelf": 8}
+{"Item_ID": "08-213-2058", "Name": "Sour Cream", "Expiration_Date": "8/26/2025", "Warehouse_Location": "33 Clarendon Hill", "Expiring_Soon": false, "Stock_Quantity": 111, "Aisle": "V", "Shelf": 10}
+{"Item_ID": "63-918-8253", "Name": "Mango", "Expiration_Date": "9/29/2025", "Warehouse_Location": "917 Westerfield Terrace", "Expiring_Soon": false, "Stock_Quantity": 51, "Aisle": "H", "Shelf": 8}
+{"Item_ID": "88-602-8210", "Name": "Avocado Oil", "Expiration_Date": "9/28/2025", "Warehouse_Location": "042 Di Loreto Court", "Expiring_Soon": false, "Stock_Quantity": 153, "Aisle": "Y", "Shelf": 10}
+{"Item_ID": "44-480-9446", "Name": "Sunflower Oil", "Expiration_Date": "3/14/2025", "Warehouse_Location": "43591 East Road", "Expiring_Soon": false, "Stock_Quantity": 96, "Aisle": "Q", "Shelf": 10}
+{"Item_ID": "84-198-7276", "Name": "Peanut Oil", "Expiration_Date": "6/15/2025", "Warehouse_Location": "6 Harbort Hill", "Expiring_Soon": false, "Stock_Quantity": 171, "Aisle": "C", "Shelf": 1}
+{"Item_ID": "87-997-0228", "Name": "Watermelon", "Expiration_Date": "12/27/2025", "Warehouse_Location": "26240 Maple Wood Place", "Expiring_Soon": false, "Stock_Quantity": 48, "Aisle": "A", "Shelf": 1}
+{"Item_ID": "24-364-3341", "Name": "Egg (Turkey)", "Expiration_Date": "9/25/2025", "Warehouse_Location": "120 Gale Circle", "Expiring_Soon": false, "Stock_Quantity": 58, "Aisle": "A", "Shelf": 9}
+{"Item_ID": "11-338-4598", "Name": "Potato", "Expiration_Date": "2/23/2025", "Warehouse_Location": "9067 Valley Edge Park", "Expiring_Soon": false, "Stock_Quantity": 149, "Aisle": "S", "Shelf": 10}
+{"Item_ID": "96-503-7712", "Name": "White Bread", "Expiration_Date": "1/19/2025", "Warehouse_Location": "84148 Prairie Rose Center", "Expiring_Soon": false, "Stock_Quantity": 136, "Aisle": "Y", "Shelf": 6}
+{"Item_ID": "74-430-8245", "Name": "Peach", "Expiration_Date": "3/6/2025", "Warehouse_Location": "7 Roxbury Circle", "Expiring_Soon": false, "Stock_Quantity": 104, "Aisle": "K", "Shelf": 7}
+{"Item_ID": "80-227-6886", "Name": "Garlic", "Expiration_Date": "6/14/2025", "Warehouse_Location": "4374 Corry Terrace", "Expiring_Soon": false, "Stock_Quantity": 2, "Aisle": "I", "Shelf": 8}
+{"Item_ID": "81-268-5905", "Name": "Mackerel", "Expiration_Date": "6/14/2025", "Warehouse_Location": "85953 Clyde Gallagher Drive", "Expiring_Soon": false, "Stock_Quantity": 104, "Aisle": "A", "Shelf": 2}
+{"Item_ID": "74-642-2435", "Name": "Cauliflower", "Expiration_Date": "4/8/2025", "Warehouse_Location": "6292 Chive Street", "Expiring_Soon": false, "Stock_Quantity": 37, "Aisle": "N", "Shelf": 8}
+{"Item_ID": "07-679-1199", "Name": "Onion", "Expiration_Date": "10/15/2025", "Warehouse_Location": "1991 Kropf Way", "Expiring_Soon": false, "Stock_Quantity": 7, "Aisle": "W", "Shelf": 10}
+{"Item_ID": "08-396-2704", "Name": "White Sugar", "Expiration_Date": "5/10/2025", "Warehouse_Location": "160 Crowley Center", "Expiring_Soon": false, "Stock_Quantity": 17, "Aisle": "X", "Shelf": 5}
+{"Item_ID": "06-797-4963", "Name": "Pomegranate", "Expiration_Date": "8/16/2025", "Warehouse_Location": "1008 Welch Street", "Expiring_Soon": false, "Stock_Quantity": 109, "Aisle": "Q", "Shelf": 5}
+{"Item_ID": "98-652-9569", "Name": "Butter Biscuit", "Expiration_Date": "6/23/2025", "Warehouse_Location": "32 6th Lane", "Expiring_Soon": false, "Stock_Quantity": 115, "Aisle": "A", "Shelf": 3}
+{"Item_ID": "28-840-6096", "Name": "Pomegranate", "Expiration_Date": "9/12/2025", "Warehouse_Location": "92655 Pond Park", "Expiring_Soon": false, "Stock_Quantity": 59, "Aisle": "F", "Shelf": 8}
+{"Item_ID": "14-681-7035", "Name": "White Tea", "Expiration_Date": "5/18/2025", "Warehouse_Location": "95261 Morningstar Way", "Expiring_Soon": false, "Stock_Quantity": 52, "Aisle": "N", "Shelf": 3}
+{"Item_ID": "31-803-5001", "Name": "Asparagus", "Expiration_Date": "6/1/2025", "Warehouse_Location": "64 1st Plaza", "Expiring_Soon": false, "Stock_Quantity": 65, "Aisle": "V", "Shelf": 4}
+{"Item_ID": "26-690-3784", "Name": "Lettuce", "Expiration_Date": "4/6/2025", "Warehouse_Location": "19069 Cordelia Drive", "Expiring_Soon": false, "Stock_Quantity": 125, "Aisle": "C", "Shelf": 5}
+{"Item_ID": "55-803-3964", "Name": "Bread Flour", "Expiration_Date": "10/30/2025", "Warehouse_Location": "149 Valley Edge Point", "Expiring_Soon": false, "Stock_Quantity": 198, "Aisle": "S", "Shelf": 5}
+{"Item_ID": "45-634-0679", "Name": "Haddock", "Expiration_Date": "8/27/2025", "Warehouse_Location": "9 Anhalt Trail", "Expiring_Soon": false, "Stock_Quantity": 173, "Aisle": "D", "Shelf": 4}
+{"Item_ID": "83-727-0814", "Name": "Basmati Rice", "Expiration_Date": "6/5/2025", "Warehouse_Location": "28 Boyd Pass", "Expiring_Soon": false, "Stock_Quantity": 55, "Aisle": "N", "Shelf": 3}
+{"Item_ID": "08-226-5155", "Name": "Bell Pepper", "Expiration_Date": "4/27/2025", "Warehouse_Location": "81503 Graedel Plaza", "Expiring_Soon": false, "Stock_Quantity": 149, "Aisle": "Z", "Shelf": 1}
+{"Item_ID": "66-627-9752", "Name": "Trout", "Expiration_Date": "9/3/2025", "Warehouse_Location": "08 Randy Junction", "Expiring_Soon": false, "Stock_Quantity": 63, "Aisle": "E", "Shelf": 6}
+{"Item_ID": "51-583-6029", "Name": "Digestive Biscuit", "Expiration_Date": "2/18/2025", "Warehouse_Location": "83894 Delaware Plaza", "Expiring_Soon": false, "Stock_Quantity": 112, "Aisle": "M", "Shelf": 1}
+{"Item_ID": "12-093-9863", "Name": "Arborio Rice", "Expiration_Date": "6/26/2025", "Warehouse_Location": "6748 Mitchell Road", "Expiring_Soon": false, "Stock_Quantity": 175, "Aisle": "F", "Shelf": 2}
+{"Item_ID": "99-561-4871", "Name": "Haddock", "Expiration_Date": "7/28/2025", "Warehouse_Location": "952 Rowland Junction", "Expiring_Soon": false, "Stock_Quantity": 60, "Aisle": "A", "Shelf": 7}
+{"Item_ID": "74-548-9313", "Name": "Mango", "Expiration_Date": "2/12/2025", "Warehouse_Location": "1 Judy Street", "Expiring_Soon": false, "Stock_Quantity": 105, "Aisle": "Z", "Shelf": 4}
+{"Item_ID": "46-931-6897", "Name": "Cream", "Expiration_Date": "9/15/2025", "Warehouse_Location": "44 Kensington Road", "Expiring_Soon": false, "Stock_Quantity": 109, "Aisle": "U", "Shelf": 7}
+{"Item_ID": "82-711-0772", "Name": "Egg (Goose)", "Expiration_Date": "10/23/2025", "Warehouse_Location": "463 Oxford Crossing", "Expiring_Soon": false, "Stock_Quantity": 60, "Aisle": "D", "Shelf": 10}
+{"Item_ID": "51-312-8608", "Name": "Cheddar Cheese", "Expiration_Date": "4/29/2025", "Warehouse_Location": "406 Westridge Alley", "Expiring_Soon": false, "Stock_Quantity": 130, "Aisle": "J", "Shelf": 6}
+{"Item_ID": "24-972-6969", "Name": "Cheese", "Expiration_Date": "6/13/2025", "Warehouse_Location": "5862 Hooker Pass", "Expiring_Soon": false, "Stock_Quantity": 14, "Aisle": "K", "Shelf": 5}
+{"Item_ID": "35-299-0889", "Name": "Coconut Oil", "Expiration_Date": "4/21/2025", "Warehouse_Location": "95 Packers Lane", "Expiring_Soon": false, "Stock_Quantity": 158, "Aisle": "D", "Shelf": 8}
+{"Item_ID": "87-675-1506", "Name": "Strawberries", "Expiration_Date": "5/21/2025", "Warehouse_Location": "60241 Portage Point", "Expiring_Soon": false, "Stock_Quantity": 108, "Aisle": "L", "Shelf": 5}
+{"Item_ID": "19-112-1616", "Name": "Lettuce", "Expiration_Date": "6/28/2025", "Warehouse_Location": "7698 Logan Drive", "Expiring_Soon": false, "Stock_Quantity": 129, "Aisle": "D", "Shelf": 8}
