@@ -4,7 +4,7 @@ import requests
 import json
 
 # 🔐 Hardcoded Omni API key (for demo purposes ONLY)
-API_KEY = "JZPaq_oYAu30ggdL7dL1ApxaxtvzukFYrVY8xoyl9cg"
+API_KEY = "#####################################"
 OMNI_API_URL = "https://backend.omnidim.io/api/v1/voice/call"
 
 # 📞 Replace with real warehouse manager phone number (include country code)
