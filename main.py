@@ -299,7 +299,7 @@ if submitted and query:
 st.markdown("<hr/>", unsafe_allow_html=True)
 st.markdown("### 📞 Trigger Inventory Voice Alert")
 
-OMNI_API_KEY = "eCVeEkwvecsvqBCZJ_ZBQO_L65Es4u5WLduombR4qS8"
+OMNI_API_KEY = "#####################################"
 AGENT_ID = 2428
 DATA_PATH = "data/processed/output.jsonl"
 
