@@ -5,7 +5,7 @@ from collections import defaultdict
 from omnidimension import Client
 
 # OmniDimension credentials
-OMNI_API_KEY = "eCVeEkwvecsvqBCZJ_ZBQO_L65Es4u5WLduombR4qS8"
+OMNI_API_KEY = "#####################################"
 AGENT_ID = 2428
 PHONE_NUMBER = "+919080221016"
 
