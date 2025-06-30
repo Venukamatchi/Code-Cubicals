@@ -544,6 +544,8 @@ MIT License. See `LICENSE` file for details.
 
 ![image](https://github.com/user-attachments/assets/293bf4f9-95f9-4047-8541-9c43b38acae3)
 
+### SERVER:-
+![image](https://github.com/user-attachments/assets/dd469b81-54bf-43ae-8c08-a66730422cf6)
 
 
 
