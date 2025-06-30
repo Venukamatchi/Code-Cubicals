@@ -536,8 +536,13 @@ MIT License. See `LICENSE` file for details.
 
 
 
-*(Add your screenshots or GIFs here!)*
+![image](https://github.com/user-attachments/assets/8b9085b7-00b4-4975-b08e-9b289a9bcd54)
 
+
+![image](https://github.com/user-attachments/assets/a840d986-dc9e-4e0c-b8a7-7dff97f9461a)
+
+
+![image](https://github.com/user-attachments/assets/293bf4f9-95f9-4047-8541-9c43b38acae3)
 
 
 
