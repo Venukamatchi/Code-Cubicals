@@ -1,0 +1,10 @@
+AI + SERVER:=
+podman-compose up
+podman exec -it inventory-spotter-ai_ollama_1 bash
+
+HOSTING IN PUBLIC:=
+sudo tailscale set --operator=$USER
+tailscale funnel 8501
+
+packages:- 
+source ~/omni-env/bin/activate

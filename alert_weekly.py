@@ -7,7 +7,7 @@ from omnidimension import Client
 # OmniDimension credentials
 OMNI_API_KEY = "eCVeEkwvecsvqBCZJ_ZBQO_L65Es4u5WLduombR4qS8"
 AGENT_ID = 2428
-PHONE_NUMBER = "+917550041200"
+PHONE_NUMBER = "+919080221016"
 
 # Path to your inventory dataset
 DATA_PATH = "data/processed/output.jsonl"

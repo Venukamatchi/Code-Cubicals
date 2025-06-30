@@ -1,9 +1,12 @@
-streamlit
-openai
 langchain
+langchain-community
 faiss-cpu
+sentence-transformers
+ollama
 pandas
+streamlit
 pathway
-python-dotenv
 requests
+python-dotenv
+pypdf
 

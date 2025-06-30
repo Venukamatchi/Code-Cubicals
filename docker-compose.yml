@@ -1,0 +1,26 @@
+version: "3.8"
+
+services:
+  ollama:
+    image: docker.io/ollama/ollama:latest
+    ports:
+      - "11434:11434"
+    volumes:
+      - ollama_data:/root/.ollama
+
+  streamlit:
+    build:
+      context: .
+      dockerfile: Dockerfile.streamlit
+    ports:
+      - "8501:8501"
+    depends_on:
+      - ollama
+    volumes:
+      - .:/app
+    environment:
+      - OLLAMA_HOST=http://host.containers.internal:11434
+
+volumes:
+  ollama_data:
+
